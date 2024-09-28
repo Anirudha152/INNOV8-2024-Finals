@@ -1,0 +1,83 @@
+## Education:
+- Bachelor of Arts : Accounting :: University of Northern Iowa - Cedar Falls
+- Mathematics :: University of Northern Iowa - Cedar Falls
+- Computer Science :: University of Northern Iowa - Cedar Falls
+
+## Experience:
+- Accountant :: Prepared, amended and reviewed individual income tax returns. Assisted in individual tax planning and preparation of corporate income tax returns.
+- Data Processing Manager/Programmer :: Responsible for enhancements to software written in COBOL and CL on an IBM System i (AS/400, iSeries, Power System). Assist management and other staff with information needs and questions. Design, develop, test and document modifications to Accounts Receivable, Orders, Inventory, Growers, Billing, Miscellaneous Invoicing, General Ledger, Accounts Payable, Payroll, Bank Reconciliation and Budgeting. Provide information to management through reports, queries, spreadsheets, maps, written documents and verbally. Support and train employees in software changes. Schedule and monitor system backup; restore information when needed. Design and maintain resource and password security.
+- Supervisor of Accounting :: Supervised the General Accounting system, including the preparation of timely and accurate financial reports and the maintenance of the general ledger, subsidiary ledgers and related records in accordance with GAAP and the REA system of accounting. Supervised the non-energy related Accounts Receivable, Accounts Payable, Payroll, Cash Management and Work Order accounting systems work performed by three people. Responsible for employee training and performance evaluations within the department.
+- Programmer :: Modified existing software written in COBOL on the IBM System/36 to price products according to the client's specifications. Designed and programmed an Inventory system that interfaced with the existing invoicing system.
+- Programmer :: Responsible for program development and modifications in COBOL (5 years) and BASIC (5 years). Hardware included System/36, AS/400 (36 environment), PC's, 5120, System/23 and System/34. Software experience included General Accounting, Seed Industry, Pharmacy, Banking and Trucking. Consulted with customers to determine special needsand modified software accordingly. Backup to the support department in providing installation, training and telephone assistance to customers. Assisted the sales department with demonstrations and technical questions. Wrote software documentation.
+- Staff Accountant :: Responsible for the preparation of month-end financial statements, quarterly Call Reports and internal reports. Balanced or monitored the balancing of all subsidiary ledgers to general ledger on a monthly basis. Reviewed income and expense accounts for proper classification. Wrote BASIC computer programs. Participated in the bank's business development program.
+
+## Skills:
+- accounting
+- General Accounting
+- accounting systems
+- Accounts Payable
+- Accounts Receivable
+- AS/400
+- Automate
+- Backup
+- Bank Reconciliation
+- Banking
+- BASIC
+- Billing
+- Budgeting
+- business consulting
+- business development
+- Cash Management
+- cash management
+- CL
+- COBOL
+- Hardware
+- Certified Public Accountant
+- client
+- database
+- train employees
+- employee training
+- Financial
+- financial reports
+- financial statements
+- General Ledger
+- IBM
+- Inventory
+- Invoicing
+- KRONOS
+- marketing
+- access
+- Order Entry
+- Payroll
+- PC's
+- pricing
+- profit
+- program development
+- sales
+- sales reporting
+- software development
+- software documentation
+- spreadsheets
+- spreadsheet
+- tax
+- tax planning and preparation
+- tax returns
+- telephone
+- web portal
+- written
+- year 2000
+
+## Sector:
+- Software Development
+
+## Timeline:
+- JOB :: 01-2009 -- 02-2010 :: Accountant :: LOW
+- JOB :: 01-1993 -- CURRENT :: Data Processing Manager/Programmer :: HIGH
+- JOB :: 01-1991 -- 01-1992 :: Supervisor of Accounting :: MEDIUM
+- JOB :: 01-1991 -- 01-1992 :: Programmer :: LOW
+- JOB :: 01-1981 -- 01-1990 :: Programmer :: LOW
+- JOB :: 01-1980 -- 01-1981 :: Staff Accountant :: LOW
+- EDU :: 08-1980 -- 00-0000 :: Bachelor of Arts : Accounting :: LOW
+- EDU :: 08-1980 -- 00-0000 :: Mathematics :: LOW
+- EDU :: 08-1980 -- 00-0000 :: Computer Science :: LOW
+- AWD :: 05-1980 -- 00-0000 :: Passed Certified Public Accountant exam :: LOW

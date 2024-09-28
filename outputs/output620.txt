@@ -1,0 +1,125 @@
+## Education:
+- MS : Information Management :: University of Maryland
+- B.E : Computer Engineering :: Mumbai University
+
+## Experience:
+- Business Systems Analyst I :: Acted as lead BSA on client team to drive consistency and support projects spanning multiple regional databases and support teams Primary contact for client, client partners and other stakeholders, managing daily responsibilities associated with delivering multi-channel database marketing programs. Responsibilities include working with client and other stake holders to understand marketing program objectives and business rules that help define the metrics for program measurement Partner with the client, client partners and other stakeholders to define campaign audience requirements, program specifications and business requirements
+- IT Analyst Intern :: Assisted IT Admin for managing user access rights, user groups and documentation upload on MS SharePoint Analyzed business applications to determine if changes or upgrades are required by business users or processes Gathered business requirements and converted them into detailed technical and functional specifications Served as a technical liaison between end- users & application vendors to obtain solutions for application issues using HEAT ticketing system Tested vendor solutions and newly modified systems to ensure they meet client specifications Generate customized reports using Business Intelligence tools to meet user requirements
+- IT Support :: Used Sys-Aid ticketing software for handling service requests from library staff Responsible for troubleshooting and maintenance of hardware and software devices Maintained Local Area Network of UM Libraries and performed Ghosting, G-Disking processes
+
+## Skills:
+- Database
+- Marketing
+- Systems Analyst
+- Project Management
+- Business Requirements
+- Solutions
+- Metrics
+- Qa
+- Documentation
+- Accountable For
+- Accounts To
+- Adjustments
+- And Account
+- Basis
+- Campaign Management
+- Client Communication
+- Clients
+- Consumer Marketing
+- Credit
+- Data Analysis
+- Data Quality
+- Financial Services
+- Mapping
+- Marketing Analysis
+- Marketing Campaign
+- Marketing Research
+- Process Documentation
+- Product Manager
+- Program Management
+- Public Relations
+- Quality Control
+- Requirements Gathering
+- Topo
+- Databases
+- Bsa
+- Business Systems Analysis
+- Change Management
+- Crm
+- Crm Marketing
+- Customer Relationship Management
+- Data Integration
+- Database Marketing
+- Deployment
+- Gap Analysis
+- Integration
+- Integrator
+- Qa Process
+- Root Cause Analysis
+- Satisfaction
+- Segmentation
+- Access
+- Business Intelligence
+- Functional Specifications
+- Liaison
+- Microsoft Sharepoint
+- Ms Sharepoint
+- Sharepoint
+- User Access
+- Writing Functional
+- C++
+- Data Warehouse
+- Front End
+- Front End Design
+- Front-end
+- Html
+- Informatica
+- Java
+- Lamp
+- Lamp Stack
+- Life Cycle
+- Linux
+- Microsoft Project
+- Ms Project
+- Ms Sql Server
+- Ms Sql Server 2005
+- Ms Visio
+- Mysql
+- Oracle
+- Perl
+- Rational
+- Rational Rose
+- Roi
+- Sap
+- Sorting
+- Sql
+- Sql Server
+- Sql Server 2005
+- Subject Matter Expert
+- Technical Specifications
+- Translated
+- Uml
+- Visio
+- Warranty
+- Windows Xp
+- Xml
+- Ghosting
+- It Support
+- Maintenance
+- Architecture
+- Database Design
+- Information Architecture
+- Php
+- Software Requirements
+
+## Sector:
+- Marketing
+
+## Timeline:
+- JOB :: 09-2014 -- CURRENT :: Business Systems Analyst I :: MEDIUM
+- INT :: 05-2011 -- 12-2011 :: IT Analyst Intern :: LOW
+- INT :: 05-2010 -- 07-2010 :: IT Support :: LOW
+- EDU :: 00-2009 -- 00-2011 :: MS in Information Management :: LOW
+- EDU :: 00-2009 -- 00-2009 :: B.E in Computer Engineering :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Active member of Student Council of Asian Students at University of Maryland :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Organized workshops for SQL Server 2005 during the technical fest at Mumbai University :: LOW

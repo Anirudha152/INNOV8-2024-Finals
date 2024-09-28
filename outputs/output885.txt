@@ -1,0 +1,60 @@
+## Education:
+- Computer Information System /Network Engineering :: Barry University
+- Project Management Professional :: Florida Atlantic University
+- Six sigma GreenBelt :: Florida Atlantic University
+
+## Experience:
+- Network Administrator :: Establishes networking environment by designing system configuration; directing system installation; defining, documenting, and enforcing system standards. Maximizes network performance by monitoring performance; troubleshooting network problems and outages; scheduling upgrades; collaborating with network architects on network optimization. Secures network system by establishing and enforcing policies; defining and monitoring access. Reporting network operational status by gathering, prioritizing information; managing projects. Maximizing corporate network services uptime. Giving over the phone, email and remote support to customers. Implementing network security measures to protect data, software, and hardware. Utilizes Active Directory to manage user accounts, create groups, and computer accounts Administering a Microsoft Windows Server network of servers. Investigating problems and then making technical recommendations. Resolving network operational issues. Installing and testing server software on a variety of platforms.
+- Network Administrator :: Establishes networking environment by designing system configuration; directing system installation; defining, documenting, and enforcing system standards. Maximizes network performance by monitoring performance; troubleshooting network problems and outages; scheduling upgrades; collaborating with network architects on network optimization. Secures network system by establishing and enforcing policies; defining and monitoring access. Reporting network operational status by gathering, prioritizing information; managing projects. Maximizing corporate network services uptime. Giving over the phone, email and remote support to customers. Implementing network security measures to protect data, software, and hardware. Utilizes Active Directory to manage user accounts, create groups, and computer accounts Administering a Microsoft Windows Server network of servers. Investigating problems and then making technical recommendations. Resolving network operational issues. Installing and testing server software on a variety of platforms.
+
+## Skills:
+- A+Certification
+- ActiveDirectory
+- Cisco
+- hardware
+- designing
+- directing
+- Disasterrecovery
+- email
+- ITIL
+- LAN
+- managing
+- access
+- MicrosoftCertified
+- MicrosoftCertifiedSystemsEngineer
+- Windows7
+- MicrosoftWindows
+- windowsXP
+- NetworkAdministrator
+- Networkmanagement
+- NetworkHardware
+- NetworkDesignandImplementation
+- Networksecurity
+- NetworkTroubleshooting
+- Network
+- Networking
+- NovellNetWare
+- optimization
+- policies
+- ProjectManagement
+- Proxy
+- Reporting
+- scheduling
+- Servers
+- SixSigma
+- switches
+- systemconfiguration
+- Technicaldocumentation
+- phone
+- troubleshooting
+- upgrades
+- WindowsServer
+
+## Sector:
+- Network Administration
+
+## Timeline:
+- JOB :: 02-2006 -- 03-2016 :: Network Administrator :: MEDIUM
+- EDU :: 00-0000 -- 00-0000 :: Computer Information System /Network Engineering :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Project Management Professional :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Six sigma GreenBelt :: LOW

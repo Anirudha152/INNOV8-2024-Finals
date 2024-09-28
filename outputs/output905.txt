@@ -1,0 +1,106 @@
+## Education:
+- Certificate of Completion, Microsoft Certified Systems Engineer Training :: ComputerTraining.Com
+- B.S : Business Finance :: Towson University
+
+## Experience:
+- Information Technology Consultant :: Basic computer network setup and troubleshooting. Install software and printers. Computer repair and upgrade for individuals. Microsoft Excel spreadsheet creation.
+- Office Administrator/Billing Assistant :: Assisted with administrative duties in the operations departments. Created airtime spreadsheets and assists with revenue reporting. Assisted with data entry into an internal billing system (UCAP). Assisted with downloading various airtime carrier's invoices and data files. Assisted with monthly airtime billing using UCAP. Assisted with the activation/deactivation of SIMs/devices. Ran usage and airtime reports as requested by the customer. Reconciled each carrier's charges to UCAP output. Placed orders, received and shipped packages.
+- Funding & Settlement Coordinator/Office Manager :: Responsible for getting clients' assets re-titled into their respective trusts. Enter client data onto database and legal document generation software. Build long-term relationships with trust maintenance clients. Order office supplies and legal document supplies. Answer phones. Assist clients with questions, problems and concerns. Greet clients when visiting office for a meeting. Schedule appointments. Manage attorney's calendar. Print legal documents and prepare delivery binders. Review legal documents for formatting errors and missing information. Witness clients' signatures on legal documents. Notarize certain signatures. Generate funding instructions for trust clients both Family Legacy and "Documents Only" clients. Troubleshoot and maintain computer network and workstations.
+- Student Operations Specialist :: Prepared student reports for multiple state regulatory agencies and national accreditation agency, ACCET (Accrediting Council for Continuing Education and Training.) Answered phones. Data entry of new enrollments and materials assigned to each. Reported inventory and distribution of student classroom materials data to CFO on a monthly basis. Developed complex spreadsheets to analyze qualitative and quantitative data using Excel and Visual Basic. Published & updated student policy catalog. Responsible for protecting students' privacy when records were requested by third parties. Managed course scheduling for all 25 schools as well as all student records and transcripts. Reviewed feedback from potential students after first visit to school for quality control purposes. Maintained records of complaints. Collaborated on written responses.
+- Information Technology Coordinator :: Responsible for installation and troubleshooting Windows 2000 workstations, hardware, printers, peripherals, and software. Managed telecommunications system administration, programming, and troubleshooting. Trained brokers and new employees on system and applications. Processed stock certificates and checks for deposit into respective client account. Answered main phone and directed calls to requested personnel. Supervised Operations staff of two cashiers and one receptionist. Maintained records for annual audits and SEC regulation compliance. Resolved trade errors committed by brokers. Balanced error accounts for all branches. Earned series of fast-track promotions from New Accounts Clerk, Lead Cashier, Operations Manager, to IT Coordinator. Entrusted with maintaining accuracy and credit/debit balance of millions of dollars in client accounts. Became primary technical troubleshooter and "go to" person for entire Lutherville branch (93 work stations) as well as 6 remote satellite offices.
+
+## Skills:
+- administrative duties
+- Adobe Acrobat
+- Schedule appointments
+- asset management
+- agency
+- attorney
+- balance
+- Basic
+- billing
+- billing system
+- Cashier
+- catalog
+- Com
+- Computer repair and upgrade
+- Hardware
+- Council
+- credit
+- CRM
+- Client
+- clients
+- Data entry
+- database
+- debit
+- delivery
+- fast
+- financial
+- information technology
+- inventory
+- laptop computers
+- Law
+- legal
+- legal documents
+- marketing
+- materials
+- Access
+- Microsoft Certified Systems Engineer
+- Microsoft Excel
+- MS Excel
+- Excel
+- office
+- Outlook
+- PowerPoint
+- MS Windows
+- Windows 2000
+- 2000
+- MS Windows XP
+- MS Word
+- network setup
+- network
+- Notary Public
+- Order office supplies
+- organizational
+- peripherals
+- personnel
+- printers
+- profit
+- programming
+- quality control
+- receptionist
+- reporting
+- routers
+- scheduling
+- servers
+- SIMs
+- Software engineering
+- Install software
+- spreadsheets
+- spreadsheet
+- SQL
+- system administration
+- telecommunications
+- phones
+- phone
+- Answer phones
+- Troubleshoot
+- troubleshooting
+- upgrade
+- Vista
+- Visual Basic
+- Visual Basic programming
+- written
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 12-2009 -- 02-2016 :: Information Technology Consultant :: MEDIUM
+- JOB :: 08-2015 -- 01-2016 :: Office Administrator/Billing Assistant :: LOW
+- JOB :: 08-2011 -- 08-2015 :: Funding & Settlement Coordinator/Office Manager :: MEDIUM
+- JOB :: 01-2002 -- 12-2009 :: Student Operations Specialist :: MEDIUM
+- JOB :: 05-1996 -- 05-2001 :: Information Technology Coordinator :: MEDIUM
+- EDU :: 00-0000 -- 01-2002 :: Certificate of Completion, Microsoft Certified Systems Engineer Training :: LOW
+- EDU :: 00-1991 -- 01-1991 :: B.S : Business Finance :: LOW
+- AWD :: 00-0000 -- 02-2002 :: Microsoft Certified Systems Engineer :: LOW

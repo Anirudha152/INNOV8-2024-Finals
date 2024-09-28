@@ -1,0 +1,97 @@
+## Education:
+- B.S : Computer Networking Systems :: ITT Technical Institute
+
+## Experience:
+- Director of Information Technology :: Serves as the main point of contact on all I.T. related matters. Located at the corporate headquarters supporting over 60 users locally and 150 users remotely. Worked with service providers and vendors cutting IT budget over 45%. Implemented new MPLS network and Phone system saving the company 180k a year. Oversees all IT financials. Established an IT Governance department to focus on managing systems quality assurance, PCI security, and audit change management, IT purchasing and administration, IT contracts and vendor management, and IT financial capital and expense management. Identifying and providing standards for gathering information for use in trend analysis and reporting information to company leaders.
+- Network Engineer/I.T. Manager :: Supervised and led IT infrastructure team (including Help Desk). Worked with service providers and vendors cutting IT budget over 15%. Managed and designed IT security solutions and policies for all locations. Oversaw data center operations being hands on in all areas related to infrastructure and security. Located at corporate headquarters supporting over 200 users locally and 1500 users remotely. Manage local/wide area networks for optimal data and VoIP connectivity to over 300 sites including 3 warehouses, 1 corp office and 1 co- location. Served as lead network engineer in network (WAN, LAN, VoIP) problems and emergencies. Troubleshoot and resolve network production problems. Document network problems and resolutions for future reference. Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current system. Manage/troubleshoot Cisco UC systems including third party integration and mobile chat/video clients. Worked as lead network engineer with system administrators in setup of hardware/software networking modules for production and development environments. Maintained/optimized Cisco ASA/IDS/ISE/ACS/Nexus 7K/UCCX/Cisco Call Manager/Cisco Unity/Cisco Attendant Console/Cisco Jabber/Cisco Contact Center Express/Cisco Prime/WCS to ensure network stability and maximum uptime. Establishes network specifications by conferring with users; analyzing workflow, access, information and security requirements, designing router and firewall administration, interface configurations and routing protocols. Ensured interoperability between vendor specific hardware/applications for network access/usage. VPN/SSL VPN).
+- Network Administrator/Help Desk Manager :: Served as technical specialist in network problems and emergencies. Troubleshoot and resolve network production problems. Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current system. Document network problems and resolutions for future reference. Manage local/wide area networks for optimal data and VoIP connectivity to over 300 sites including 3 warehouses, 1 corp office and 1 co- location. Administers/troubleshoot Cisco UC systems including third party integration and mobile chat/video clients. Provide data and reporting of KPI's and trends to IT department and others in ad-hoc, weekly, monthly and as needed. Coordinates with system engineers in setup of hardware/software networking modules for production and development environments. Ensures interoperability between vendor specific hardware/applications for network access/usage. VPN/SSL VPN). Assisted in the deployment of Nexus 7.
+- Help Desk Analyst :: Provided help desk support for over 7,000 Taco Bell stores. Troubleshoot all issues dealing with the P.O.S., TACO computer, and all the connections in the store. Log all calls in Remedy(software), follow up on all calls that weren't resolved, and we used Putty(software) to access the back end of their computer.
+- Help Desk Support/IT Technician/Network Admin :: Provided first level help desk IT support in a 300 user environment spanning over 15 remote sites. Troubleshoot hardware, software and connectivity issues for a mixed Windows 2003/2008 Server, mixed Linux , XP desktop environment, Cisco routers, and Cisco Switches. Installed, repaired, maintained and upgraded desktop/notebook computers; pre-configured cisco routers, cisco switches, network printers and troubleshoot printer failures. Web filter administrator/Barracuda.
+
+## Skills:
+- ad
+- budget
+- change management
+- Cisco IOS
+- Cisco
+- Cisco Routers
+- Hardware
+- contracts
+- clients
+- Database
+- Dell
+- Dell PowerEdge servers
+- designing
+- ERP
+- financials
+- financial
+- Firewall
+- focus
+- Groupwise
+- help desk support
+- Help Desk
+- HP
+- IBM
+- IDS
+- IT support
+- LAN
+- Laptops
+- notebook computers
+- Linux
+- managing
+- MAS90
+- Access
+- Exchange
+- Office
+- Windows
+- Windows XP
+- network engineer
+- network printers
+- network
+- Networking
+- networks
+- Operating Systems
+- PCI
+- Phone system
+- policies
+- POS
+- Prime
+- printer
+- Printers
+- protocols
+- purchasing
+- quality assurance
+- Express
+- reporting
+- research
+- router
+- routing
+- Scanners
+- SCO Unix
+- SQL
+- SSL
+- switches
+- Cisco Switches
+- Symantec
+- trend
+- Troubleshoot
+- upgrades
+- vendor management
+- video
+- VPN
+- Vista
+- VoIP
+- WAN
+- Windows Server
+- workflow
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 01-2015 -- CURRENT :: Director of Information Technology :: HIGH
+- JOB :: 01-2013 -- 01-2015 :: Network Engineer/I.T. Manager :: MEDIUM
+- JOB :: 01-2010 -- 01-2013 :: Network Administrator/Help Desk Manager :: MEDIUM
+- JOB :: 01-2010 -- 01-2010 :: Help Desk Analyst :: LOW
+- JOB :: 01-2009 -- 00-2009 :: Help Desk Support/IT Technician/Network Admin :: LOW
+- EDU :: 00-0000 -- 00-0000 :: B.S : Computer Networking Systems :: LOW

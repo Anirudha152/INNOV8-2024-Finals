@@ -1,0 +1,32 @@
+## Education:
+- B.S : Riddle Aeronautical University
+- Professional Aeronautics :: U.S. Navy Aviation F/A-18 Hydraulic/Structural Repair School
+- *U.S Navy Aircraft Paint Touch Up and Markings :: 00-0000 -- 00-0000
+- *Catia V :: 00-0000 -- 00-0000
+
+## Experience:
+- Quality Control Inspector :: Completes classroom and on-the-job training to acquire, exercise, and maintain knowledge of the duties required to perform all inspection task ranging from First Article inspections to process inspections. Reviewing written quality or inspection procedures for adequacy and evaluating the implementation and effectiveness of quality/inspection systems, including work plans. Reviewing production activities and capabilities considering contract quality requirements. Analyzing quality data to detect unsatisfactory trends or weaknesses in the quality/inspection system. Reading, interpreting, and applying technical data such as blueprints, engineering drawings, product specifications, or technical manuals to ensure overall customer satisfaction is being adhered Verifying by test or inspection, using sampling inspection or intensive product inspection techniques, that products comply with requirements prior to acceptance.
+- Aviation Structural Mechanic :: Performs acceptance inspection on all inbound aircraft to assess the total damage before beginning overall Reset. Orders necessary components to complete Aircraft reset Prioritized workload and preliminary mechanical inspection of critical flight controls. Fabricated, processed, and installed aircraft critical components that were damaged from hostile flight operations. Assisted electrical runs and ring outs to ensure the turnaround time was achieved.
+- Aviation Structural Mechanic :: Qualified to perform various inspections on a periodic basis to include Phase, hydraulic, landing gear and flight control inspections. Implements risk management techniques while performing quality maintenance and inspections on the F/A-18 aircraft. Trains and supervises personnel at all experience and skill levels to ensure a cohesive working team. Continuously reviews and interprets blueprints and technical drawings to gather customer requirements needed for manufacturing. Utilize technical manuals/directives to enable proper work instructions while performing aircraft phase maintenance.
+- Aviation Structural Mechanic / Grade E-5 :: Installed/replaced pneumatic actuators and servos, landing gear and flight controls on the F/A-18 hornet. On board the USS Nimitz CVN-68 Aircraft Carrier for a six-month deployment during Operation Iraqi Freedom. Collateral Duty Inspector inspecting 14-day, 28-day, daily, and turnaround inspections ensuring aircraft airworthiness prior to flight.
+
+## Skills:
+- blueprints
+- CatiaV
+- inspecting
+- inspection
+- Inspector
+- riskmanagement
+- technicalmanuals
+
+## Sector:
+- Aerospace
+
+## Timeline:
+- JOB :: 10-2011 -- CURRENT :: Quality Control Inspector :: MEDIUM
+- JOB :: 08-2009 -- 05-2011 :: Aviation Structural Mechanic :: MEDIUM
+- JOB :: 11-2007 -- 08-2009 :: Aviation Structural Mechanic :: MEDIUM
+- JOB :: 10-1999 -- 10-2007 :: Aviation Structural Mechanic / Grade E-5 :: MEDIUM
+- EDU :: 00-0000 -- 00-0000 :: Professional Aeronautics :: LOW
+- EDU :: 00-0000 -- 00-0000 :: *U.S Navy Aircraft Paint Touch Up and Markings :: LOW
+- EDU :: 00-0000 -- 00-0000 :: *Catia V :: LOW

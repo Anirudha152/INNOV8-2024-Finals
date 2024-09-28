@@ -1,0 +1,61 @@
+## Education:
+- Master of Technology Management :: STEVENS INSTITUTE OF TECHNOLOGY
+- Bachelor of Science :: SETON HALL UNIVERSITY
+
+## Experience:
+- Finance Consultant :: Prepares monthly payment reporting and analytics dashboard for senior management. Ad hoc reporting from data warehouses utilizing Teradata SQL and Oracle Business Intelligence Enterprise. Data analysis and tracking leveraging Access databases and Excel pivot tables, charts and VBA/macros. Supports M&A/divestitures and new product launches. Provides analysis to assist negotiations with credit card companies and payment processors.
+- Senior Financial Analyst :: Finance liaison for indirect sales channel. Provided financial reporting and analysis to Sales and Marketing, covering 282 agents at 5,744 locations. Developed credit review processes in preparation of iPhone launches. Active stakeholder on behalf of FP&A for multiple initiatives. Provided insightful recommendations for a broad range of decision-making requirements. Participated in the development of business cases for projects. Developed and implemented B2B payment acceptance strategy, including optimization of commercial credit cards. Generated annual credit card interchange savings of $3.9M+ through various programs. Presented strategy and performance tracking to senior management. System administrator and project manager for ReconNET reconciliation & journalization system. Was responsible for keeping system support costs and new development expenses in line with budget. Supported Sarbanes Oxley testing, internal/external audits and month end close. Temporary assignment as Finance Manager to oversee launch of Softcard mobile wallet payment processing in trial markets.
+- Retail Analyst :: Prepared and distributed weekly/monthly aging reports for executive management. Partnered with fraud, audit and compliance teams to identify and address risk management concerns. Reconciled sales vs. deposits for ~90 retail locations on a daily basis. Investigated and reported significant variances.
+- Treasury Assistant :: Processed journal entries and assisted with other month end close duties. Led recovery of lost revenue associated with returned check payments.
+
+## Skills:
+- Ad
+- B2B
+- budget
+- BusinessIntelligence
+- charts
+- credit
+- Dataanalysis
+- datawarehouses
+- databases
+- decision-making
+- executivemanagement
+- seniormanagement
+- externalaudits
+- Finance
+- FP&A
+- financialreporting
+- macros
+- Marketing
+- Access
+- Excel
+- monthendclose
+- negotiations
+- Enterprise
+- optimization
+- Oracle
+- paymentprocessing
+- pivottables
+- processes
+- processors
+- reporting
+- retail
+- riskmanagement
+- Sales
+- SarbanesOxley
+- SQL
+- strategy
+- Systemadministrator
+- Teradata
+- VBA
+
+## Sector:
+- Finance
+
+## Timeline:
+- JOB :: 02-2016 -- CURRENT :: Finance Consultant :: MEDIUM
+- JOB :: 04-2009 -- 02-2016 :: Senior Financial Analyst :: MEDIUM
+- JOB :: 02-2007 -- 04-2009 :: Retail Analyst :: LOW
+- JOB :: 05-2005 -- 02-2007 :: Treasury Assistant :: LOW
+- EDU :: 00-2014 -- 00-2014 :: Master of Technology Management :: LOW
+- EDU :: 00-2005 -- 00-2005 :: Bachelor of Science :: LOW

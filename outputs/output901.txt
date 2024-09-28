@@ -1,0 +1,89 @@
+## Education:
+- Associate of Applied Science Computer Science :: Minnesota School of Business
+
+## Experience:
+- Freelance IT Consultant :: Worked closely with technology vendors and distributors to gain access to equipment, software and accessories to keep technology costs within budget. Designed and implemented PC and laptop re-imaging process to lower operating system installation and configuration from 14 hours down to 1 1/2 hours per computer. Provided expert technical support and problem resolution to all customers.
+- Information Technology Specialist :: Acting as liaison between all departments to meet and exceed industry standards for technology requirements, business operations and Network security. Developing and managing project plans and reporting status updates to the IT Director, COO and Executive Director. Increasing efficiency of infrastructural technologies and organizational processes. Executing a self-created business plan designed to lower overall business operations cost by 81%. Training over 400+ employees to use Windows 7 Professional, Windows 8.1 as well as; other Microsoft Office products. Creating a strategic business plan to join technology and business operations together. Upgrading Network hardware, software and accessories. Advising and assisting in IT infrastructure implementation and management processes. Sharing Network and systems management responsibilities. Overseeing remote client support and services. Finalizing a migration from a Novell Network to Microsoft Active Directory on Windows Server 2012. Designing and planning to install Microsoft System Center Configuration Manager SCCM). Writing batch scripts to allow 200+ clients to access Microsoft Terminal Services in an Active Directory environment.
+- Information Technology Consultant :: Provided consultation for appropriate business software and efficient hardware solutions. Acted as liaison between my clients, vendors and product distributors. Configured LAN's and WLAN's. Designed, tested, installed and monitored client Networks, computers, home theater and multi-media equipment. Analyzed system and registry data for infected computers and servers. Sold and installed highly efficient Network equipment for quicker database response times.
+- Help Desk Specialist :: Provided technical support for all network applications. Monitored and advised for standards relating to client-side interfaces, website design and graphics development. Served as an operating system expert and provided advanced technical support for all employees within the school district. Improved reliability of education software, systems and databases. Worked with clients to analyze computing inefficiencies, then recommended and implemented appropriate technologies that fit within the school district's budget. Maintained composure and patience when faced with difficult customer situations. Assisted in migrating from a Novell Network to a Microsoft Active Directory environment on Windows Server 2008. Shared the task of re-imaging 3000 computers with a self-created, custom built Windows 7 Professional to complete an operating system migration from Windows XP.
+
+## Skills:
+- ActiveDirectory
+- ApplicationDevelopment
+- budget
+- BusinessManagementandDevelopment
+- businessoperations
+- businessplan
+- C++
+- hardware
+- Networkandsystems
+- consultation
+- Consulting
+- client
+- clients
+- clientsupport
+- databases
+- database
+- Designing
+- Documentmanagement
+- graphics
+- HTML
+- imaging
+- Informationsecurity
+- InformationTechnology
+- Java
+- LAN
+- Director
+- managing
+- access
+- C#
+- MicrosoftOffice
+- MicrosoftOffice products
+- Windows7
+- Windows
+- Windows8.1
+- Windows2000
+- 2000
+- MicrosoftWindowsXP
+- WindowsXP
+- Migration
+- multi-media
+- NetworkAdministration
+- Networkhardware
+- Networksecurity
+- Network
+- Networks
+- NovellNetwork
+- operatingsystem
+- organizational
+- PCRepairandSupport
+- Copier
+- PHP
+- Printer
+- problemresolution
+- processes
+- projectplans
+- reporting
+- servers
+- scripts
+- Softwaredesign
+- MSSQL
+- SQL
+- strategic
+- technicalsupport
+- systemssupport
+- Upgrading
+- Vista
+- VisualBasic
+- websitedesign
+- XML
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 00-2007 -- 12-2012 :: Information Technology Consultant :: MEDIUM
+- JOB :: 08-2011 -- 04-2012 :: Help Desk Specialist :: LOW
+- JOB :: 04-2012 -- CURRENT :: Information Technology Specialist :: MEDIUM
+- JOB :: 00-2007 -- 12-2012 :: Freelance IT Consultant :: MEDIUM
+- EDU :: 00-2012 :: Associate of Applied Science Computer Science :: LOW

@@ -1,0 +1,35 @@
+## Education:
+- Bachelor of Science :: Texas A&M University
+- High School Diploma :: New Tech High @ Coppell
+
+## Experience:
+- Game Design Intern :: Oversight of documentation and file organization. Level Designer, including enemy, items, and basic layout. Co-Designer for general game mechanics.
+- Concessions Supervisor :: Served as mentor to junior team members. Filled out daily paperwork; inventory logs, staff time logs, etc. Oversight of multiple concession stands serving a variety of items.
+- Food Service Clerk :: Prepared food items and cooked on a grill or in fryers. Carefully maintained sanitation, health and safety standards in all work areas. Performed general maintenance duties. Took initiative to find extra tasks when scheduled duties were completed.   Took necessary steps to meet customer needs and effectively resolve food or service issues.
+- Customer Service Representative / Cook :: Prepared items according to written or verbal orders while performing extensive multitasking. Cleaned food preparation areas, cooking surfaces, and utensils. Closely followed standard protocols for safe food preparation, assembly, and presentation to ensure customer satisfaction.  Up-sold additional menu items, beverages and desserts to increase restaurant profits. Took necessary steps to meet customer needs and effectively resolve food or service issues. Assisted manager in ensuring smooth operation of store in all aspects.
+
+## Skills:
+- KnowledgeinC++
+- Java
+- Ruby
+- MatLab
+- Linux/UnixCommandLine
+- LaTex
+- MicrosoftOfficePackage
+- BasicData-StructureConstructionandManagement
+- AdvancedCalculus
+- DiscreteMathematics
+- LinearAlgebra
+
+## Sector:
+- Game Design
+
+## Timeline:
+- JOB :: 11-2016 -- CURRENT :: Game Design Intern :: LOW
+- JOB :: 06-2016 -- CURRENT :: Concessions Supervisor :: MEDIUM
+- JOB :: 09-2014 -- 07-2015 :: Food Service Clerk :: LOW
+- JOB :: 01-2013 -- 08-2014 :: Customer Service Representative / Cook :: LOW
+- EDU :: 00-2015 -- 00-2019 :: Bachelor of Science :: LOW
+- EDU :: 00-2015 :: High School Diploma :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Team Member of the Month :: LOW
+- MEM :: 09-2015 -- 05-2016 :: Alpha Phi Omega :: LOW

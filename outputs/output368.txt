@@ -1,0 +1,39 @@
+## Education:
+- Masters of Science :: DePaul University
+- Bachelor of Science :: University of Illinois
+
+## Experience:
+- Manager, Digital Marketing and Communications :: Project manager of Advocate's new physician profiles.   51% increase in new patient appointments producing downstream revenue of 32M (based on $1,250/patient).   1.3M physician profile views and 46% increase in total calls YoY.  Launched site in 3 months. Implemented a benchmark assessment that reviewed and evaluated integrated healthcare systems nationwide.  Presented executive summary that outlined results and recommendations on improvements.  Develop data-driven strategies that transform consumer intent into action and drive conversions. Project manager of AMGdoctors.com.   23% increase in visits (YoY) and 8% increase pageviews.   41% of traffic comes from mobile devices due to responsive design, social media and ad campaigns.   6,648 web appointments were scheduled through AMG doctors.com in 2015, producing 8.3 million dollars in downstream revenue (based $1,250/patient). Manager of Advocatedocs.com, Advocate's first digital physician platform providing the latest alerts, policies, and physician referral database.  Exponential monthly growth (26%MoM).  Collaborated with managed care team to develop online communications. Monitor expenditures to ensure implementation of projects are cost effective.
+- Senior Web Specialist :: Implement and manage continuous improvements based on digital dashboards and market research to increase the effectiveness of AMGdoctors.com and online marketing initiatives. Research and implement effective online strategies to optimize Search Engine Optimization (SEO) through page titles, content, layout and design, meta/alt tags, headings, links, and images. Develop Google Adwords campaigns by meeting with the customers, conducting research, developing a proposal, developing Google Ads and keywords, tracking results using Google Analytics, and modifying campaigns to improve results. Prepare, present, and review reports from a variety of databases within Google Analytics. Identify, prioritize, and delegate projects to team members. Project elements include edits and adding content, design layout, project updates, and project review.
+- Senior Planning Analyst :: Conducted online competitive analysis in order to identify competitor strategies on specific site and system growth initiatives. Created and presented market assessments and recommendations to executive management based on analytic results. Analyzed physician loyalty and market share.
+- Interim Director of CRM Data Warehouse :: Managed CRM Data Warehouse budget for system and hospital initiatives.  Developed CRM projects to determine return on investment for the Marketing department and other departments within Strategic Planning and Growth.  Identified internal customers' needs, collected data obtaining the customers' objectives using CRM database, and interpreted the results to assist in strategic planning and marketing. Developed and conducted CRM training for planning,CRM Analyst and internal customers, which entailed: data sources, relational databases, setting theories, building filters/queries, creating mail lists, and generating standard reports producing demographic profiles and encounter analysis for determining ROI. Created SQL reports using CRM database. Filtered data from Allegra, IDX, Contact Center Database, Credentialing Office, Physician Lists, and other internal customer/patient source lists. Analyzed and compiled results in an organized report, and presented data for system/departmental strategic planning.
+
+## Skills:
+- More than 19 years experience in healthcare, business development, marketing and planning analysis
+- Develop and manage website
+- Mined data to provide qualitative and quantitative analysis
+- Implement innovative solutions to manage and improve patient health
+- Incorporating wearable apps in patient portal
+- Telehealth appointments
+- Online scheduling for immediate care
+- Extensive knowledge, skills and experience with technical databases and software
+- Content Management Systems (HTML code)
+- Google Analytics
+- Google Adwords
+- Microsoft Office: Excel, Outlook, PowerPoint, SharePoint, and Word
+
+## Sector:
+- Healthcare
+
+## Timeline:
+- JOB :: 08-2014 -- CURRENT :: Manager, Digital Marketing and Communications :: HIGH
+- JOB :: 06-2007 -- 08-2014 :: Senior Web Specialist :: MEDIUM
+- JOB :: 01-2006 -- 06-2007 :: Senior Planning Analyst :: MEDIUM
+- INT :: 01-2006 -- 08-2006 :: Interim Director of CRM Data Warehouse :: HIGH
+- EDU :: 00-2004 -- 00-2004 :: Masters of Science :: LOW
+- EDU :: 00-1996 -- 00-1996 :: Bachelor of Science :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of the American Marketing Association :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of DePaul University Alumni Association :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of the University of Illinois Alumni Association :: LOW
+- AWD :: 00-2016 -- 00-2016 :: BIA/Kelsey GOLOCAL award in sales and revenue :: LOW
+- AWD :: 00-2016 -- 00-2016 :: Best Healthcare Provider Integrated Ad Campaign Internet Advertising Award :: LOW

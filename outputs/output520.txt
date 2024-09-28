@@ -1,0 +1,72 @@
+## Education:
+- Bachelor of Arts , Business Admin and Management :: Pillar College
+- Security-Plus Certification :: CED Solutions
+- Microsoft Certified Professional (MCP) , Computer Software :: CED Solutions
+- Defense Acquisition University Training Course Completion: ACQ 1 01, 1 30 & 201; SAMJOJ , CLE 003 & 060, ACQ 2036 Army Civilian Training, Education Development and System Courses :: Defense Acquisition University
+- Information Technology Level 3 certification :: Defense Acquisition University
+
+## Experience:
+- Lead Cobol Programmer :: Wrote two programs to estimate the cost for the Panama Canal Conflict. Coordinated with QA testers for end-to- end unit testing and post-production testing.Implemented system security and data assurance software.Developed custom software solutions for the organization.Oversaw deployment, configuration and documentation procedures.Implemented and tested enhancement feature requests to enhance product functionality.Resolved customer issues by establishing workarounds and solutions and by debugging and creating defect fixes.Drafted two project work plans per week.Organized and held meetings with stakeholders, contractor product teams and customers. Coordinated all hardware acquisitions.Coded user-customizable applications that converted raw data from design engine to easily understandable graphical formats.
+- Junior Engineer :: Assisted the Lead Software Engineer in writing the code to repair the Kiowa 58D helicopter computer module. Project was successful From coding to test and evaluation. Authorized to go TDY to Fort Bragg, N.C. to test our code in the vehicle. Briefed 300 civilians and 60 soldiers on the test, evaluations and repair of the aircraft under of the orders the PMEWRSTA PM Colonel Arthur Hurtado (Fort Myers, Florida) In addition, I served as a Lead Project Manager using the Artemis Schedule Publisher software to track Electronic Warfare systems and the respected repair schedules.
+- Lead Project Manager ::  using the Artemis Schedule Publisher software to track Electronic Warfare systems and the respected repair schedules.
+- Experienced in management of principles, evaluation techniques and systems management and planning :: Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements
+- Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements :: Served as the only CECOM Command ADA Programmer.
+- Effective Acting branch and division chief of Customer Support Branch ATEC Headquarters (G6), APG, Maryland :: SWE on Information Systems Security. Implements IT concepts, principles and methods and practices, providing technical oversight and Headquarters systems monitoring. Identifies and solves complex technological problems by determining accuracy and relevance of information while evaluating potential sources of information and disseminating solutions. Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements. Knowledge of Local Area Network security requirements and techniques tor protecting computer systems from viruses, datatampering, and unauthorized system entry. Skillfully analyzes, plans, designs, implements, documents, assesses, and manages enterprise structural framework. Knowledgeable of system requirements and techniques for planning current and future system architecture requirements. Expertise in Information Technology security principles, concepts, practices, systems software, database software, and immediate access storage technology to carry out activities leading to security certification or accreditation. Knowledgeable of telecommunications characteristics and capabilities of systems, media, equipment, and related software systems. Ability to assess risk factors and advise on vulnerability to attack from a variety of sources and procedures and methods for protection of systems and applications. Defines and executes application alignment with business strategy, performance, service levels, business intelligence and management, data privacy, compliance/policy and information security. Expertly applies analytical processes to the planning, design, and implementation of new and improved information systems to meet the business requirements of customer organizations. Utilizes knowledge of information technology principles, methods, and security regulations and policies to administer various information security programs. Ensures confidentiality, integrity, and availability of systems, networks, and data through the planning, analysis, development, implementation, maintenance, and enhancement of information systems security programs, policies, procedures, and tools. Served as Lead IT Specialist providing computer, networking and peripheral support to ATEC Headquarters QIP's in RTC, DTC and JITC.
+
+## Skills:
+- Strong Interpersonal skills
+- Exceptional Listening and perception skills
+- Excels in writing
+- Information Technology SME
+- Timely
+- Efficient
+- Test and Evaluation Expertise
+- Leadership
+- Management
+- Project Management
+- Conflict Resolution
+- Cobol Programming
+- ADA Programming
+- Procurement Clerk
+- BPA's
+- Acquisition Experience
+- COR
+- Formal Briefings
+- Security-Plus Certification
+- Microsoft Certified Professional (MCP)
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 09-1989 -- 09-1992 :: Lead Cobol Programmer :: LOW
+- JOB :: 06-1992 -- 10-1993 :: Junior Engineer :: LOW
+- JOB :: 09-1992 -- 09-2011 :: Experienced in management of principles, evaluation techniques and systems management and planning :: MEDIUM
+- JOB :: 09-1992 -- 09-2011 :: Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements :: MEDIUM
+- JOB :: 09-1992 -- 09-2011 :: Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Effective Acting branch and division chief of Customer Support Branch ATEC Headquarters (G6), APG, Maryland :: HIGH
+- JOB :: 09-2011 -- CURRENT :: SWE on Information Systems Security :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Implements IT concepts, principles and methods and practices, providing technical oversight and Headquarters systems monitoring :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Identifies and solves complex technological problems by determining accuracy and relevance of information while evaluating potential sources of information and disseminating solutions :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Knowledge of Local Area Network security requirements and techniques tor protecting computer systems from viruses, datatampering, and unauthorized system entry :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Skillfully analyzes, plans, designs, implements, documents, assesses, and manages enterprise structural framework :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Knowledgeable of system requirements and techniques for planning current and future system architecture requirements :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Expertise in Information Technology security principles, concepts, practices, systems software, database software, and immediate access storage technology to carry out activities leading to security certification or accreditation :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Knowledgeable of telecommunications characteristics and capabilities of systems, media, equipment, and related software systems :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Ability to assess risk factors and advise on vulnerability to attack from a variety of sources and procedures and methods for protection of systems and applications. :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Defines and executes application alignment with business strategy, performance, service levels, business intelligence and management, data privacy, compliance/policy and information security. :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Expertly applies analytical processes to the planning, design, and implementation of new and improved information systems to meet the business requirements of customer organizations :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Utilizes knowledge of information technology principles, methods, and security regulations and policies to administer various information security programs :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Ensures confidentiality, integrity, and availability of systems, networks, and data through the planning, analysis, development, implementation, maintenance, and enhancement of information systems security programs, policies, procedures, and tools :: MEDIUM
+- JOB :: 09-2011 -- CURRENT :: Served as Lead IT Specialist providing computer, networking and peripheral support to ATEC Headquarters QIP's in RTC, DTC and JITC :: MEDIUM
+- EDU :: 01-2016 -- CURRENT :: Bachelor of Arts , Business Admin and Management :: LOW
+- EDU :: 00-2006 -- 00-2006 :: Security-Plus Certification :: LOW
+- EDU :: 00-2006 -- 00-2006 :: Microsoft Certified Professional (MCP) , Computer Software :: LOW
+- EDU :: 00-2015 -- 00-2015 :: Defense Acquisition University Training Course Completion: ACQ 1 01, 1 30 & 201; SAMJOJ , CLE 003 & 060, ACQ 2036 Army Civilian Training, Education Development and System Courses :: LOW
+- EDU :: 00-2015 -- 00-2015 :: Information Technology Level 3 certification :: LOW
+- UKN :: 00-0000 -- 00-0000 :: I provide spiritual support within my organization on a daily basis. :: LOW
+- UKN :: 00-0000 -- 00-0000 :: I serve as Branch Chief and Division Chief whenever I am appointed. :: LOW
+- UKN :: 00-0000 -- 00-0000 :: I Initiate and facilitate impromptu meetings with the technology team to share pertinent information or to solve workplace issues. :: LOW
+- UKN :: 00-0000 -- 00-0000 :: I am a mentor and sponsor of ATEC HQ's Customer Support Intern and Summer hire. :: LOW
+- UKN :: 00-0000 -- 00-0000 :: I represent ATEC in many Command sponsored special events as a singer, actress and mistress of ceremonies. :: LOW

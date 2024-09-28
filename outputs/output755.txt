@@ -1,0 +1,46 @@
+## Education:
+- Bachelor of Technology , Computer and Science Engineering :: JNTU
+- Bachelor of Technology in Computer and Science Engineering :: JNTU
+
+## Experience:
+- Teradata Senior Associate Consultant :: This project aims at developing an Oracle and Teradata layers for pushing the data to iOS Mobile Application.
+- Senior Associate Consultant :: This project aims at building and maintaining a data mart on Enterprise Data warehouse, in order to increase the efficiency of the reporting, support business users in performing, more robust analytical reporting and decision making capability.
+- Software Engineer :: Data Warehousing Services (DWS) manages the platform infrastructure hosting data from the Group's operational systems providing the capability for users or operational systems to query and extract this information as required. DWS manages the whole end to end change and service lifecycle including build, schedule and infrastructure support, service desk, risk and compliance and service and finance management. The goals of the Warehouse are to:  Provide a single version of the truth  Empower users to find out new information about their business for themselves  Provide an integrated database model with common definitions regardless of the source of the data. Data from various source systems is fed into the EDW (Enterprise Data Warehouse).
+
+## Skills:
+- DataWarehouseknowledge
+- Databasedesign
+- OracleSQL
+- SDLC
+- Teradata
+- SQLTesting
+- UnitTesting
+- BusinessRequirementsGathering
+- ChangeManagementplanning
+- ConfigurationManagementplanning
+- DataAnalysis
+- DataMartDevelopment
+- CodeDeployment
+- FeasibilityAnalysis
+- IntegrationTesting
+- ApplicationMaintenance
+- MetadataAnalysis
+- TeradataPL/SQL
+- TeradataBTEQ
+- TeradataFastload
+- RequirementsGathering
+- Semanticdatabasedesign
+- TechnicalDesign
+- TechnicalSpecificationsdocuments
+- UAT
+- BasicUNIX
+
+## Sector:
+- Data Warehousing
+
+## Timeline:
+- JOB :: 12-2014 -- CURRENT :: Teradata Senior Associate Consultant :: MEDIUM
+- JOB :: 03-2012 -- 12-2014 :: Senior Associate Consultant :: MEDIUM
+- JOB :: 01-2009 -- 03-2012 :: Software Engineer :: MEDIUM
+- EDU :: 00-0000 -- 00-0000 :: Bachelor of Technology , Computer and Science Engineering :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Bachelor of Technology in Computer and Science Engineering :: LOW

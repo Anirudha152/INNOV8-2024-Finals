@@ -1,0 +1,93 @@
+## Education:
+- Ph.D. : Capella University
+- Educational Computing : Inter American University
+- BSBA : University of Puerto Rico
+
+## Experience:
+- Information Technology Bureau Deputy Director :: Oversee and lead the Infrastructure & Operations IT Service, 24x7. This includes the supervision of four divisions: (1) Programming & Applications; (2) Networking & Communications; (3) Desktop Services & Support; and (4) Operating Systems & Database. Performance management and KPIs.
+- Information Technology Director :: Provided technical leadership to a data center and technical supervision of analysts, programmers, database administrators, and network as well as the support personnel.
+- Senior IT Project Manager :: Delivered technical direction for a multimillion dollar Monitoring and Controlling System.
+- IT Business Consultant :: Assist in computer network & voice integrator in over 11 Medical Center locations.Consulted for individuals and organizations in information technology business solution.
+- IT Business Consultant :: Assist in computer network & voice integrator in over 11 Medical Center locations. Consulted for individuals and organizations in information technology business solution.
+- Professor :: Taught courses in (1) Optical Networking; (2) System Analysis and Design.
+- Professor :: Taught graduate courses in (1) Data Communication, Networks and Distributed Processing; (2) Computer Concepts and Programming Tools; (3) Relational Databases.
+
+## Skills:
+- ADABAS
+- AIX
+- analyst
+- Application Development
+- Budgeting
+- business solution
+- CISCO
+- Coaching
+- Databases
+- Database
+- Department of Health
+- direction
+- documentation
+- edge
+- English
+- Forecasting
+- Frame Relay
+- IBM
+- DB2
+- information technology
+- innovation
+- leadership
+- Linux
+- Notes
+- Mentoring
+- Exchange
+- Office
+- SharePoint
+- Microsoft Windows
+- Enterprise
+- network
+- Networking
+- Networks
+- Operating Systems
+- OS
+- ORACLE
+- Performance management
+- personnel
+- PhD
+- PR
+- Process Improvement
+- Programming
+- Project Management
+- Rehabilitation
+- Relational Databases
+- SCADA
+- Supervisory Control and Data Acquisition
+- Servers
+- software development
+- Spanish
+- SQL
+- Staff Supervision
+- supervision
+- System Analysis and Design
+- Technical Management
+- Telecommunications
+- Tivoli
+- Track-It
+- Visio
+- water treatment
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 01-2010 -- CURRENT :: Information Technology Bureau Deputy Director :: HIGH
+- JOB :: 10-2009 -- 01-2010 :: Information Technology Director :: HIGH
+- JOB :: 07-2004 -- 08-2009 :: Senior IT Project Manager :: MEDIUM
+- JOB :: 01-2003 -- 06-2004 :: IT Business Consultant :: LOW
+- JOB :: 01-2003 -- 08-2004 :: IT Business Consultant :: LOW
+- JOB :: 01-2003 -- 06-2003 :: Professor :: LOW
+- JOB :: 09-1999 -- 08-2003 :: Professor :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Ph.D. :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Educational Computing :: LOW
+- EDU :: 00-0000 -- 00-0000 :: BSBA :: LOW
+- AWD :: 04-2001 :: Computerworld Honors Award Laureate Medal :: LOW
+- AWD :: 06-2000 :: Chamber of Representatives of Puerto Rico- Achievement Award :: LOW
+- AWD :: 10-2000 :: AITP Distinguished Information Science Award in the Government Sector :: LOW

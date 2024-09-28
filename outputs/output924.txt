@@ -1,0 +1,34 @@
+## Education:
+- Bachelor of Science : Aerospace Engineering :: University of Tennessee
+- Six Sigma Lean/DFSS Green Belt :: November 2014
+
+## Experience:
+- Bakery Entrepreneur :: Established and built a strong local cupcake store brand name through quality products, community. involvement and alternative advertising methods. Performed employee hiring, training and supervisory duties. Engaged in day-to-day operations of all aspects of the store including baking, cleaning and customer service.
+- Project Engineer :: Hired on through Nuclear Fuel Services, located in Erwin, TN, and transferred to B&W in 2011 Data research for equipment segmentation and disposal project Research and design cutting methods for large equipment Design self-powered transportation system for large equipment Project engineer for design phase of a new Category 2 nuclear processing facility, Isotek project Perform field walk downs to generate P&ID drawings using AutoCAD for assigned systems Develop technical basis for assigned systems Develop technical specifications and requirements, including documentation of engineering calculations, to support technical basis Perform and review calculations for new design and facility support Write and review System Design Descriptions for new design Perform database maintenance for an equipment reliability system
+- Reliability Engineer Intern :: Located on-site at DuPont Chambers Works  Deepwater, NJ Set up bearing ultrasound program integrating the maintenance with SAP Performed flow meter failure analysis Performed gearbox failure analysis Designed new piping system for failed pipe Performed root cause failure analysis (RCFA) for failed pumps Developed a standardized job procedure for pipe flange make up Established lubrication program for plant after a two-year shutdown Worked with vendors to determine appropriate lubrication types and methods Set up lubrication filtering and dehydration procedure for large containers of lubrication
+- Aviation Electronics Technician :: Assistant shift supervisor for an F/A-18 Hornet squadron  VFA-25. Managed and delegated maintenance tasks among 30 squadron members. Coordinated communication during launch procedures between our squadron aircraft and flight deck control aboard an aircraft carrier. Voluntarily trained as final checker (inspector) of aircraft prior to launch.
+
+## Skills:
+- Communication
+- Safety
+- AutoCAD
+- Customer Service
+- Database
+- Quality
+- Research and Design
+- SAP
+- Root Cause Failure Modes and Effects Analysis
+- Lubrication
+
+## Sector:
+- Manufacturing
+
+## Timeline:
+- JOB :: 10-2011 -- 08-2014 :: Bakery Entrepreneur :: MEDIUM
+- JOB :: 02-2010 -- 02-2014 :: Project Engineer :: MEDIUM
+- INT :: 05-2007 -- 08-2009 :: Reliability Engineer Intern :: LOW
+- JOB :: 09-1995 -- 12-1998 :: Aviation Electronics Technician :: MEDIUM
+- EDU :: 00-2009 -- 12-2009 :: Bachelor of Science : Aerospace Engineering :: LOW
+- AWD :: 00-0000 -- 11-2014 :: Six Sigma Lean/DFSS Green Belt :: LOW
+- AWD :: 00-0000 -- 01-2010 :: Engineer in Training (EIT) :: LOW
+- UKN :: 00-0000 -- 10-2010 :: DOE Level Q Security Clearance :: LOW

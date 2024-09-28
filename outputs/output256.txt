@@ -1,0 +1,55 @@
+## Education:
+- MBA (Finance and IT) :: 
+- B.Com(Mgt Hons) :: 
+
+## Experience:
+- Accountant :: Maintain of Cash book. Maintenance and Finalization of Annual account Preparation of Bank Reconciliation Statement. Billing And Realisation From Debtors Verification of Expenditure Bills and Traveling Bills. Salary JV Verification. Day to day office activity
+- Consultant :: Prepare journal entries and ensure reconciliation are complete. Review general ledger to ensure proper accounting is in place Process pay application invoice and payment. General ledger Reconcilation and adjusting entries. Reconcilation bank account accurately and in a timely manner with attention to unusal items that remain outstanding at monthend. Upload bank statement and Bank revaluation in SAP. Preparing financial reports in HFM (balance sheet, profit and loss statement, GR 55, Cycle run) Reviewing Balance sheet and profit and loss statement. Prepaid and accurual booking in monthed. Monthend quaterend and year end reporting. Intercompany reconciliation. ACCOUNTS PAYABLE Vendor creation, edit and reconciliation Stock report preparion Invoice posting and verification in SAP tool. Collect and maintain vendor W 9. GR/IR clearing Automatic payment run in SAP. 3 way matching. Inventory control and expensing. Ixos invoicing with payment. Create purchase order. Foreign currency Revaluation.
+- Process Developer :: Worked in several sub modules of Sap Financials: Accounts receivable, Accounts Payable, General Ledger, Banking. Accounts Payable: Automated Payment Program (APP), Invoice Processing, IDOC, MIRO. Vendor Master, Customer Master, General Ledger Master data. Having good domain experience related to different functional module: Order 2 Cash (OTC), Procure 2 Pay (P2P), Buy 2 Pay (B2P) and Invoice 2 Pay (I2P). Dash board maintenance, Client handling, Query resolution, Bank Reconciliation.
+
+## Skills:
+- accountreconciliations
+- accounting
+- accountspayable
+- AccountsReceivable
+- AP
+- Balancesheet
+- BankReconciliation
+- Banking
+- Billing
+- book
+- Com
+- Client
+- edit
+- Finance
+- Financials
+- financialreports
+- Preparingfinancialreports
+- focus
+- functional
+- GeneralLedger
+- GL
+- Inventorycontrol
+- processinvoices
+- InvoiceProcessing
+- invoicing
+- MBA
+- mail
+- office
+- Developer
+- profitandlossstatement
+- coding
+- reporting
+- researching
+- SAPFI
+- SAP
+
+## Sector:
+- Finance
+
+## Timeline:
+- JOB :: 01-2016 -- 01-2016 :: Accountant :: LOW
+- JOB :: 01-2016 -- 01-2016 :: Consultant :: LOW
+- JOB :: 03-2009 -- 12-2012 :: Process Developer :: LOW
+- EDU :: 00-0000 -- 00-0000 :: MBA (Finance and IT) :: LOW
+- EDU :: 00-0000 -- 00-0000 :: B.Com(Mgt Hons) :: LOW

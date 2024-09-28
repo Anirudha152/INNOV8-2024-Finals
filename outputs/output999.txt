@@ -1,0 +1,80 @@
+## Education:
+- Master of Science : Telecommunication and Networks :: Northeastern University, Solapur University
+- Bachelor of Engineering : Electronics and Telecommunications :: 
+
+## Experience:
+- Information Technology and AWS Admin Intern :: Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's financial department. Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud. Reduced the company's infrastructure cost by 10 times. Implemented secure off-site backups through scheduled weekly SSH dumps to remote server. Configured and troubleshot switches, routers and firewalls using TCP/IP protocols.
+- Network Engineer Intern :: Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
+- AWS Certified Solutions Architect- Associate :: 
+- Cisco Certified Network Associate - CCNA 200-125 :: Set up a VPC network on Amazon and created public and private subnets, security groups, elastic IP and NAT gateway. Created an EC2 instance with Windows AMI to host an application on virtual machine WAN network deployment for a multinational organization using Cisco Packet Tracer
+- Network Engineer Intern :: Configured routers, switches and implemented IP addressing, subnetting for a multi-location enterprise network using DHCP, OSPF, HSRP, RSTP for routing and redundancy. Solved security threats by providing network security using ACL and port security
+- Linux Based Integrated Ad-Hoc Network for IT infrastructure (Linux, Ubuntu) :: Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.
+
+## Skills:
+- IP networking protocols:TCP/IP,UDP,HTTP/S,DHCP,DNS,STP,HSRP,ISIS,RIP,OSPF,MPLS,FTP,SMTP,IPSec,VLAN,VPN
+- Network Tools:Wireshark,VMware,Cisco Packet Tracer,VirtualBox, Oracle,Windows Server,AWS,Active Directory
+- Operating Systems:Windows,Linux,CentOs,Ubuntu,RHEL
+- Programming languages:Python,Bash Scripting
+- Data Networking
+- Linux for Network Engineers
+- Internet Protocols & Architecture
+- Network Security
+- Computer Communication Networks
+- Multimedia Communication
+- Active Directory
+- Ad
+- Apache2
+- Bash
+- CCNA
+- Cisco Certified Network Associate
+- Cisco
+- client-server
+- DHCP
+- DNS
+- financial
+- firewalls
+- FTP
+- gateway
+- HTTP
+- Internet Protocols
+- IP
+- ISIS
+- LAN
+- Linux
+- Windows
+- Multimedia
+- enterprise
+- Network Security
+- Network
+- Networking
+- Networks
+- Operating Systems
+- Oracle
+- OSPF
+- Programming
+- protocols
+- Python
+- RIP
+- routers
+- routing
+- SSH
+- Scripting
+- SMTP
+- switches
+- TCP/IP
+- VPN
+- WAN
+- Windows Server
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 04-2019 -- CURRENT :: Information Technology and AWS Admin Intern :: LOW
+- JOB :: 10-2015 -- 00-2015 :: Network Engineer Intern :: LOW
+- AWD :: 10-2018 -- 00-2018 :: AWS Certified Solutions Architect- Associate :: LOW
+- AWD :: 04-2019 -- 00-2019 :: Cisco Certified Network Associate - CCNA 200-125 :: LOW
+- JOB :: 00-2018 -- 00-2018 :: Network Engineer Intern :: LOW
+- EVE :: 00-2018 -- 00-2018 :: Linux Based Integrated Ad-Hoc Network for IT infrastructure (Linux, Ubuntu) :: LOW
+- EDU :: 12-2019 -- 00-2019 :: Master of Science : Telecommunication and Networks :: LOW
+- EDU :: 06-2016 -- 00-2016 :: Bachelor of Engineering : Electronics and Telecommunications :: LOW

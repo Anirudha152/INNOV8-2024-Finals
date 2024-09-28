@@ -1,0 +1,102 @@
+## Education:
+- Information Technology Certification Classes :: Davenport University
+- M.A Counselor Education and Counseling Psychology :: Western Michigan University
+- B.A Sociology :: Indiana University
+- Information Technology Certification Classes :: Ivy Tech Community College
+
+## Experience:
+- IT Manager :: Server installations and migrations, SonicWall firewalls, VPN installation and support, wireless access points, multilayer switches, routers, help desk support for 3 sites, multi-mode fiber, Microsoft Exchange Server, Server 2012, Hyper-V installation and support, Windows XP mode, Windows 7, Windows 8, SharePoint, Microsoft Dynamics GP/CRM, Project Server, SQL, Macola, CCTV, time and attendance hardware and software, biometric reader installation and support, Syspine IP, Microsoft Response Point, VoIP, Creo Pro/E, Windchill, SolidWorks, QuickBooks Enterprise, McAfee SaaS, network security, disaster recovery, infrastructure design and support, network hardware and software troubleshooting, administration of user accounts, responsible for developing annual IT budget, responsible for IT project management. Administration of group policy, Active Directory, help desk support, Hyper-V, DLP.
+- Information Technology Engineer :: Server installations and migrations, migration of databases, Exchange Server, SQL, MySQL. Cisco PIX and ASA 5505 installation and support, network security, wireless hardware, installation and support of Symantec Backup Exec and Endpoint Protection, Mac OS, help desk support for multiple sites, phone system and VoIP support. Administration of group policy, Active Directory, DHCP, DNS, hardware and software troubleshooting, upgrades and migrations of legacy software packages.
+- Senior Network Engineer :: Server installations and migrations, databases, Exchange Server, SQL, MySQL. Server installations and migrations, databases, Exchange Server, SQL, MySQL. HP servers, Secure Computing Webwashers, Snapgear firewall/VPN appliances, Cisco switches, Trend Micro products, Symantec products, network security, wireless installation and support, virtual machines, help desk support for multiple sites, phone system and VoIP support. Administration of group policy, Active Directory, DHCP, DNS, end user support.
+- Information Technology Engineer :: Server installations and migrations, migration of databases, MAS 90, SQL, MySQL. Cisco 1721, 2800 and 3600 series routers, Cisco Catalyst 2900 and 3100 series switches, HP ProCurve switches, Symantec products, network security, wireless installation, iSCSI NAS/SAN (Intel hardware), media servers, terminal server applications, BrainTree PACS and C-Arm, biometric readers, time and attendance installation and support, help desk and end user support for 7 sites. Administration of group policy, Active Directory, DHCP, DNS, VPN tunnels, ftp servers, Sage Medical Manager, VoIP, QoS, layer 3 and 4 switching, Cisco Aironet access points, Toshiba hybrid PBX and VoIP phone system and QoS support, HIPAA compliance, media servers, iSCSI, fibre channel, SAN and NAS design, installation and support.
+- Assistant Professor :: Program Chair for Region 2 (South Bend, Elkhart and Warsaw Server installations, teaching A+, Network+, Microsoft MCSA and Cisco CCNA classes, programming routers, switches and installing and configuring Windows 2000 server and Server 2003. Supervised all Computer Information Systems faculty, staff and adjunct instructors for all three sites in Region 2, hardware/software troubleshooting and support. Administration of group policy, Active Directory, FERPA compliance.
+
+## Skills:
+- SymantecBackupExec
+- SystemRecovery
+- EndpointProtection
+- TrendMicro
+- McAfee
+- ESET
+- Acronis
+- ShadowProtect
+- GFI
+- CrowCanyon
+- DameWare
+- Wireshark
+- NetFlowAnalyzer
+- Splunk
+- SMS
+- FlukeOptiView
+- SolarwindsNPM
+- MicrosoftResponsePoint
+- GP
+- CRM
+- SharePoint
+- SQL
+- MySQL
+- Servers
+- workstations
+- laptops
+- printers
+- smartphones
+- routers
+- switches
+- firewalls
+- wirelessaccesspoints
+- LTOautoloaders
+- CCTV
+- PBX
+- IPphonesystems
+- biometricscanners
+- readers
+- Apache
+- IIS
+- CiscoASDM
+- CiscoVPNClient
+- MAS90
+- SageMedicalManager
+- BrainTreePACS/C-Arm
+- VMware
+- Citrix
+- SmartFilter
+- Imail
+- Websense
+- iPrismWebSecurity
+- Hyper-V
+- SonicWallGlobalVPNClient
+- Adobe
+- FoxitPhantomPDF
+- JobBOSS
+- Made2ManageERP
+- Word
+- Excel
+- Access
+- projectmanagement
+- systemanalysisanddesign
+- businessprocessflow
+- Databasemaintenance
+- Systemcheckstroubleshooting
+- Advancedtroubleshooting
+- Virusandspywareremoval
+- Computerdiagnosticsandrepair
+- Servermanagement
+- Hardwaresupportandtroubleshooting
+- Highlymotivated
+- Resourceful
+- Advancedknowledgeofdiagnostictechniques
+- Advancedknowledgeofsecurity,firewallsandDLP
+
+## Sector:
+- IT
+
+## Timeline:
+- JOB :: 07-2012 -- CURRENT :: IT Manager :: HIGH
+- JOB :: 10-2008 -- 07-2012 :: Information Technology Engineer :: MEDIUM
+- JOB :: 10-2007 -- 06-2008 :: Senior Network Engineer :: MEDIUM
+- JOB :: 03-2005 -- 10-2007 :: Information Technology Engineer :: MEDIUM
+- JOB :: 08-2000 -- 07-2005 :: Assistant Professor :: HIGH
+- EDU :: 00-0000 -- 00-0000 :: Information Technology Certification Classes :: LOW
+- EDU :: 00-0000 -- 00-0000 :: M.A Counselor Education and Counseling Psychology :: LOW
+- EDU :: 00-0000 -- 00-0000 :: B.A Sociology :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Information Technology Certification Classes :: LOW

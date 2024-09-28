@@ -15,7 +15,7 @@ bloat = {'per', 'and', 'but', 'the', 'for', 'are', 'was', 'were', 'be', 'been', 
          'any', 'these', 'give', 'day', 'most'}
 load_dotenv()
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key="AIzaSyByDgOMLXr-GmeHSX4Frah3LrQ8FXca49U")
 # oracle = pipeline("question-answering", model="deepset/roberta-base-squad2")
 # theta = SentenceTransformer("mixedbread-ai/mxbai-embed-large-v1")
 
@@ -125,15 +125,15 @@ Example: - MEM :: 01-2010 -- 00-2017 :: Board Member of Advocacy 4 Kids
 Example: - JOB :: 00-2009 -- CURRENT :: Organizer and Capacity Building Strategist
 DO NOT ASSUME DATA ON YOUR OWN, DO NOT CHANGE ANY DATA IN THE RESUME. INCLUDE ALL TIMES AND DATES IN YOUR RESPONSE. DO NOT EXCLUDE IMPORTANT DATA IN THE RESUME
 """
-    index = 481
-    context = pdf_to_text(f'Final_Resumes/Resume_of_ID_{index}.pdf')
-    context = ' '.join(context)
-    # response = model.generate_content(context + prompt_parser, generation_config=genai.types.GenerationConfig(temperature=0.15))
-    response2 = model.generate_content(context + prompt_timeline, generation_config=genai.types.GenerationConfig(temperature=0.1))
-    # print(response.text)
-    with open(f'outputs/output{index}.txt', 'w') as f:
-        f.write(response2.text)
-    print(f"Output {index} done")
+    for index in range(783, 1000, 2):
+        context = pdf_to_text(f'Final_Resumes/Resume_of_ID_{index}.pdf')
+        context = ' '.join(context)
+        # response = model.generate_content(context + prompt_parser, generation_config=genai.types.GenerationConfig(temperature=0.15))
+        response2 = model.generate_content(context + prompt_timeline, generation_config=genai.types.GenerationConfig(temperature=0.1))
+        # print(response.text)
+        with open(f'outputs/output{index}.txt', 'w') as f:
+            f.write(response2.text)
+        print(f"Output {index} done")
 
 
 process_pdf()

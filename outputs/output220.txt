@@ -1,0 +1,113 @@
+## Education:
+- Bachelor of Science : Rutgers University
+- Psychology/History : Rutgers University
+
+## Experience:
+- Director of Information Technology and Analytics :: Directed the firm's word-wide Information Technology strategy. Established and instituted policies, procedures and technology to mitigate corporate security risk and position ZAIS for Sarbanes-Oxley act compliance. Identified process improvement opportunities and recommended solutions and budget requirements to management committee. Managed team of 6 resources responsible for technology management and support operations encompassing all aspects of IT infrastructure including workstations, server platforms, IP telephony, L3 network infrastructure, network security, disaster recovery, Storage Area Networks and videoconferencing. Directed project teams through all lifecycle phases handling technical escalation events. Evaluated and deployed DLP solution. Chairman of the firm's cybersecurity committee responsible for advancing the firm's security posture.
+- Information Technology Manager :: Directed hardware and software configuration, installation, troubleshooting, and support activities. Oversaw administration of network infrastructure, business systems, cabling and circuits, and telecommunications platforms. Established and managed relationships with technology vendors and service providers. Monitored and tracked call volumes, service requests, and performance metrics. Led work order documentation and change request management.
+- Systems Administrator :: Administered and supported 250 client node Windows NT environment. Planned, configured and administered the upgrade of Windows NT to Windows 2000. Maintained DNS, WINS and DHCP in multi-site environment. Maintained 85 node development server environment. Engineered and deployed System Management Server 2.0 infrastructure. Designed Workstation and Server imaging system using Symantec Ghost. Performed daily network monitoring tasks including backups (Veritas) and log checks.
+- Data/Systems Administrator :: Oversee and modify the daily download of data from several distributors. Uploaded data to appropriate SQL databases. Maintained and perform hardware/software upgrades on Windows FTP servers.
+
+## Skills:
+- ActiveDirectory
+- Antivirus
+- assetmanagement
+- BackupExec
+- budget
+- businesssystems
+- cabling
+- CISCO
+- Competitive
+- Hardware
+- Consulting
+- contractnegotiation
+- conversion
+- credit
+- client
+- databases
+- DHCP
+- DisasterRecovery
+- documentation
+- DNS
+- due diligence
+- EnterpriseResourcePlanning
+- Firewalls
+- FTP
+- Ghost
+- helpdesk
+- IIS
+- imaging
+- InformationTechnology
+- IP
+- ITsupport
+- LAN
+- Laptops
+- TeamLeadership
+- logistics
+- LossPrevention
+- managing
+- Market
+- Mentoring
+- access
+- Exchange
+- MicrosoftExchange2003
+- MicrosoftOfficeSuite
+- SharePoint
+- MicrosoftWindows
+- Windows
+- Windows2000
+- WindowsNT
+- word
+- migration
+- Enterprise
+- networksecurity
+- network
+- Networking
+- Networks
+- Next
+- OS
+- organizational
+- PCAnywhere
+- Policies
+- ProblemResolution
+- processes
+- process improvement
+- procurement
+- ProjectManagement
+- ProposalDevelopment
+- RequirementsAnalysis
+- Routers
+- SAN
+- Sarbanes-Oxley
+- Servers
+- ServiceLevelAgreement
+- sound
+- SQL
+- strategy
+- StrategicPlanning
+- Switches
+- Symantec
+- TCP/IP
+- telecommunications
+- Telephony
+- troubleshooting
+- upgrades
+- upgrade
+- Veritas
+- VeritasNetbackup
+- video
+- VPN
+- Visio
+- VOIP
+- WAN
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 01-2005 -- CURRENT :: Director of Information Technology and Analytics :: HIGH
+- JOB :: 01-2002 -- 01-2005 :: Information Technology Manager :: MEDIUM
+- JOB :: 01-2000 -- 01-2002 :: Systems Administrator :: MEDIUM
+- JOB :: 01-1998 -- 01-2000 :: Data/Systems Administrator :: MEDIUM
+- EDU :: 00-1998 :: Bachelor of Science :: LOW
+- EDU :: 00-1998 :: Psychology/History :: LOW

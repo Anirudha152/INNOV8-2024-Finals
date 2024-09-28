@@ -1,0 +1,70 @@
+## Education:
+- Associate of Arts : Business Administration :: Business Administration
+- CompTIA Security+ Certified :: 10-2011
+- Information Technology Specialist Training :: US Army :: 11-2009
+- Information Technology Online Training :: US Army :: 03-2009 -- 01-2012
+- SIPR/NIPR Access Point (SNAP) Terminal :: 06-2011
+- Fiber Optic Connectors and Splicing Basic Installation Course :: 08-2010
+
+## Experience:
+- Information Technology Specialist :: Deployed and managed CPN, LOS, SPAWAR, AFN, LAN/WAN Architectures and Active Directory domains for over 50 SIPR/NIPR IS and VOIP subscribers in hostile combat operations Windows 7 integration of over 520 systems throughout the Stuttgart Garrison Command Disaster Recovery/Backup systems prevented loss of critical data
+- Information Systems Specialist :: Level 1 and 2 Technical Support during Strategic Operations in Stuttgart, Germany for classified and unclassified systems. Trained proficiently in Information Assurance security. Implemented and sustained satellite and radio communications for all computer based information systems and VOIP. Maintained and organized important IT documentation. Deployed countermeasures against security breaches. Implemented Windows 7 across Garrison units. Direct support for Senior Officer Staff. Responsible for several million dollars in equipment and for personnel. Remedy / Exchange / CPOF / SOFTCau-HARDCau / Organizational Unit Administrator / VPN / FTP / TCP/IP / Firewalls / VOIP / Remote Connectivity / Encryption / Netscreen / Cisco / Tier 2 Helpdesk.
+- Cable Installer and Maintainer :: Cable installer and maintainer for multiple Army posts in Stuttgart, Germany including 6 months in a combat zone in Africa. Extensive knowledge in wiring infrastructure, troubleshooting, Cat 5 and 6, and fiber termination. Maintained and organized racks, patch panels, cable trays, switches and routers. Working knowledge of terminating, splicing, testing and troubleshooting copper and fiber cable using Fluke Cable Analyzers. Accountable for thousands of dollars of equipment to include Fluke Networks Products.
+- Operator :: at the Defense Messaging Center with primary duties of facilitating Defense Messaging System (DMS) in support of Headquarters, United States European Command (USEUCOM) and other Department of Defense activities. Responsible for the operation and maintenance of CP-XP, AMHS, DII Guard and Certificate Workstations in support of DMS, SIPRNET and NIPRNET with the 52d Signal Battalion. Perform after hours Network Operations functions to include monitoring SPECTRUM, recall of essential personnel and situational management, and opens, monitors status and closes trouble tickets. While reporting and conducting essential missions in high visibility areas. Responsible and accountable for over $100 million worth of equipment and repair parts. SPECTRUM / AMHS / Customer Support / Defense Messaging System / SIPRNET / Discretionary Access Lists / Trouble Tickets.
+
+## Skills:
+- Army
+- Basic
+- Cable
+- Cat5
+- Cisco
+- Encryption
+- CustomerSupport
+- documentation
+- Firewalls
+- FTP
+- informationsystems
+- InformationTechnology
+- Messaging
+- Access
+- Exchange
+- Windows7
+- monitors
+- Network
+- Networks
+- Oct
+- Organizational
+- personnel
+- radio
+- reporting
+- routers
+- Strategic
+- switches
+- TCP/IP
+- TechnicalSupport
+- troubleshooting
+- VOIP
+- VPN
+- wiring
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 07-2011 -- 12-2012 :: Information Technology Specialist :: MEDIUM
+- JOB :: 11-2010 -- 07-2011 :: Cable Installer and Maintainer :: LOW
+- JOB :: 12-2009 -- 11-2010 :: Operator :: LOW
+- EDU :: 12-2014 :: Associate of Arts : Business Administration :: LOW
+- EDU :: 10-2011 :: CompTIA Security+ Certified :: LOW
+- EDU :: 11-2009 :: Information Technology Specialist Training :: LOW
+- EDU :: 03-2009 -- 01-2012 :: Information Technology Online Training :: LOW
+- EDU :: 06-2011 :: SIPR/NIPR Access Point (SNAP) Terminal :: LOW
+- EDU :: 08-2010 :: Fiber Optic Connectors and Splicing Basic Installation Course :: LOW
+- AWD :: 00-0000 -- CURRENT :: Honorable Discharge, United States Army :: LOW
+- AWD :: 00-0000 -- CURRENT :: National Defense Service Medal :: LOW
+- AWD :: 00-0000 -- CURRENT :: Global War On Terrorism Service Medal :: LOW
+- AWD :: 00-0000 -- CURRENT :: Army Service Ribbon :: LOW
+- AWD :: 00-0000 -- CURRENT :: Overseas Service Ribbon :: LOW
+- AWD :: 00-0000 -- CURRENT :: Army Superior Unit Award :: LOW
+- AWD :: 00-0000 -- CURRENT :: Army Good Conduct Medal :: LOW
+- AWD :: 00-0000 -- CURRENT :: Numerous Certificates of Achievement and Coins of Excellent :: LOW

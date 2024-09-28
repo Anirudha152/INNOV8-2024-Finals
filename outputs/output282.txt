@@ -1,0 +1,65 @@
+## Education:
+- Bachelor of Arts : Business Administration :: DeVry University
+- Business Administration :: DeVry University
+- Business Information Systems :: DeVry University
+
+## Experience:
+- Senior Accountant :: Oversee the general accounting processes of Inter-company and financial reporting of all entities. Provide timely explanations of variances between actual results and forecasts/budgets; provide corrective action recommendations to management Responsible for bank reconciliation for 7 Inter-companies Prepare Prepayment schedule and apply monthly amortization Generate month end entries for prepayment's and accruals Reconciliation reports for all Balance Sheet accounts Work with internal and external auditors during reviews and audits to ensure full cooperation and compliance with all qualified requests. Ensure proper coding of general ledger accounts Submit wire transfers to pay vendors and inter-companies Record new assets and apply monthly depreciation Assist implementation of migration from previous accounting software to Microsoft Dynamics AX.
+- Senior Accountant :: Created revenue and expense account analysis Implement the migration from manual to automation systems for General Ledger Responsible for Accounts Payable/Accounts Receivable invoice processing and payment Responsible for bank reconciliation Production and reconciliation of various monthly reports using excel Generate month end entries such as prepayment's and accruals Develop and maintain accruals schedules for legal fees, leases and rent expense Ensure proper coding of general ledger accounts Responsible for paying invoices and cutting checks.
+- Senior Accountant :: Generated Accounts Receivable invoices for customers and recorded customer payments Recorded Accounts Payable invoices from vendors and applied payments to vendors Assisted with month end closing entries such as accruals, prepayment's and depreciation Managed general ledger and prepared and reviewed journal entries in QuickBooks Prepared bank reconciliations for two bank accounts Calculated Bi annual royalties for music artists Managed travelling and entertainments costs Interacted with customers and followed up on payment discrepancies Applied prompt payment for approved Music videos for ultra-records artists.
+- Staff Accountant/Financial Analyst :: Completed Accounts Payable/Accounts Receivable invoice processing and payment Managed weekly Accounts Receivable and Accounts Payable status meetings Managed general ledger accounts and assisted with month end entries Managed intercompany reconciliation at month end for various regions globally Created account analysis reports for each account in the chart of accounts with commentary Generated reports (Income Statement, Balance Sheet, Daily Sales) and provided commentary Assisted in migration from Sun 5 accounting system to Dynamics AX accounting software Assisted with general ledger management for multiple business units within company Completed 2014 budget for SML RPDI Minnesota region with presentation to CEO All filing and check depositing for SML NY office as well as travel & entertainment control.
+- Full-Charge Bookkeeper :: Responsible for the following: Accounts Payable (processed invoices and applied prompt payments to vendors) Accounts Receivable (processed sales orders /created invoices and sent to customer) Implemented entire QuickBooks system, including the input of vendors, customers and inventory adjustment entries Generated bank deposits and verified balance receipts Researched and resolved billing and collections disputes Generated income statement and balance sheet reports.
+
+## Skills:
+- generalaccounting
+- accountingsoftware
+- accountingsystem
+- AccountsPayable
+- AccountsReceivable
+- accruals
+- automation
+- balancesheet
+- balance
+- bankreconciliations
+- bankreconciliation
+- billing
+- budgets
+- budget
+- Bi
+- filing
+- financialreporting
+- GeneralLedger
+- generalledgeraccounts
+- inventory
+- invoiceprocessing
+- legal
+- meetings
+- MicrosoftDynamics
+- MicrosoftExcel
+- excel
+- office
+- MicrosoftPowerPoint
+- MicrosoftWord
+- migration
+- monthendclosing
+- Peachtree
+- pivottables
+- processes
+- coding
+- QuickBooks
+- Sales
+- Sun
+- Sun5
+
+## Sector:
+- Accounting
+
+## Timeline:
+- JOB :: 04-2016 -- CURRENT :: Senior Accountant :: MEDIUM
+- JOB :: 00-0000 -- 00-0000 :: Senior Accountant :: MEDIUM
+- JOB :: 06-2014 -- 11-2014 :: Senior Accountant :: MEDIUM
+- JOB :: 04-2008 -- 06-2014 :: Staff Accountant/Financial Analyst :: MEDIUM
+- JOB :: 02-2006 -- 03-2008 :: Full-Charge Bookkeeper :: MEDIUM
+- EDU :: 00-2006 :: Bachelor of Arts : Business Administration :: LOW
+- EDU :: 00-2006 :: Business Administration :: LOW
+- EDU :: 00-2006 :: Business Information Systems :: LOW

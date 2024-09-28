@@ -1,0 +1,63 @@
+## Education:
+- Certified Chief Information Officer (CIO) :: UNC-Chapel Hill
+- B.S :: North Carolina A&T State University
+
+## Experience:
+- Director of Information Technology :: Provides leadership in directing, planning, managing, and implementing the information technology needs of the City of Greensboro. Provided oversight and direction for the Application Services, GIS, Network Services and Public Safety IT divisions. Establishes guidelines and programs for effective information technology management. Facilitates and implements City-wide strategic policy for planning, development, and deployment of information technology.
+- Network Services Manager :: Managed the Desktop Services Division, which included the Help Desk, local area network, server administration, training and leasing of computer technology. Maintained and assisted with the support for enterprise-wide technology deployment. Ensured that the customers' technology needs were addressed and resolved in an efficient and effective manner.
+- Data Communications Analyst :: Installed, maintained, configured and analyzed the data communication needs for the City of Greensboro. Installed and configured modems, multiplexers, routers, control units and DEC and IBM terminals. Analyzed system needs and configuration requirements to acquire the appropriate equipment. Managed, maintained and resolved complex system problems with the IBM Mainframe, VAX systems, and servers.
+- Electronics Technician :: Repaired, installed, configured and maintained PC's, servers, modems and other communication equipment. Installed and designed network and data communication circuits. Managed setup and installed communication equipment which included mid-range servers, communications equipment, VAX systems and PC's.
+
+## Skills:
+- budget
+- client-server
+- customer satisfaction
+- DEC
+- directing
+- direction
+- GIS
+- Government
+- Help Desk support
+- Help Desk
+- IBM
+- IBM Mainframe
+- information technology
+- local area network
+- leadership
+- managing
+- Microsoft Exchange
+- 98
+- modems
+- enterprise
+- Network
+- organizational
+- PC's
+- Project leader
+- routers
+- Safety
+- SAN
+- servers
+- strategic
+- upgrading
+- VAX
+- VoIP
+- VSE
+- wiring
+
+## Sector:
+- Government
+
+## Timeline:
+- JOB :: 05-2000 -- 01-2014 :: Director of Information Technology :: HIGH
+- JOB :: 07-1998 -- 05-2000 :: Network Services Manager :: MEDIUM
+- JOB :: 06-1989 -- 07-1998 :: Data Communications Analyst :: MEDIUM
+- JOB :: 09-1986 -- 06-1989 :: Electronics Technician :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Certified Chief Information Officer (CIO) :: LOW
+- EDU :: 00-1986 -- 00-1986 :: B.S :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Member, North Carolina Local Government Information Systems Association (NCLGISA) :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Member, SouthEast Association of Telecommunications Officers and Advisors (SEATOA) :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Member, Public Technology Inc. (PTI) :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Previous Board Member, Greensboro Municipal Credit Union (Chairman, Technology Committee) :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Previous Board Member, Welfare Reform and Liaison Project (WRLP) :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Previous President, National Forum for Black Public Administrators (NFBPA), Triad Chapter :: LOW
+- AWD :: 00-1996 -- 00-1996 :: Employee of the Year finalist :: LOW

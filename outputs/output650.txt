@@ -1,0 +1,52 @@
+## Education:
+- Master of Business Administration : Finance :: University of Delaware
+- Bachelor of Science : Medical Technology :: University of Delaware
+
+## Experience:
+- Investment Accountant :: Reconciled mutual fund accounts with the custody Identified and Resolved differences in Custody and Accounting Cash, Currency and Positions using Eagle, IAX, Business Objects, Lombardi and Workbench Reports Communicated and Collaborated with other areas in the firm, client, fund accountant, custodians that are impacted by the functions of the team Conducted weekly client meetings and act as liaison between Accounting and custody to resolve any outstanding items in cash, currency and positions. Completed special projects from the management as needed Trained, Oversee and assisted staff in offshore team (Pune, India) and acted as a liaison between Pune Office and US. Helped US team by performing tests on Pega Vs. Business Objects and Eagle during the Platform Migration Trained new staff and assist them as needed to meet the department goals. Ran daily reports for fund accountants using business objects and MS Database.
+- AML Compliance Officer :: Audited customer's bank accounts in the company's system Performed quality assurance reviews on customer information maintained on various bank systems Reconciled the quality assurance results on spreadsheets Performed background search on clients using tools such as world check and google search
+- Medical Technologist :: Clinical Microbiology Experience - Highlights include ordering, processing, plating and culturing patient's specimens Tests - Performing rapid tests such as Rapid flu, C.Diff quick check and many more; Performing rapid and confirmatory tests to identify organism; Reading Gram stain slides. Other - Performing daily maintenance and running quality control on instruments.
+
+## Skills:
+- Internet
+- Microsoft Office
+- MS Word
+- MS Power Point
+- MS Excel
+- Pivot Tables
+- Spreadsheets
+- Macros
+- Business Objects
+- Lombardi
+- Eagle Accounting System
+- PEGA
+- DRAS
+- Workbench
+- Account reconciliations
+- Detail-oriented
+- Variance analysis
+- Analytical
+- Account reconciliation expert
+- Effective time management
+- Complex problem solving
+- Superior research skills
+- Database
+- Macros
+- V-look up
+- Pivot tables
+- Outlook
+
+## Sector:
+- Finance
+
+## Timeline:
+- JOB :: 10-2012 -- 11-2015 :: Investment Accountant :: MEDIUM
+- JOB :: 11-2011 -- 03-2012 :: AML Compliance Officer :: MEDIUM
+- JOB :: 07-2008 -- 03-2012 :: Medical Technologist :: LOW
+- EDU :: 00-2011 -- 00-2011 :: Master of Business Administration : Finance :: LOW
+- EDU :: 00-2008 -- 00-2008 :: Bachelor of Science : Medical Technology :: LOW
+- AWD :: 00-2013 -- 00-2013 :: Received a special achievement award at BNY Mellon Bank in Asset Servicing :: LOW
+- AWD :: 00-2014 -- 00-2014 :: Received a special achievement award at BNY Mellon Bank in Asset Servcing :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Finance Projects at UD :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Project 1: Group simulation project to develop the investment philosophy and strategy to drive a simulated investment of $1,000,000 using Stock-Track. Invested about 50% of our funds in moderate to high-risk investment in order to achieve capital appreciation; Invested about 25% of our funds in low to moderate risk investment in order to preserve our capital. Invested 25% of our funds in derivatives and rest in index fund, cash and money market. Performed an analysis to determine the allocation of stocks by minimizing CV and graphed the daily returns for each stocks Performed regression analysis and analyzed the regression statistics on weekly returns. Performed an analysis on our group's portfolio with the market and with other groups. :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Case analysis on Price Momentum Strategy Used price momentum model analysis to test whether the price momentum model will work on US stock market as it did with the US Canadian stocks. Used the weighted annual returns and created the worst outlook portfolio and the best outlook portfolio Selected the top eight performing stocks for each quarter to create the best outlook portfolio and compared to the market to determine if the pricing momentum would hold up. Calculated the average return for each portfolio and rebalanced the portfolio and compared to the S&P 500 for each quarter within the same time period. :: LOW

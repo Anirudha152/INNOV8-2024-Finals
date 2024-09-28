@@ -1,0 +1,58 @@
+## Education:
+- Master of Science : Chemical Engineering :: University of Lagos
+- Master of Science Degree : Computer Science and Information Technology :: University of the District of Columbia
+- Bachelor of Engineering : Chemical Engineering :: Federal University of Technology
+- Data Communication Network, Course Title: Ample view towards 5g mobile network :: University of the District of Columbia
+- Information Security, Course :: University of the District of Columbia
+
+## Experience:
+- Information Technology Specialist :: Build, implement or support electronic health records and other systems that store patient's data. Assisted in network management and software development. Took periodic review of set standards and database.
+- Principal Chemical Engineer / Information Technology Specialist :: Monitored, implemented, and maintained IT systems. Produced technical reports, analyzed data, and built databases. Facilitated discussions to resolve a safety concern with a key process monitoring instrument. Planned and designed technology related activities aimed at nurturing the growth of innovative businesses. Provided technical support and capacity building in science and technology. Collaborated with market development on new IT technologies for industrial and consumer groups.
+- Facility Engineer Intern :: Analyzed process data from newly revamped furnace to improve efficiency of long-term performance monitoring plan by over 50%. Developed and maintained of engineering/operating standards through periodic review. Improved 40% Reliability/uptime performance and cost reduction efforts for the production units. Managed materials through preventive/corrective maintenance of products.
+- Engineer Intern :: Produce a piping and instrumentation diagram of the pumphouse, cooling tower and condensate lines. Led weekly group meetings with interns and management for future improvements. Monitored, troubleshoot, and observed operations and processes for quality, damages and /or defects.
+
+## Skills:
+- Administrative
+- ExcellentInterpersonalSkills
+- ExcellentCommunication
+- costreduction
+- databases
+- database
+- electronichealthrecords
+- InformationSecurity
+- marketdevelopment
+- materials
+- meetings
+- MicrosoftProducts
+- networkmanagement
+- Network
+- organizationalskills
+- ProblemSolvingSkills
+- processes
+- quality
+- Research
+- Riskanalysis
+- safety
+- Securityanalysis
+- softwaredevelopment
+- technicalsupport
+- troubleshoot
+- view
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 08-2015 -- 05-2020 :: Information Technology Specialist :: MEDIUM
+- JOB :: 10-2005 -- 06-2015 :: Principal Chemical Engineer / Information Technology Specialist :: MEDIUM
+- INT :: 10-2002 -- 09-2003 :: Facility Engineer Intern :: LOW
+- INT :: 08-2000 -- 01-2001 :: Engineer Intern :: LOW
+- EDU :: 11-2005 -- 00-0000 :: Master of Science : Chemical Engineering :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Master of Science Degree : Computer Science and Information Technology :: LOW
+- EDU :: 09-2001 -- 00-0000 :: Bachelor of Engineering : Chemical Engineering :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Data Communication Network, Course Title: Ample view towards 5g mobile network :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Information Security, Course :: LOW
+- MEM :: 00-0000 -- CURRENT :: Information Technology Specialist :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Licensed Registered Engineer :: LOW
+- EVE :: 00-0000 -- 00-0000 :: "Effective Research/Planning, Organizational Goal Implementation and Sustainable Monitoring Capacity 2014 Building Programme" :: LOW
+- EVE :: 00-0000 -- 00-0000 :: "Project Plans and Implementation Plan Gap Management" :: LOW

@@ -1,0 +1,58 @@
+## Education:
+- Masters of Business Information Technology :: Walsh College
+- Bachelor :: Rochester College
+
+## Experience:
+- Senior Analyst Data Quality & Governance :: Create policies and procedures for actuarial and analytics group Monitor adherence to policies with scheduled reviews Conduct training on quality and governance policies Lead analyst for HIPAA compliance Create and analyze validation reports for health plan data Lead discussions regarding data issues identified
+- Healthcare Data Analyst :: Experience with process analysis and other analytic functions Ability to interact effectively with different business units, team members, and external client at all levels Creates ad hoc data analyses and reports as needed Prepares monthly, quarterly, and annual reports of established clinical, utilization, and financial metrics for all Health Ministries and SmartHealth Proficient in computer and analytic tools such as SAS, SQL, and MS Office (excel and access) Performs medical and prescription drug claims analysis necessary to understand relative unit pricing across provider networks, and to inform decisions about provider fee schedules. Generates eligibility, medical, and pharmacy claims data needed for each Health Ministry to support budgeting, rate development, and manage the reinsurance program.
+- Business Analyst :: Responsible for identifying processes to streamline and assist with various projects Created and maintained access databases for departmental use Identified system issues and coordinated with vendor for resolution Involved in project planning and testing system enhancements Defined business requirements for various projects Created adhoc reports as needed Created audit process for all securities applications Created reports for SEC and FINRA audits.
+- Finance Analyst :: Backup to department manager Created and maintained managerial reporting daily, monthly, quarterly and yearly Created work schedule for department on weekly basis Created and distributed department stats and analysis to upper management monthly Primary contact for electronic invoicing candidates Created multiple databases for interdepartmental need.
+- Trust Analyst :: Responsible for daily operations of 401(k) accounts for retirement services clients. Balanced 401(k) accounts on a weekly, monthly, quarterly, and yearly basis. Researched and resolved out of balance situations quickly.
+- Conversion Analyst :: Responsible for managing incoming and outgoing account conversions, daily DTCC reconciliation troubleshooting, and problem-solving. Revised an existing Microsoft Access program for incoming assets for accuracy Created a new reporting process in Access to identify asset balance discrepancies Resolved daily out of balance situations with various depository institutions
+- Registration Analyst :: Responsible for re-registration of physical assets for trust customers Streamlined processes by automating applications for quicker processing and problem resolution Solved re-registration issues through brainstorming and troubleshooting Created a Microsoft Access program to track pending registration issues and generate reports Collaborated with company legal counsel for asset restriction removal Authored and updated procedures for registration process.
+
+## Skills:
+- StreamlineProcesses
+- BusinessObjects
+- Cognos
+- CrystalReports
+- CustomerService
+- DataAnalysis
+- Databases
+- FinancialInvoicing
+- Managing
+- MicrosoftAccess
+- MicrosoftExcel
+- MicrosoftOffice
+- Problem-Solving
+- ProblemResolution
+- ProcessAnalysis
+- ProjectManagement
+- ProjectPlanning
+- UserAcceptanceTesting
+- Reporting
+- SAS
+- SecuritiesReporting
+- SQL
+- Troubleshooting
+- Annualreports
+- TableauServer
+- TableauDesktop
+
+## Sector:
+- Healthcare
+
+## Timeline:
+- JOB :: 04-2018 -- CURRENT :: Senior Analyst Data Quality & Governance :: MEDIUM
+- JOB :: 04-2012 -- CURRENT :: Healthcare Data Analyst :: MEDIUM
+- JOB :: 03-2008 -- 05-2012 :: Business Analyst :: MEDIUM
+- JOB :: 06-2005 -- 05-2008 :: Finance Analyst :: MEDIUM
+- JOB :: 02-2003 -- 03-2005 :: Trust Analyst :: MEDIUM
+- JOB :: 02-2002 -- 02-2003 :: Conversion Analyst :: MEDIUM
+- JOB :: 02-2000 -- 02-2002 :: Registration Analyst :: MEDIUM
+- EDU :: 00-2007 -- 00-2007 :: Masters of Business Information Technology :: LOW
+- EDU :: 00-1996 -- 00-1996 :: Bachelor :: LOW
+- EVE :: 00-0000 -- CURRENT :: Volunteer weekly in local elementary school in reading development :: LOW
+- EVE :: 00-0000 -- CURRENT :: Lead business meetings on a weekly basis :: LOW
+- EVE :: 00-0000 -- CURRENT :: Volunteer in children's church on a weekly basis :: LOW
+- EVE :: 00-0000 -- CURRENT :: Taught Sunday school classes :: LOW

@@ -1,0 +1,31 @@
+## Education:
+- Administration of Justice :: College of the Canyons
+- Certificate :: Naval Fleet Training Center
+- Micro-miniature Electronics Repair :: Center for Surface Combat Systems
+- Miniature Electronics Repair :: Naval Air Technical Training Center
+- High School Diploma :: Diamond Ranch High School
+
+## Experience:
+- Lead Aerospace Assembler :: Trained and led a team of six assemblers to quickly and efficiently build landing gear beams Ensured all equipment was properly installed and working correctly. Planned work and determined appropriate tools and equipment needed for the workday.  Processed work orders and prioritized jobs. Communicated with prior shift to assess work needs for the day.
+- Aviation Electronics Technician :: Adjust, repair, or replace malfunctioning components on assemblies or circuit boards by using hand tools or soldering irons. Test and troubleshoot instruments, components and assemblies, using multimeters. Connect components to assemblies such as transformers, relays, switches, in-flight refueling systems, etc. Read and interpret maintenance manuals, technical publications, and engineering diagrams to determine the feasibility and method of repairing defective components. Keep records of maintenance and repair work. Coordinate work with engineers, technicians and other aircraft maintenance personnel. Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.
+
+## Skills:
+- CriticalThinking
+- DecisionMaking
+- Hand/PowerTools
+- ThoroughlyInspectsWork
+- ProblemSolving
+- TimeManagement
+- Troubleshooting
+
+## Sector:
+- Aerospace
+
+## Timeline:
+- JOB :: 06-2016 -- CURRENT :: Lead Aerospace Assembler :: MEDIUM
+- JOB :: 09-2011 -- 10-2015 :: Aviation Electronics Technician :: MEDIUM
+- EDU :: 00-2010 -- 00-2010 :: High School Diploma :: LOW
+- EDU :: 00-2011 -- 00-2011 :: Miniature Electronics Repair :: LOW
+- EDU :: 00-2011 -- 00-2011 :: Micro-miniature Electronics Repair :: LOW
+- EDU :: 00-2012 -- 00-2012 :: Certificate :: LOW
+- EDU :: 00-2018 -- 00-2018 :: Administration of Justice :: LOW

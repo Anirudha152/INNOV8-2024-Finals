@@ -1,0 +1,99 @@
+## Education:
+- Bachelor of Science : Information System :: University of Phoenix
+- Associate of Science : Computer Technology :: American River College
+
+## Experience:
+- Information Technology Manager :: Provide leadership, vision and management to the IT department.Develop Capitol Budget, monitor and approve department expenditures.Manage, monitor and maintain network infrastructure.Manage Phone System, including call center and office phones.Manage all hardware and software configuration, installation and maintenance.Manage IT Staff, scheduling, performance review, training, hiring, termination anddisciplinary action.Maintain (PCI DSS) Payment Card Industry Data Security Standards of information. systems.Research new technologies and calculate future needs to achieve capacity planning.Perform technical analysis to improve business processes to save cost and time.Manage technology documents, maintenance agreements & service contracts.
+- Computer Manufacturing Supervisor :: Supervised a team of 25 computer assemblers, 3 testers and 6 technicians.Organized computer assembly and testing for daily production.Implemented procedures for safety, performance and policies.Ensured all employees were trained in the process of manufacturing.Monitor software and hardware evaluation to ensure compatibility. Managed Documentation Control for all hardware and software.Provided resolutions to engineering, Logistics and Management.Coordinated daily resolutions of issues through team-effort and effective communication.
+- Quality Assurance Supervisor :: Supervised a team of 15 Computer quality inspectors and 8 software evaluators.Hired, Interviewed and promoted candidates for new positions.Coordinated quality assurance of new product development and proto-types.Monitored software and hardware compatibility and reliability.Managed Documentation Control for all hardware and software.Monitor schedules, training, expenditure and documentation.Interview vendors for devices, parts and components evaluation.Counseled employees to improve morale, productivity and teamwork.Interpreted instructions for the ISO 9000 compliance.Implemented procedures for safety, performance and policies.Maintain effective communication channels for quality improvement.Assessed product viability and planned improvement and modifications.
+
+## Skills:
+- ActiveDirectory
+- Adobe
+- Antivirus
+- BackupExec
+- Backup
+- Budget
+- businessprocesses
+- callcenter
+- capacityplanning
+- Cisco
+- computerassembly
+- Hardware
+- contracts
+- DirectAttachedStorage
+- DAS
+- Database
+- Dell
+- DellServers
+- Designing
+- Desktops
+- Documentation
+- Firewall
+- HP
+- hiring
+- informationsystems
+- ISO9000
+- Leadership
+- Linux
+- Logistics
+- Mac
+- MACOS
+- Managing
+- Access
+- MicrosoftCertifiedProfessional
+- MicrosoftExchange
+- MicrosoftOfficeProfessional
+- office
+- MicrosoftProject
+- MicrosoftSQL
+- MicrosoftVisioProfessional
+- Windows7
+- Windows8
+- Windows
+- Enterprise
+- NAS
+- NetworkAttachedStorage
+- NetworkPrinters
+- Network
+- Networking
+- newproductdevelopment
+- OperatingSystems
+- PBX
+- PCI
+- PhoneSystem
+- policies
+- ProjectManagement
+- quality
+- qualityassurance
+- qualityimprovement
+- QuickBooksPro
+- Research
+- Robotic
+- safety
+- StorageAreaNetwork
+- SAN
+- scheduling
+- Servers
+- MicrosoftSQLServer
+- Symantec
+- teamwork
+- technicalanalysis
+- phones
+- Troubleshooting
+- upgrade
+- VisioProfessional
+- vision
+- WebPortal
+- WAN
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 07-2000 -- CURRENT :: Information Technology Manager :: HIGH
+- JOB :: 09-1998 -- 09-1999 :: Computer Manufacturing Supervisor :: MEDIUM
+- JOB :: 04-1995 -- 03-1998 :: Quality Assurance Supervisor :: MEDIUM
+- EDU :: 00-2000 -- 00-2000 :: Bachelor of Science : Information System :: LOW
+- EDU :: 00-1993 -- 00-1993 :: Associate of Science : Computer Technology :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Microsoft Certified Professional :: LOW

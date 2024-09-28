@@ -1,0 +1,70 @@
+## Education:
+- BA : Management :: Western Governor's University
+- General Studies :: University of Phoenix
+- Diploma : General Studies :: Denmark High School
+
+## Experience:
+- Experienced Information Technology Manager :: Highly accomplished professional with over 10 years of experience in a variety of management areas. Astute in identifying operational business needs, turning needs into requirements, and producing supporting business and reporting systems. Skilled in all phases of project management, managing resources and personnel, and leadership. Demonstrated ability to implement effective systems and manage high output work teams.
+- Applications Team Leader :: Manager of Business Intelligence, DBA, SharePoint, and Web departments; including strategic planning, overall systems architecture, and personnel. Work with a variety of vertical and horizontal reporting structures to communicate progress and status. Cultivate relationships with all levels within the organization to build strong partnerships. Review reporting, database, SharePoint, and web practices to ensure proper techniques utilized, handle all project management, and oversee departmental staff development, compensation, and hiring practices. Management of personnel includes both onshore and offshore consultants as well as company employees.
+- Business Intelligence Manager :: Manager of reporting department; including strategic planning, and overall systems architecture. Worked with all levels of the organization to communicate project status, and created and maintained relationships with executives to adhere to company goals. Performed data analysis, management of reporting software systems and data warehouse environment, reviewed reporting practices to ensure proper techniques utilized, handled all project management, and oversaw departmental budget and staff development, compensation, and hiring practices.
+- Information Systems Software Administrator :: Managed and maintained all software packages for the entire organization including ERP, CRM, SQL databases, and reporting software. Lead efforts to analyze company needs and determine where software in use could best be configured to align with company needs. Worked with all levels of the company to maintain and administer both software and reporting needs. Managed Help Desk personnel.
+
+## Skills:
+- branding
+- budgets
+- budget
+- BusinessAnalysis
+- BI
+- BusinessIntelligence
+- businessmanagement
+- BusinessObjects
+- CRM
+- dataanalysis
+- datawarehouse
+- DBA
+- databases
+- database
+- decisionmaking
+- ERP
+- Financial
+- focus
+- HelpDesk
+- hiring
+- Leadership
+- managing
+- MicrosoftOffice
+- SharePoint
+- Oracle
+- personnel
+- PersonnelManagement
+- producing
+- progress
+- ProjectManagement
+- quality
+- reporting
+- SAPBW
+- SAP
+- MSSQL
+- SQL
+- staffdevelopment
+- strategicplanning
+- systemsarchitecture
+- technicalassistance
+- UserTraining
+- Upgrade
+- website
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 05-2012 -- CURRENT :: Applications Team Leader :: MEDIUM
+- JOB :: 12-2005 -- 05-2012 :: Business Intelligence Manager :: HIGH
+- JOB :: 11-1997 -- 10-2005 :: Information Systems Software Administrator :: MEDIUM
+- EDU :: 00-2012 :: BA : Management :: LOW
+- EDU :: 00-2007 :: General Studies :: LOW
+- EDU :: 00-1993 :: Diploma : General Studies :: LOW
+- MEM :: 00-2011 -- CURRENT :: Girl Scouts of America - Troop Leader/Volunteer :: LOW
+- MEM :: 05-2015 -- CURRENT :: *Women in Technology Wisconsin, Inc. - Brand Ambassador :: LOW
+- MEM :: 00-2009 -- 00-2012 :: Allouez Traffic and Safety Committee :: LOW
+- MEM :: 00-2007 :: Leadership Green Bay :: LOW

@@ -1,0 +1,39 @@
+## Education:
+- Master of Science : Computer Information Systems :: Murray State University
+- Master of Arts : Education :: Murray State University
+- Bachelor of Science : Education :: Murray State University
+
+## Experience:
+- Adjunct Information Technology Instructor :: Taught courses concerning the Python, Visual Basic, and C# programming languages. Sat on CIT advisory board committee to improve and recruit students to the KCTCS CIT program.
+- Information Technology Instructor and School Technology Coordinator :: Responsible for meeting the educational needs of high school students.Instructed classes concerning A+ certification, Cisco certification, web design, programming, game design, and help desk. Taught programming courses concerning C#, Python, Java, and Javascript programming language, as well as taught various web frameworks. STC support staff for CTE Unit to meet staff's technological needs including LMS support, teacher technology training, and maintaining school website. Developed mobile applications with student body to meet district needs. Supervisor of internally ran Help Desk, support ticket maintenance, and department head of technology troubleshooting for staff. 
+- Geek Squad Agent :: Set up, tested and configured networks, desktops, laptops and printers. Coordinated hardware and software repair processes with outside vendors. Trained  new employees in effective diagnostic and repair procedures. Analyzed software, hardware and network systems for various transmission systems. Configured and installed routers, switches and wireless controllers.
+
+## Skills:
+- Python
+- Visual Basic
+- C#
+- A+ certification
+- Cisco certification
+- web design
+- programming
+- game design
+- help desk
+- Java
+- Javascript
+- Google and Microsoft suite experience
+- project management
+- educating teachers on the use of technology in the classroom
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- EDU :: 01-2011 -- 00-2011 :: Bachelor of Science : Education :: LOW
+- EDU :: 00-2013 -- 00-2013 :: Master of Arts : Education :: LOW
+- EDU :: 00-2015 -- 00-2015 :: Master of Science : Computer Information Systems :: LOW
+- JOB :: 04-2007 -- 09-2010 :: Geek Squad Agent :: LOW
+- JOB :: 11-2011 -- CURRENT :: Information Technology Instructor and School Technology Coordinator :: MEDIUM
+- JOB :: 01-2014 -- CURRENT :: Adjunct Information Technology Instructor :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Kentucky Colonel Award :: LOW
+- MEM :: 00-0000 -- 00-0000 :: HCHS Curriculum Committee - Vice Chair :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Cum Laude - Murray State University :: LOW

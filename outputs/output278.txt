@@ -1,0 +1,57 @@
+## Education:
+- Bachelor of Degree :: UNITED STATES AIR FORCE ACADEMY
+- Bachelor of Science : Aeronautical Engineer :: UNITED STATES AIR FORCE ACADEMY
+- Bachelor of Science : Aeronautical Engineer :: COLORADO ACADEMY
+
+## Experience:
+- INVESTMENT BANKING SUMMER ANALYST :: Advised on $1.2B sell-side M&A deal, completed buy-side M&A screen, and contributed to 11 total project teams Drove financial analysis for sell-side M&A deal, built the levered model projecting operations, financing and returns Completed 3 subsequent model iterations and built sensitivities; coded Excel macros to improve client experience Communicated with clients, partner banks, Goldman leadership to create investor materials and facilitate deal processes Performed M&A screen for $20B client, designed 7 quantitative screen criteria and ranked 30 potential targets Built accretion-dilution mini-combo model with flexible architecture facilitating numerous targets and premium scenarios Read equity research and 10-Ks to create profiles, perform sum-of-the-parts valuation, and write growth commentary.
+- FINANCE RESEARCH ASSISTANT :: Analyzed SEC filings to assess target company valuations of strategic buyers compared to those of financial buyers Reviewed over 300 takeover auction background, identifying data points to calculate takeover premiums paid Systemically organized information using Excel to facilitate data analysis and further research Reviewed final paper for previous, relevant topic, and provided content and conceptual improvements.
+- SALES CLERK :: Advised customers and completed sales Increased sales earnings by 20% in the Junior's Department for the period of June to August Named "Employee of the Month" by recommendation of customers for friendly and helpful service (July).
+
+## Skills:
+- Java
+- C+
+- Python
+- App development
+- Calculus
+- content
+- client
+- clients
+- data analysis
+- Economics
+- equity
+- Finance
+- financing
+- financial
+- financial analysis
+- French
+- leadership
+- macros
+- materials
+- Excel
+- pick
+- processes
+- Read
+- research
+- sales
+- SAT
+- Spanish
+- Statistics
+- strategic
+- Technical Training
+- unique
+- valuation
+
+## Sector:
+- Investment Banking
+
+## Timeline:
+- JOB :: 05-2013 -- 08-2013 :: INVESTMENT BANKING SUMMER ANALYST :: MEDIUM
+- JOB :: 05-2012 -- 05-2013 :: FINANCE RESEARCH ASSISTANT :: LOW
+- JOB :: 05-2011 -- 08-2011 :: SALES CLERK :: LOW
+- EDU :: 00-2011 -- 05-2011 :: COLORADO ACADEMY :: LOW
+- EDU :: 00-0000 -- 05-2015 :: UNITED STATES AIR FORCE ACADEMY :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Roslyn Schulte Memorial Scholarship :: LOW
+- EVE :: 00-0000 -- 00-0000 :: London School of Economics Study Abroad Program :: LOW
+- MEM :: 11-2011 -- CURRENT :: FOUNDER/PRESIDENT :: HIGH
+- UKN :: 00-0000 -- 00-0000 :: "Employee of the Month" :: LOW

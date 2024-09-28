@@ -1,0 +1,62 @@
+## Education:
+- Information Systems :: Park University
+- Bachelor of Science : Management :: Park University
+
+## Experience:
+- VP of Information Technology :: Hired to transform the IT department, which was successful within the first few months.  Developed an IT strategy designed to increase sales and business process efficiency, and lower costs and company risk. Built and managed a highly effective team of employees, vendors, and service providers. Reporting to the CEO, responsible for all information technology budgeting, vendor negotiations, and business intelligence.  Responsible for the IT Budget, task management and delegation, and IT staff mentoring and reviews.
+- VP of Information and Security Technology :: Lead all IT operations, including purchasing, budget and structure.  Conduct performance reviews and record results. Prepare and deliver reports and presentations on IT issues for CEO and VP of Sales on Demand. Train employees on system use, workflow procedures, and technology policies. Manage employees in connection with IT functions. Manage outside vendors and consultants as needed. Served as the HIPAA compliance officer.  Worked with marketing and the VP of Product Development to align new products concepts with corporate technology and corporate strategic goals.
+- Director of Information Technology :: Managed all information security to follow HIPAA Compliance guidelines.  Advise the CEO and other executives on advanced technology solutions.  Began serving on the Executive Management Team. Met with client executives to determine client needs, project requirements, and feasibility; translate the needs into technical requirements.  Established high functioning lean IT department to quickly respond to internal and external IT support requests.  Bolstered system performance through design and development of new Electronic Data Processing system by leveraging expertise with Visual Studio 2010, SQL Server, and ASP.NET. Oversaw all areas of Infrastructure.
+- Information Technology Manager :: Continued to improve and expand the Commissions Tracking Application.  Gained expertise in the companies CRM and digitally integrated the Commissions Tracking System with the CRM.  Increased system uptime from 80% to over 99% by implementing new Hyper-V virtual servers/DFS with no downtime.  Developed and deployed corporate software and apps to employee's mobile devices for streamline corporate use and uniformity.
+- Application Developer :: Spearheaded major, year-long initiative to plan, design, build, and implement an ETL commission database system utilizing SQL databases and ASP.Net, including data analysis reporting that recovered more than $2.5M in "lost" commissions.  Provided some end-user desktop support.
+
+## Skills:
+- ASP.Net 4.5
+- ASP.Net
+- VB.NET
+- Active Directory
+- Backup
+- Budget
+- Contract negotiation
+- CRM
+- Data Analysis
+- Data Processing
+- Databases
+- Disaster Recovery
+- ETL
+- EDI
+- ITIL
+- Training
+- Executive Management
+- Senior Management
+- GoldMine
+- Information Security
+- HealthCare IT
+- IT support
+- Leadership
+- Marketing
+- Network analysis
+- Performance reviews
+- VoIP
+- Presentations
+- Process Enhancement
+- Product Development
+- Servers
+- SQL
+- SQL Server
+- Strategy
+- Desktop support
+- Visual Studio
+- Workflow
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 07-2014 -- 03-2017 :: VP of Information Technology :: HIGH
+- JOB :: 02-2009 -- 05-2014 :: VP of Information and Security Technology :: HIGH
+- JOB :: 02-2006 -- 02-2009 :: Director of Information Technology :: HIGH
+- JOB :: 02-2003 -- 02-2006 :: Information Technology Manager :: MEDIUM
+- JOB :: 08-2002 -- 02-2003 :: Application Developer :: MEDIUM
+- EDU :: 00-2014 -- 00-2014 :: Information Systems :: LOW
+- EDU :: 00-2007 -- 00-2007 :: Bachelor of Science : Management :: LOW
+- JOB :: 07-1997 -- 07-2001 :: Electronics Technician :: MEDIUM

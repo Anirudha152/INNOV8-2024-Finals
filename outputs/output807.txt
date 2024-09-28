@@ -1,0 +1,70 @@
+## Education:
+- MBA :: CARNEGIE MELLON UNIVERSITY, TEPPER SCHOOL OF BUSINESS
+- B.S : Finance :: UNIVERSITY OF SOUTH FLORIDA
+
+## Experience:
+- Management Consultant :: Utilized management abilities and knowledge of coding to oversee a team of 10 software engineers tasked with designing a back office database for a multi-billion dollar client Managed cross-functional teams in a high demand environment to complete a global strategy project under strenuous deadlines Drafted proposals for client engagements highlighting the expectations of service, engagement pricing and associated costs Evaluated CCAR vendor models and developed proprietary probability of default models for a multi-billion dollar mortgage portfolio Created valuation models designed to value both public and private equity for tax reporting purposes.
+- Investment Banking Analyst :: Assisted lead associate and vice president in facilitating merger and acquisition transactions in the life science industry by reviewing and analyzing pro forma financial statements and updating models accordingly Created processes around the sales cycle to monitor and improve sales performance while keeping a more precise account of prior prospecting efforts Maintained the CRM system and streamlined its use through extensive, voluntary training making the team more efficient and impactful.
+- Financial Advisor :: Evaluated the financial plans of current and prospective clients and provided recommendations that would reasonably ensure they meet their future financial goals Assembled a team of estate planners, investment specialists and CPAs providing a comprehensive planning board for clientele.
+- Institutional Equity Sales :: Utilized strong written and verbal communication skills to distill complex financial topics into salient points for clientele Evaluated research reports and valuation models to gain a holistic understanding of the research product Developed an interactive, online database through R programming to hold 13F and trade data which eliminated redundancies in the desk's daily processes Collaborated across multiple segments of the firm including research, syndicate, corporate access and derivatives personnel Managed multiple client requests in a fast pace environment by staying organized and keeping detailed accounts of tasks.
+
+## Skills:
+- Management
+- Coding
+- Cross-functional
+- Strategy
+- Proposals
+- Client
+- Pricing
+- Costs
+- CCAR
+- Probability of default
+- Valuation
+- Public
+- Private
+- Equity
+- Tax
+- Reporting
+- Merger
+- Acquisition
+- Financial statements
+- Sales
+- CRM
+- Training
+- Financial plans
+- Estate
+- Investment
+- CPAs
+- Written communication skills
+- Verbal communication skills
+- Research reports
+- Valuation models
+- R programming
+- 13F
+- Trade data
+- Research
+- Syndicate
+- Corporate access
+- Derivatives
+- Microsoft Office Suite
+- Factset
+- Ipreo
+
+## Sector:
+- Finance
+
+## Timeline:
+- JOB :: 07-2013 -- 12-2014 :: Management Consultant :: MEDIUM
+- JOB :: 11-2010 -- 02-2011 :: Investment Banking Analyst :: LOW
+- JOB :: 11-2008 -- 11-2010 :: Financial Advisor :: LOW
+- JOB :: 12-2014 -- CURRENT :: Institutional Equity Sales :: MEDIUM
+- EDU :: 05-2013 -- 00-0000 :: MBA :: LOW
+- EDU :: 12-2009 -- 00-0000 :: B.S : Finance :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Graduate Finance Association :: LOW
+- MEM :: 00-0000 -- 00-0000 :: Alpha Club :: LOW
+- MEM :: 00-0000 -- 00-0000 :: The Soccer Club :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Bright Futures Scholar :: LOW
+- AWD :: 00-0000 -- 00-0000 :: National Honor Society :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Chartered Financial Analyst :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Series 7 :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Series 63 :: LOW

@@ -1,0 +1,63 @@
+## Education:
+- Bachelor of Science : Information System Security :: Colorado Technical University
+- Certificate of Completion : Network Administrator :: Centriq Training
+- Bachelor of Science : Information Security :: Columbia Southern University
+
+## Experience:
+- Advanced Level Wheeled Vehicle Mechanic :: Successfully provided training and schedules, supervised, and guided my team through all aspects of recovery operations, in-process inspection/troubleshooting procedures, repairs and overhaul of all assigned wheeled vehicle mechanical and electrical components and systems, including but not limited to: power plant/packs, compression ignition engines, engine fuel systems, air induction and exhaust systems, cooling systems, vehicle chassis, frame cross members, clutches assemblies, transmissions, transfers, final drives, propeller shaft assemblies, brake systems steering systems, suspensions systems, fifth wheel assemblies, wheeled vehicle crane, hoist and winch assemblies, and hydraulic systems, and automotive electrical systems. Supervised and performed diagnostic troubleshooting to determine maintenance repair criteria using Test Measurement Diagnostic Equipment (TMDE). Performed equipment classification inspections and processed all appropriate documentation. Performed battlefield damage, assessment, and repair (BDAR). Supervised team performance in compliance with all applicable safety and security guidelines and standards, including OSHA and 670-1 Army Standard of Procedures. Responsible for parts and maintenance of over 125 vehicles, I trained my soldiers on the use of the electronic manual to research part numbers. I was responsible for all parts, orders and procurement schedules, and I conducted monthly, quarterly, and yearly inventories of all shop tools and tents. Controlled Government Owned Property including vehicles, supplies and tooling valued at approximately $3 million. Coordinated and prepared Up Armored Vehicles, Tools and supplies for travel to Iraq May 2009. Researched and provided Military Intelligence to mission going Soldiers during the 12-month deployment of Operation Iraqi Freedom Campaign. I supervised and provided training and guidance to eight soldiers, and helped them initiate their civilian and military education, fostering personal and professional development.
+- Organizational Apprentice Maintenance Technician :: Maintained and serviced aircraft engine, fuel, and lubrication systems. Handled and serviced aircraft ashore, or aboard a ship. Performed complete aircraft turbo shaft and turboprop engine repair to determine reasons for engine degradation through spectrometric oil analysis tests. I also evaluated jet engine performance by using jet test cells for fixed turbojet engines Corrosion Control - As an Aviation Mechanic, I ensured the proper handling and disposal of hazardous materials according to OSHA and NAVOSH standards. I maintained all 60 FA-18 Super Hornets up to U.S. Navy paint scheme and corrosion protection standards, without incident. I successfully maintained 60 government owned FA-18 E/F Super Hornets, valued at $3.6 billion, while supervising Navy airmen up to E3. I effectively trained airmen on OSHA and NAVOSH Hazmat disposal requirements, conducted in training for Ship Board readiness in Rim Pac Maneuvers in 1995 and 1997, and deployed on two Naval Westpac's in 1996 and 1997. I also conducted maintenance and paint scheme training on the F/A 18 E/F super Hornet during Carrier Qualifications aboard the U.S.S. Lincoln. As Tool Petty Officer, I was in charge of controlling additional government owned property, including shop tools valued at $80,000, as well as 20 mechanics' tool boxes valued at $120,000.
+- Aviation Mechanic :: 
+
+## Skills:
+- A+Certified
+- ActiveDirectory
+- BackupHardware
+- ComputerTroubleshooting
+- ClientSupport
+- DHCP
+- FileServers
+- IPConfiguration
+- Power Point
+- Excel
+- Word
+- Access
+- MCSE
+- Windows7
+- NetworkSecurity
+- Routing
+- TCP/IPProtocol
+
+## Sector:
+- Military
+
+## Timeline:
+- JOB :: 04-2008 -- 06-2012 :: Advanced Level Wheeled Vehicle Mechanic :: MEDIUM
+- JOB :: 01-2000 -- 00-2000 :: Organizational Apprentice Maintenance Technician :: LOW
+- JOB :: 11-1994 -- 05-2002 :: Aviation Mechanic :: LOW
+- EDU :: 00-2016 -- CURRENT :: Bachelor of Science : Information System Security :: LOW
+- EDU :: 00-2012 :: Certificate of Completion : Network Administrator :: LOW
+- EDU :: 00-2011 :: Bachelor of Science : Information Security :: LOW
+- UKN :: 00-0000 -- 00-0000 :: CompTIA A+ Certified :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Pursuing Network Security Certification :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Centriq Administrator Program Certificate :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Military Basic Military Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Duke (electronic warfare) Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Rollover in MRAP's and Humvee's Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: IED Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: MRAP's (Mine Resistant Ambush Protected) Vehicles Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Combat Life Saver Skills Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Aberdeen Proving Ground 91B (Light Wheel Mechanic) Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: F/A 18 Power Plant Training :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Air Craft Corrosion Control & Paint Touch Up and Markings :: LOW
+- UKN :: 00-0000 -- 00-0000 :: Ship Board Fire Fighting School :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Meritorious Unity Commendation Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: USN Commendation :: LOW
+- AWD :: 00-0000 -- 00-0000 :: National Defense Service Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Armed Forces Expeditionary Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Global War On Terrorism Service Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Iraq Campaign Med :: LOW
+- AWD :: 00-0000 -- 00-0000 :: W Campaign Star :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Army Service Ribbon :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Overseas Service Ribbon :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Mechanic Driver Badge :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Good Conduct Medal :: LOW

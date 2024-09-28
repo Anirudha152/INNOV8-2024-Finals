@@ -1,0 +1,63 @@
+## Education:
+- M.S , IT :: CSUF IT Fullerton
+- B.S , IT :: UOP IT
+
+## Experience:
+- Director of Information technology :: I am one of three employees that have a key man insurance policy against them. This in of itself, speaks to the trust and value I provide the organization. I was hired to design, and deploy the first data center the company owned in its efforts to deploy a new offering, an enterprise Software as a Service (SaaS) product. I was initially an employee of an Adsystech customer working with the Adsystech EVP on an enterprise County Wide project and posed the idea that they should move from "selling" software to "renting" it via an up and coming model SaaS. Today, everyone is using SaaS products and paying monthly for various products but in 2004 (when I initially made the proposal) it was an exciting and new potential market which I leveraged to increase the returns at Adsystech and most importantly, generate new recurring revenue. I was hired in 05' to put in place all things SaaS, this included designing a data center from the ground up, creating cyber security policies and controls, putting together a team to support the data center as well as a team to provide technical support for the new product offering. As an early adopter, in 2008 I designed and deployed a hybrid cloud environment in our data center. Again in 08' this was a new technology but my decision demonstrates foresight in emerging technologies and understand in the value of leveraging technology to become more efficient and financial prudent. I'm very proud of the work I've done and Adsystech, below are some key areas in my control: Network Design Monitoring and Maintenance Cloud Technologies Cyber Security (NITS, CIS, HITRUST/HIPAA) Project Management Technical Support Management Staff Professional Development RFP Responses.
+- Information technology Manager :: City organization responsible for managing +120 Million dollars for support of County Wide Human Service programs. I was hired as Project Manager and was quickly promoted to the Information Technology Manger. As PM I identified, evaluated and lead a bi-County steering committee in all technical aspect in an RFP release and selection process. After promotion I continued to server as the project manager for the 2.5 million dollar system rollout which ranged from gathering the business requirements for the design and deployment to creating the processes and managing the team to for the roll out to ~2000 users across Los Angeles County. In this capacity I managed a project support team including administrators, help desk staff and trainers. As the IT Manager, I supervised network administrators and was responsible for all high level network design and architecture for the organization. I evaluated the security risks, ensuring HITECH/HIPAA protocol were followed. Below are some key areas in my control: Network Design and Oversight Project Management Product Training and Support.
+- Information technology Manager :: At Relax the Back I was responsible for the overall management, infrastructure and strategic planning of our National point of sale network at 100+ retail locations and 5 distribution centers. I managed the ERP solution at our manufacturing plant in Boston and our accounting and HR systems at the corporate office. Nine short months after starting with the company, I was promoted to IT Manage. I acted as liaison between vendors, operation staff and the CFO for all major projects on time and on budget. Cisco Routers/ Firewalls. Windows Server Management. Desktop Support. Education and Training
+
+## Skills:
+- accounting
+- BudgetManagement
+- budget
+- bi
+- CiscoRouters
+- concise
+- clients
+- designing
+- ERP
+- financial
+- Firewalls
+- helpdesk
+- HR
+- InformationTechnology
+- insurance
+- managing
+- market
+- office
+- 2000
+- enterprise
+- networkdesignandarchitecture
+- NetworkDesign
+- NetworkDesign&Implementation
+- network
+- policies
+- processes
+- Producing
+- ProjectManagement
+- promotionI
+- Proposals
+- proposal
+- retail
+- RFP
+- selling
+- softwaredevelopment
+- strategic
+- strategicplanning
+- technicalsupport
+- DesktopSupport
+- VOIP
+- WindowsServer
+- written
+- writtencommunicationskills
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 09-1998 -- 03-2003 :: Information technology Manager :: LOW
+- JOB :: 09-2003 -- 09-2005 :: Information technology Manager :: MEDIUM
+- JOB :: 09-2005 -- CURRENT :: Director of Information technology :: HIGH
+- EDU :: 00-0000 -- 00-0000 :: B.S , IT :: LOW
+- EDU :: 00-0000 -- 00-0000 :: M.S , IT :: LOW

@@ -1,0 +1,99 @@
+## Education:
+- Bachelor of Science : CyberSecurity :: University of Maryland University College
+- Computer Information Systems :: Middle Tennessee State University
+
+## Experience:
+- IT MANAGER :: Stabilize and manage infrastructure and applications for corporate and remote facilities Create standard hardware and software lists and purchased based on those lists Create fiscal year budget for IT department Perform thorough IT audit and proposed various changes based on the audit Administer various information technology systems and applications Plan and manage information technology projects Define and plan employee training programs for internal staff Maintain production database applications Analyze system performance and make recommendations to management for infrastructure upgrades and/or changes Reduce system downtime by diagnosing and resolving complex technology related issues Negotiate vendor contracts to ensure the correct product at the lowest cost Streamlined internal communication platform Perform routine vulnerability and risk assessments for company infrastructure Perform regular security audits of internal infrastructure and applications Implemented Voice Over Internet Protocol Phone System for entire organization Manage corporate website and made necessary edits and adjustments Work with various departments to determine technology needs Provide end user support to in-office and remote users.
+- Senior Technical Analyst :: Manage team of help desk technicians to ensure excellent customer satisfaction and prompt issue resolution for over 30 clients Maintain & monitor ticket queue for myself and other technicians Work with technicians to determine correct issue escalation path Administer various information technology systems and applications Analyze system performance and make recommendations to management for infrastructure upgrades and/or changes Maintain consistent communications with client point of contact Own complex client help desk and infrastructure rollouts Develop detailed technical documentation and processes for the clients Work closely with the Director of IT to develop help desk policies and procedures Make technical recommendations to clients based on need and cost Act as account owner for select accounts Formulate monthly help desk budget and manage accordingly Work with team and vendors on technical training needs.
+- Director of Information Technology :: Manage corporate network and ensure high system availability. Develop backup and disaster recovery plan Reduce system downtime by diagnosing and resolving complex technology related issues Administer MPLS network between remote locations Coordinate construction and configuration of remote offices Implement corporate infrastructure monitoring program Manage corporate phone and voice mail systems Provide quality support to all personnel Communicate with President/CEO on all technical matters.
+- Director of Information Technology :: Manage corporate network and ensure high system availability Maintain disaster recovery methods and backup procedures Administer 68 Local Area Networks Investigate and implement a document management solution Manage internal phone switch voice mail system Oversee IT staff to ensure job expectations are met and train in any deficiencies Implement an incident reporting system that allows tacking of issues and their correction in a timely manner Formulate departmental policy and procedure documents Create annual IT budget and monitor all IT-related expenditures Research and recommend system development priorities Effectively communicate relevant IT-related information to superiors Communicate with all departments to ensure all Information Technology needs are met Write technical documentation for hardware and software installation, end-user support documents and client PC standards Negotiate with vendors to create a cost effective solution for hardware, software and maintenance agreements Provide end-users with training classes on Microsoft Office products Reduced cell phone bills by 40% and travel expenses by 45% by implementing policy and procedures for each Exceeded job expectations with minimal supervision required.
+- Project Manager :: Provide leadership and direction to installation team members by investigating the radiology department workflow, gathering requirements, managing scope and ensuring quality throughout the installation Work with the sales team to determine the PACS, Radiology Information Systems and/or Hospital Information System needs of the imaging center or hospital Coordinate with vendors, hospital staff and hospital administration to determine the project timeline Aware of HIPAA guidelines and their implications throughout the project timeline Investigate Radiology modalities to determine DICOM compatibility and/or upgrade needs Participate in all aspects of equipment installations Communicate feedback to management regarding the needs of the sites Develop procedures to deploy client PCs with a standard image and security policies Work with help desk team to develop consistent help desk methods and call logging techniques
+
+## Skills:
+- Antivirus
+- BackupExec
+- Backup
+- budget
+- CiscoRouter
+- Cisco
+- Citrix
+- hardware
+- contracts
+- client
+- clients
+- customersatisfaction
+- databaseapplications
+- DatabaseManagement
+- DELL
+- direction
+- disasterrecovery
+- documentmanagement
+- Email
+- employeetraining
+- Ethernet
+- Firewall
+- helpdesk
+- image
+- imaging
+- InformationSystems
+- InformationTechnology
+- LocalAreaNetworks
+- leadership
+- Linux
+- logging
+- Mac
+- Director
+- managing
+- Exchange
+- MicrosoftOfficeSuite
+- Office
+- MicrosoftOfficeProducts
+- SharePoint
+- Windows9
+- 2000
+- NT
+- migration
+- Network
+- Networking
+- PACS
+- personnel
+- PhoneSystem
+- policies
+- processes
+- PropertyManagement
+- quality
+- Radiology
+- reporting
+- Research
+- sales
+- softwareinstallation
+- supervision
+- Switch
+- Symantec
+- TCP/IP
+- usersupport
+- technicaltraining
+- technicaldocumentation
+- phone
+- Toshiba
+- Trend
+- upgrades
+- upgrade
+- VPN
+- Vista
+- voicemail
+- website
+- WindowsServer
+- workflow
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 12-2013 -- CURRENT :: IT MANAGER :: HIGH
+- JOB :: 10-2010 -- 12-2013 :: Senior Technical Analyst :: MEDIUM
+- JOB :: 01-2010 -- 10-2010 :: Director of Information Technology :: HIGH
+- JOB :: 06-2004 -- 12-2009 :: Director of Information Technology :: HIGH
+- JOB :: 06-2000 -- 12-2003 :: Project Manager :: HIGH
+- EDU :: 00-2015 :: Bachelor of Science : CyberSecurity :: LOW
+- EDU :: 08-1993 :: Computer Information Systems :: LOW

@@ -1,0 +1,172 @@
+## Education:
+- Master's Degree :: Wright State University
+- Bachelor's Degree :: JNTU
+
+## Experience:
+- Senior Network Security Engineer :: Worked with layer2 switching, VLANs trunking technologies and spanning tree protocols. Worked on Cisco switches and routers including physical cabling, IP addressing and Wide Area Network configurations. Performed troubleshooting in TCP/IP related problems and connectivity issues. Performed troubleshooting and resolved Layer2 and Layer3 issues. Established the network specifications by conferring with users through analysing work flow, access information, designing router administration, interface configuration and routing protocols. Established redundancy in the network by evaluating network performance issues including availability, utilization, throughput and latency. Created network diagrams and documentation for design using documentation tools like MS VISIO. Maintained network performance by network monitoring analysis, performance tuning and escalating support to the vendors.
+- Network Security Engineer :: 
+- Network Engineer :: 
+- Junior Network Engineer :: 
+
+## Skills:
+- EIGRP
+- OSPF
+- BGP
+- RouteRedistribution
+- ACLs
+- Policybasedrouting
+- NAT
+- PAT
+- HSRP
+- VRRP
+- GLBP
+- VLANs
+- VTP
+- Linkaggregation
+- LACP
+- PAGP
+- STP
+- PVST+
+- PaloAlto
+- CiscoASA
+- CheckPoint
+- CiscoRouters
+- 7600
+- 7200
+- Catalyst6500
+- Nexus7000
+- ASR12000
+- ASR9000
+- Ciscoswitches
+- Nexus7000series
+- 5000Series
+- Catalyst6500series
+- 6800series
+- App-ID
+- User-ID
+- Wildfire
+- GlobalProtect
+- URLfiltering
+- BlueCoatProxy
+- PKI
+- SSLdecryption
+- IKE
+- IPSec
+- HIPchecks
+- Site-to-SiteVPNs
+- F5BIG-IP
+- LTM
+- GTM
+- CitrixNetScaler
+- CiscoMeraki
+- Aruba
+- Clear-pass
+- CiscoWLAN
+- WirelessAps
+- 802.1Xa/b/g/n/ac
+- Panorama
+- CiscoIOS
+- NX-OS
+- SmartDashBoard
+- VMware
+- SPLUNK
+- SolarWinds
+- SevOne
+- Wireshark
+- MSVisio
+- LucidChart
+- BMCRemedy
+- Riskmanagementprocessesandanalysis
+- AD
+- ADS
+- anti-virus
+- Antivirus
+- Aps
+- basic
+- cabling
+- CLI
+- Cisco2
+- Cisco3
+- content
+- encryption
+- client
+- decryption
+- designing
+- DHCP
+- DisasterRecovery
+- documentation
+- engineeringsupport
+- ethernet
+- eventmanagement
+- fast
+- features
+- Firewalls
+- Firewall
+- Frame-Relay
+- FTP
+- Gateways
+- gateway
+- GUI
+- IDS
+- inspection
+- IP
+- LAN
+- logging
+- lossprevention
+- MAC
+- managing
+- Access
+- Mail
+- Migration
+- enterprise
+- NAC
+- NetworkAccessControl
+- Networkadministration
+- networkservers
+- network
+- Networking
+- Networks
+- Next
+- OS
+- optimization
+- PCI
+- policies
+- policyanalysis
+- protocols
+- Proxy
+- requirement
+- router
+- Routers
+- Routing
+- servers
+- SNMP
+- SSL
+- Switches
+- Ciscoswitches
+- TCP/IP
+- technicalsupport
+- technicalassistance
+- Technicaldocumentation
+- Troubleshoot
+- troubleshooting
+- upgrades
+- upgrading
+- View
+- VPN
+- VISIO
+- VM
+- webservers
+- WideAreaNetwork
+- WAN
+- wirelessLAN
+
+## Sector:
+- Network and Security Engineering
+
+## Timeline:
+- JOB :: 01-2017 -- CURRENT :: Senior Network Security Engineer :: MEDIUM
+- JOB :: 09-2015 -- 12-2016 :: Network Security Engineer :: MEDIUM
+- JOB :: 12-2012 -- 07-2015 :: Network Engineer :: MEDIUM
+- JOB :: 01-2011 -- 11-2012 :: Junior Network Engineer :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Master's Degree :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Bachelor's Degree :: LOW

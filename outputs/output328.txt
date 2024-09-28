@@ -1,0 +1,66 @@
+## Education:
+- Master of Arts : AMERICAN MILITARY UNIVERSITY
+- State Graduate Certificate: AIR FORCE AIR COMMAND AND STAFF COLLEGE
+- Master : MARYMOUNT UNIVERSITY
+- Bachelor of Science : MARYMOUNT UNIVERSITY
+
+## Experience:
+- Administrator of Information Technology :: Research, implement and support new technologies in support of developing public policy implement and support of 175-person infrastructure upgrades Train technical and general staff in support processes and troubleshooting techniques Establishes system specifications by conferring with users; analyzing workflow, access, information, and security requirements; designing system infrastructure. Establishes system by planning and executing the selection, installation, configuration, and testing of PC and server hardware, software, LAN and WAN networks, and operating and system management systems; defining system and operational policies and procedures. Maintains system performance by performing system monitoring and analysis, and performance tuning; troubleshooting system hardware, software, networks and operating and system management systems; designing and running system load/stress testing; escalating application problems to vendor. Secures system by developing system access, monitoring, control, and evaluation; establishing and testing disaster recovery policies and procedures; completing back-ups; maintaining documentation. Prepares users by designing and conducting training programs; providing references and support. Upgrades system by conferring with vendors and services; developing, testing, evaluating, and installing enhancements and new software. Meets financial requirements by submitting information for budgets; monitoring expenses for the entire Leadership conference. Protects organization's value by keeping information confidential.
+- Network Support Engineer :: Integrated, selected and developed procedures to support 3rd party. Provided support for software, printing, and network access issues to entire Senate community. Provided senior level support to internal Help Desk operations. Worked on integrating with 3rd party software. Responsible for installation, configuration and support of Capitol Correspond sql database. Trouble shooting with HP printer issues. Worked on connecting and configuring PC's, and NT servers to the network. Assure that H/W and software are working smoothly within the environment. Provide desktop support in a cross-platform environment Support the ongoing development and maintenance of local area network Support effective security systems. Back-up systems and updates. Perform special projects as needed. Identify, research, and recommend solutions on technical issues as needed.
+- Software Specialist :: Provides client site level 2 support of capitol Correspond database management software running on MS SQL database. Responsible for installation, configuration and support of Capitol Correspond SQL database. Provided client training for the use of Capitol Correspond Database. Trouble shooting with MS SQL, and troubleshooting printer issues. Provided client training for the use of Capitol Correspond Database. Worked on connecting and configuring PCs, and NT servers to the network. Provide desktop support in a cross-platform environment Support the ongoing development and maintenance of local area network Support effective security systems. Back-up systems and updates. Perform special projects as needed. Identify, research, and recommend solutions on technical issues as needed.
+
+## Skills:
+- Arabic
+- Back-up
+- budgets
+- hardware
+- client
+- Database
+- database management
+- designing
+- disaster recovery
+- documentation
+- financial
+- Help Desk
+- HP
+- local area network
+- LAN
+- Leadership
+- access
+- 2000
+- network
+- networks
+- NT servers
+- PC's
+- policies
+- printer
+- processes
+- Research
+- sql
+- MS SQL
+- desktop support
+- training programs
+- Trouble shooting
+- troubleshooting
+- Upgrades
+- WAN
+- workflow
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 01-2007 -- CURRENT :: Administrator of Information Technology :: HIGH
+- JOB :: 08-2004 -- 00-2006 :: Network Support Engineer :: MEDIUM
+- JOB :: 08-2000 -- 00-2004 :: Software Specialist :: MEDIUM
+- EDU :: 00-2014 -- 00-2014 :: Master of Arts :: LOW
+- EDU :: 00-2013 -- 00-2013 :: State Graduate Certificate :: LOW
+- EDU :: 00-2007 -- 00-2007 :: Master :: LOW
+- EDU :: 00-1999 -- 00-1999 :: Bachelor of Science :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of the Delta Epsilon Sigma Honor Society :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of Intelligence and National Security Alliance :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of the Senate Information Security IT group :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of Council for Emerging National Security Affairs :: LOW
+- MEM :: 00-0000 -- CURRENT :: Member of Partnership for Secure America :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Congressional Scholar Certificate :: LOW
+- AWD :: 00-2016 -- 00-2016 :: Certified Cyber Intelligence Professional :: LOW

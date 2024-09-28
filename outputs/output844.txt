@@ -1,0 +1,81 @@
+## Education:
+- B.S : Business Administration/Finance :: Columbia Southern University
+
+## Experience:
+- Finance Coordinator :: Dedicated accounting and finance professional with proficient analytical, budget processing, supporting and researching experience that includes general ledger reconciliation, data management and analysis, auditing, accounts payable and accounts receivables. Successful at managing multiple assignments while meeting tight deadlines. Adept at building productive, cross-functional team relationships, and leveraging these relationships to gain cooperation in resolving issues.
+- Master Data Specialist :: Accurately created customer master data records and sales hierarchies in SAP. Served as subject matter expert on Warehouse Direct (WD) accounts, addressing escalated issues and answering questions from the business regarding WD processes. Involved in SharePoint project which reduced the WD account create and change work flow process time by half.
+- Financial Analyst :: Worked closely with pharmaceutical client CFO and controller generating reports and reconciliations to assist in cash flow forecasting. Performed reconciliations utilizing Excel techniques including V-lookups and pivot tables. Consistently managed and completed month end close process within five business days. Processed client approved write-offs, accruals, journal entries and posted transactions to the general ledger. Assisted account analysts in collection of past due open accounts receivables. Participated in the recommendation, development, testing and implementation of department automated AR Reconciliation tool, which significantly reduced the manual matching work performed by the department Financial Analysts. Received several recognition awards for commitment to teamwork, initiative, process improvements and customer service.
+- Financial Analyst :: Maintained and accurately loaded multi-million dollar marketing budgets and forecasts into the Marketing Funds sub-ledger. Supported brand marketing managers by providing analysis and weekly reporting on marketing spend actual results versus forecast in SAP and Marketing Funds. Met quarterly with brand managers to ensure activity based spend was in-line with forecasted budget. Assisted finance manager with period end and yearly close functions. Documented and tracked all forecast changes between brands and programs in the Marketing Funds system and Access database; quarterly reconciling budget dollars within the two systems. Assumed lead role for reporting inventory status to brand managers and assisting in the resale of overstock items; analysis - researched variances. Coordinated annual Accrual process. Audited payment requests in excess of 75k for correct general ledger coding and adherence to GAAP guidelines.
+- Trade Promotion Specialist :: Accounting Pre-audited and processed trade marketing and bottler coop reimbursements to conform to GAAP guidelines. Analyzed and adjusted trade budgets to actual to facilitate year-end close process. Prepared period and year-end close journal entries for multiple general ledger and cost center combinations. Created customized reconciliation forms and reports, using Excel techniques including macros, V-lookups, and pivot tables. Led and executed department training; trained new hires on Marketing Funds System, SAP and reconciling procedures. Participated in the development, testing and documenting of department reconciling tool. Oversaw department records retention/retrieval system; received "What Outstanding Work" (WOW) award for initiative and independent effort. Received "Shooting Star" award for individual contribution to team's overall successful accomplishments.
+
+## Skills:
+- Accounting
+- accountspayable
+- accountsreceivables
+- accruals
+- Accrual
+- AR
+- AS400
+- auditing
+- Baan
+- brandmarketing
+- budgets
+- budget
+- cashflow
+- com
+- controller
+- CRM
+- client
+- customerservice
+- datamanagementandanalysis
+- drivers
+- ERP
+- finance
+- Financial
+- forecasting
+- forms
+- functional
+- Funds
+- generalledger
+- inventory
+- ledger
+- macros
+- Mainframe
+- managing
+- marketing
+- Access
+- Accessdatabase
+- MicrosoftExcel
+- Excel
+- MSOutlook
+- PowerPoint
+- SharePoint
+- Word
+- monthendcloseprocess
+- pivottables
+- processes
+- coding
+- promotion
+- reconciling
+- reporting
+- researching
+- sales
+- SAP
+- Siebel
+- simulation
+- SixSigma
+- teamwork
+- yearend
+
+## Sector:
+- Finance
+
+## Timeline:
+- JOB :: 05-2014 -- CURRENT :: Finance Coordinator :: MEDIUM
+- JOB :: 02-2012 -- 05-2014 :: Master Data Specialist :: MEDIUM
+- JOB :: 12-2008 -- 02-2012 :: Financial Analyst :: MEDIUM
+- JOB :: 08-2006 -- 07-2008 :: Financial Analyst :: MEDIUM
+- JOB :: 02-2000 -- 08-2006 :: Trade Promotion Specialist :: MEDIUM
+- EDU :: 00-2016 -- 00-2016 :: B.S : Business Administration/Finance :: LOW
+- AWD :: 00-0000 -- 00-0000 :: What Outstanding Work (WOW) award :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Shooting Star award :: LOW

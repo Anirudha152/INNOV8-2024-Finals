@@ -1,0 +1,196 @@
+## Education:
+- M.S : Public Administration, Government Law :: Sul Ross University
+- B.S : Psychology, Education :: Morgan State University
+
+## Experience:
+- Branch Chief Information Technology Specialist :: Effectively oversee, manage, and evaluate multiple enterprise level IT programs, serve as senior technical advisor and evaluator for programs using cutting edge technology for the Headquarters Air Force (HAF) command, control, communications, computer, intelligence, surveillance and reconnaissance (C4ISR). Establishes, develops, and maintains effective working relationships with top functional area managers, program managers, commanders, contractors, vendors, DoD and other non-DoD agencies, and communications and information personnel in the National Capital Region. Researches and recommends innovative approaches to resolve major IT problems. Performs more complex aspects of the project management, evaluation, and oversight responsibilities such as feasibility studies, systems analysis, systems development, implementation, systems integration, and problem resolution.
+- Information Technology Specialist (INFOSEC/NETOPS) :: Developed detailed operations plans and operations orders supporting cyber requirements at the strategic, operational, and tactical levels of cyber warfare. Enabled crisis action planning, development of strike packages and cyber effects to protect U.S. air, land, sea, space, and cyberspace domains. Collaborated with Defense Information Systems Agency and other US Government partners to develop and implement directives for Global Information Grid (GIG) operations. Developed information operations and computer network operations plans, including defensive computer operations planning, to ensure support Geographic Combatant Commanders' intent. Made recommendations to posture GIG to respond to emerging and current threats. Supported Defend the Nation (DTN)-China Operation Planning Team with technical, INFOSEC doctrine, appropriate technologies, techniques, and tools. Coordinated changing mission parameters with US/Allied/Coalition partners: identified and prioritized Intelligence Community cyber requirements and provide intrusion response planning. Made substantive recommendations to NetOps policy, doctrine, capability developments. Utilized INFOSEC existing policy guidance as it pertains to threats, operating environment and operational requirements. Provided expert analysis of ongoing Net/Ops events, malicious activity and trend analysis. Developed operational plans and orders to counter malicious activity and mitigate identified or potential threats to the GIG.
+- Senior Technical Analyst :: Technical lead on digital media projects, guided teams to solutions that leveraged technical capabilities. Defined requirements for computer-based systems that supported electronic publishing Air Force wide. Achieved accurate and timely publication of electronic publications and forms. Ensured documentation of requirements for systems administration and information tasking orders. Served as technical lead on electronic publishing development and integration teams. Ensured all development was consistent with Air Force guidance. Established policies and procedure to manage the Air Force Electronic Publishing Program. Analyzed software development, configuration management, testing, maintenance manuals, training manuals, tutorials, procedures, reports, computer-based training and data management. Represented the Office meetings of interagency and inter-command groups concerned with development and support planning using state- of-the-art techniques in electronic publishing areas.
+- IT Specialist :: Managed computer support , cost analysis, and acquisition to support ANG work plans. Lead teams to execute Air National Guard budget for computers and associated technologies. Proven ability to formulate, justify, and defend assigned programs and projects. Demonstrated knowledge of cost comparison procedures, directives, and communications. Communicated effectively in written and oral mediums. Provided technical direction concerning the acquisition of hardware and software for the entire Air National (ANG). Performed analysis and evaluation of hardware and software to provide the best technical solution. Advised components of the ANG on acquisition, procurement, maintenance and feasibility for adoption of information technology hardware and software.
+
+## Skills:
+- INFOSEC/NETOPS
+- financial control
+- budget systems
+- security management
+- budget and cost analysis processes
+- Office of Management and Budget (OMB)
+- Department of Defense (DoD)
+- U.S. Air Force regulations
+- principles and practices pertaining to logistics
+- INFOSEC/NETOPS
+- installations
+- mission support functions
+- DoD planning
+- programming
+- budgeting and execution (PPBE) process
+- capability planning in IT environment
+- enterprise technical/Certification and Accreditation standards
+- CCRI processes
+- procedures
+- security practices
+- IA vulnerability tools
+- ACAS
+- security tools
+- techniques
+- Authority to Connect
+- Authority to Operate network systems
+- SCADA systems operations
+- security
+- safeguards
+- protection
+- TOP SECRET (SCI)
+- CI Polygraph
+- enterprise level IT programs
+- senior technical advisor
+- evaluator
+- command
+- control
+- communications
+- computer
+- intelligence
+- surveillance and reconnaissance (C4ISR)
+- functional area managers
+- program managers
+- commanders
+- contractors
+- vendors
+- DoD
+- non-DoD agencies
+- communications and information personnel
+- National Capital Region
+- feasibility studies
+- systems analysis
+- systems development
+- implementation
+- systems integration
+- problem resolution
+- cyber requirements
+- strategic
+- operational
+- tactical levels of cyber warfare
+- crisis action planning
+- strike packages
+- cyber effects
+- air
+- land
+- sea
+- space
+- cyberspace domains
+- Defense Information Systems Agency
+- US Government partners
+- Global Information Grid (GIG) operations
+- information operations
+- computer network operations plans
+- defensive computer operations planning
+- Geographic Combatant Commanders' intent
+- Defend the Nation (DTN)-China Operation Planning Team
+- technical
+- INFOSEC doctrine
+- technologies
+- techniques
+- tools
+- US/Allied/Coalition partners
+- Intelligence Community cyber requirements
+- intrusion response planning
+- NetOps policy
+- doctrine
+- capability developments
+- threats
+- operating environment
+- operational requirements
+- expert analysis
+- Net/Ops events
+- malicious activity
+- trend analysis
+- operational plans
+- orders
+- malicious activity
+- potential threats
+- GIG
+- digital media projects
+- technical capabilities
+- computer-based systems
+- electronic publishing
+- Air Force wide
+- electronic publications
+- forms
+- systems administration
+- information tasking orders
+- electronic publishing development
+- integration teams
+- Air Force guidance
+- policies
+- procedure
+- Air Force Electronic Publishing Program
+- software development
+- configuration management
+- testing
+- maintenance manuals
+- training manuals
+- tutorials
+- procedures
+- reports
+- computer-based training
+- data management
+- interagency
+- inter-command groups
+- development
+- support planning
+- state- of-the-art techniques
+- electronic publishing areas
+- computer support
+- cost analysis
+- acquisition
+- ANG work plans
+- Air National Guard budget
+- computers
+- associated technologies
+- programs
+- projects
+- cost comparison procedures
+- directives
+- communications
+- written
+- oral mediums
+- technical direction
+- hardware
+- software
+- Air National (ANG)
+- analysis
+- evaluation
+- hardware
+- software
+- technical solution
+- components
+- ANG
+- acquisition
+- procurement
+- maintenance
+- feasibility
+- adoption
+- information technology hardware
+- software
+- Security + Certified
+- Cyber 200 Advance Continuing Education Course
+- Basic Computer Operations Planner's Course
+- DISA Action Officers Course
+- DOD Information Assurance Boot Camp
+- Computer Network Defense/Computer Network Threat
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 07-2014 -- CURRENT :: Branch Chief Information Technology Specialist :: HIGH
+- JOB :: 08-2009 -- 07-2014 :: Information Technology Specialist (INFOSEC/NETOPS) :: MEDIUM
+- JOB :: 09-2006 -- 08-2009 :: Senior Technical Analyst :: MEDIUM
+- JOB :: 08-1998 -- 09-2006 :: IT Specialist :: MEDIUM
+- EDU :: 00-0000 -- 00-0000 :: M.S : Public Administration, Government Law :: LOW
+- EDU :: 00-0000 -- 00-0000 :: B.S : Psychology, Education :: LOW
+- EVE :: 08-2011 -- 00-0000 :: Security + Certified :: LOW
+- EVE :: 09-2010 -- 00-0000 :: Cyber 200 Advance Continuing Education Course :: LOW
+- EVE :: 09-2009 -- 00-0000 :: Basic Computer Operations Planner's Course :: LOW
+- EVE :: 12-2009 -- 00-0000 :: DISA Action Officers Course :: LOW
+- EVE :: 11-2009 -- 00-0000 :: DOD Information Assurance Boot Camp :: LOW
+- EVE :: 00-0000 -- 00-0000 :: Computer Network Defense/Computer Network Threat :: LOW

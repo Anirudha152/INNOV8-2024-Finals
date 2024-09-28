@@ -1,0 +1,73 @@
+## Education:
+- Bachelor of Science : Information Technology :: Columbia Southern University
+## Experience:
+- Gunnery Sergeant :: Administered, designed, installed, maintained, and repaired network data communication links and fiberoptic cabling. Supported a myriad of computer and network operating systems and servers. Provided direct hardware and software support, installation/configuration support for over 5000 users, computers, laptop, printers, and peripherals. Manage, supervised, and trained over 40 personnel at any given time during multiple work shifts in a constantly changing environment. Implemented policies and directives to streamline and maximize productivity of all personnel. Maintained Windows and Linux/Unix HP-UX based servers performing data management, backups and restore, troubleshooting and preventative maintenance to ensure minimal downtime and increased productivity throughout entire organization. Oversaw the successful completion of several windows platform migration workstation and server Network administration, design, and installation utilizing fiber-optic, tactical fiber-optic cabling, and Cat 5e cabling allowing for quick and efficient reorganization of IT assets Cisco and Alcatel switch and router installation and administration, ADP trained Responsible officer for all IT assets in Unit and responsible for maintaining an accurate inventory of over 3000 computers, printers, and peripherals. Information assurance manager (IAM) for Organization, ensured compliance with DOD IA standards. Responsible for ensuring all IAVA, antivirus install and updates throughout organization Manage helpdesk via phone or email fielding all trouble calls from customers and resolving or escalating them as required. Create, modify, and delete user accounts. Initiate, manage, track, close, and perform trend analysis on maintenance actions. Used trouble ticket system (Track IT!, Remedy) and other Organizational tools.
+- MAGTF Planning Specialist :: Responsible for logistical support; typical duties included updating plan and information to unit-level detail and operating/managing force deployment planning's automated data processing tools. Created force reports and properly formatted and forwarded electronic mail, files and newsgroup message traffic. Provided support in preparing, planning, mapping, and tracking routes for over 50 personnel on daily basis. Developed reports for Supervisors on a weekly basis using Command Post of the Future (CPOF) system. Maintained constant contact with personnel providing the needed support. This resulted in zero loss of personnel and assets saving the government about $50 to $100 million.
+- Aviation Supply Specialist :: Validated customer requirements, processed requisitions, submitted requisitions, initiated appropriate follow-up actions, and processed and delivered material in accordance with all government regulations and procedures. Maintained Inventory Procured assets when below allowable limits Perform the functions necessary to provide logistical support to aviation activities. Performed tasks dealing with aviation supply support, including financial management, inventory management, material management, personnel staffing and requisitioning procedures.
+## Skills:
+- ActiveDirectory
+- streamline
+- ADP
+- antivirus
+- Budgetplanning
+- cabling
+- Cat5
+- Cisco
+- CommunicationSkills
+- hardware
+- dataprocessing
+- datamanagement
+- Detailoriented
+- electronicmail
+- email
+- financialmanagement
+- government
+- governmentregulations
+- HP-UX
+- inventorymanagement
+- Inventory
+- LeadershipSkills
+- Linux
+- Mac
+- managing
+- Windows
+- windowsplatform
+- migration
+- Networkadministration
+- network
+- operatingsystems
+- Organizational
+- peripherals
+- personnel
+- Personnelmanagement
+- policies
+- printers
+- ProcessImprovement
+- quick
+- router
+- servers
+- staffing
+- switch
+- softwaresupport
+- phone
+- trend
+- troubleshooting
+- Unix
+## Sector:
+- Military
+## Timeline:
+- JOB :: 01-1997 -- 01-2014 :: Gunnery Sergeant :: MEDIUM
+- JOB :: 00-0000 -- 00-0000 :: MAGTF Planning Specialist :: MEDIUM
+- JOB :: 00-0000 -- 00-0000 :: Aviation Supply Specialist :: MEDIUM
+- EDU :: 00-2012 -- 00-2012 :: Bachelor of Science : Information Technology :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Joint Service Commendation Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Joint Service Achievement Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Navy & Marine Corps Achievement Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Joint Meritorious Unit Award :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Navy Unit Commendation :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Marine Corps Good Conduct Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: National Defense Service Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Afghanistan Campaign Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Iraq Campaign Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Global War on Terrorism Service Medal :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Navy Sea Service Deployment Ribbon :: LOW

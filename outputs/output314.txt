@@ -1,0 +1,61 @@
+## Education:
+- Bachelor of Science : Computer Science & Business :: Oneonta State University
+- Certification in Network Security :: The Chubb Institute
+
+## Experience:
+- Subject Matter Expert (Information Technology Assistant) :: -SAP Data Validation and Population for Real Estate, Fixed Asset and Plant Maintenance Modules -Assist, Support and coordinate with Missions to create Database/ SAP IDs for testing / enrichment of loaded data. -Validate data extracted from legacy databases. -Communicate with missions to confirm/ clarify submitted data. -Assist in extraction and validation of mission data -Create automated data validation spreadsheets/templates -Prepare data for upload into Umoja performing required calculations and adjustments. -Run LSMW's, in order to upload Entities data into SAP, during Conversion process. -Validate data loaded into Umoja. -Run Reports and Edit Mission Data in SAP. -Create manuals, guidlines, instructions and cheat sheets for data conversion and testing processes -Develop Excel spreadsheets to calculate and show the statistics of reoccurring problems. -Prepare test scenarios in HP/ALM and populate the input data accordingly. -Coordinate with other functional teams for the preparation of scenarios, input data and execution of test scripts. -Organise testing sessions with extended-team testers. -Execute test scenarios as part of the Umoja team and guide the extended-team testers in the execution. -Identify and raise defects, and coordinate with responsible teams -Re-test failed scripts after defect resolution. -Creation of Training Materials for Data Validation and Testing in SAP -SAP Test script authoring, execution and defect resolution for Product Integration Testing and User Verification Testing -Supported Tier 3 Production Support Activities
+- Information Technology Assistant (OSAU) :: -Conduct walk-throughs on UN floors to verify Locations, Staff and Space configurations. -Assist Project Managers evaluate Vacancies, Overcapacities and Room Type changes. -Interact with Staff in the environment to inquire about any changes on the floor and to answer any questions. -Contact Staff and Department Focal Points to confirm any discrepancies. -Record and report any discrepancies in Staff Information and make any necessary changes in UN Staff Telephone Directory (Untel) and Voice/Data Messaging Service (VMS) Databases. -Record and report any discrepancies in Floor plans and make any necessary changes in Aperture -Clean, monitor and maintain Aperture data to assure accurate Floor plans. -Assist Property Management Inventory Control Unit with Occasional Inventories and Property Verifications. -Create reports in SQL and Microsoft Access for Project Managers to aide in space planning. -Assist AFPS in the cleaning and restructuring of UN Staff Telephone Directory Database (Untel) and processes. -Clean, monitor and maintain UN Staff Telephone Directory Database (Untel) and Voice/Data Messaging Service (VMS) Database to assure accurate Staff location and information. -Create new staff entries in UN Staff Telephone Directory Database (Untel) and Voice/Data Messaging Service (VMS). -Create and run queries in SQL and Microsoft Access to edit databases. -Upload and update Untel and Aperture databases. -Develop Excel spreadsheets to calculate and show the statistics of reoccurring problems. -Develop SOP's for my position to help in training efforts. -Develop, Create and Maintain Document Management database and online library using visual studios, for department website (vb script & ASP.net). -Beta Tester for CAFM. -Assist contractor in the development of CAFM space and asset management system. -Occasionally assist in computer hardware and software installation and troubleshooting. -Beta Tester for Umoja Pilot project. -PIT Tester for Umoja using HP ALM and SAP. - Data collector for Umoja Pilot Project using templates.
+- Information Technology Assistant (PMICU) :: -Organize all PMICU Stockrooms. -Perform physical inventory counts of all PMICU Stockrooms. -Process Work Orders using MP-2 / iNeed (Work order software) -Print Barcodes for all Departments/Offices of UNHQ. -Issue andReceive Furniture from PMICU Stockrooms. -Help Staff members find the Furniture that better suites there needs. -Coordinate/Arrange furniture relocation to offsite locations. -Supervise 1 to 10 movers during the liquidation of assets for Secretariat and Conference building vacate exercise. -Assist with Furniture Disposals and update Procure Plus records accordingly. -Coordinate all IT Disposals with OICT and movers and update Procure Plus records accordingly. -Administer IT disposal service contract. -Property Records Custodian (for FMS) -Manage Furniture using Procure Plus to Build, Relocate, Transfer and Remove records. -Upload Movers scanners to Procure Plus database. -Develop SOPs for each position in PMICU. -Obtain quotes and submit for requisitions -Enter delivered furniture into Procure Plus. -Recommend purchases to maintain stockroom counts.
+- Information Technology Assistant (BCSS) :: -Managed a variety of expendable and non-expendable audio-visual supplies. -Arranged the contents of the stockroom and receiving areas in a manner that maintains a safe and efficient working environment. -Participated in periodic physical inventories of UN equipment to ensure accuracy of serial and barcode numbers. -Surveyed broken audio-visual equipment for disposal. -Performed asset management through Procure Plus -Cleaned up data fields in Procure Plus -Enter data on all incoming and outgoing expendable and non-expendable stock items.
+- Technical Support Representative :: -Managed Inventory of assigned IT products in assigned work car. -Assisted in yearly storewide physical inventory -Performed Customer Service. -Performed Client/Technician Phone Support. -Configured and Secured Wireless Networks. -Diagnosed computer Hardware and Software issues -Troubleshoooting and Resolving computer problems including: Hardware, Software, virus, network, video, etc. -Evaluated needs of clients and sold them necessary computer software solutions.
+- QA compliance :: - Tracked and managed resources, using Great Plains and MS Excel. - Assisted in yearly warehouse inventory. - Organized warehouse stockroom. - Ordered supplies from vendors. - Processed outgoing order shipments. - Processed Customer Credit Card Payments. - Processed orders over the phone. - Performed Quality Control. - Ensured orders went out correctly and on time - Facilitated employee training.
+
+## Skills:
+- SAP
+- HPALM
+- NetworkConfiguration
+- DatabaseManagement
+- DocumentManagement
+- Troubleshooting/Resolution
+- SystemDevelopment&Execution
+- End-userTraining
+- CustomerService
+- WebsiteMaintenance
+- Mac
+- AUTOCAD
+- Inventory
+- SQL
+- MicrosoftAccess
+- ASP
+- ASP.net
+- CAFM
+- ProcurePlus
+- GreatPlains
+- MSExcel
+- NetworkSecurity
+- DataConversion
+- DataValidation
+- IntegrationTesting
+- FixedAsset
+- RealEstate
+- SubjectMatterExpert
+- Testing
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 09-2013 -- CURRENT :: Subject Matter Expert (Information Technology Assistant) :: MEDIUM
+- JOB :: 10-2010 -- 08-2013 :: Information Technology Assistant (OSAU) :: LOW
+- JOB :: 01-2008 -- 10-2011 :: Information Technology Assistant (PMICU) :: LOW
+- JOB :: 09-2007 -- 12-2007 :: Information Technology Assistant (BCSS) :: LOW
+- JOB :: 07-2005 -- 09-2007 :: Technical Support Representative :: LOW
+- JOB :: 09-2002 -- 07-2005 :: QA compliance :: LOW
+- EDU :: 00-2003 -- 00-2005 :: Certification in Network Security :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Bachelor of Science : Computer Science & Business :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Recognized as 1 of top 4 agents, promoted twice for excellent customer service :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Promoted within 3 months of starting :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Granted Administrative rights to Untel and VMS SQL Databases and Aperture Floor plans due to my expertise and responsibilities :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Granted Administrative rights to Procure Plus SQL Database, due to my expertise and responsibilities :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Assigned to be Property Records Custodian for FMS :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Granted Administrative rights to Procure Plus, due to my expertise and responsibilities :: LOW

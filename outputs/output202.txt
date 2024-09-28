@@ -1,0 +1,115 @@
+## Education:
+- BS :: Golden Gate University
+- AAS :: Heald College
+- AAS :: Heald College
+- Certificate :: Cosumnes River College
+
+## Experience:
+- Software Quality Assurance Analyst II :: Responsible for analyzing the requirements and testing all modules of the Electronic Health Record (EHR) System including Patient, Company, Provider, Referrals, Collaborators, Utilization Management\Authorizations, Care Plans, Assessments, Tasks, Notes and any other modules that require testing. Testing of the Implementation process from one version of an EHR to another appropriately mapping data from the source database to the destination database. Creating , maintaining and testing user and group profiles confirming the appropriate access to the medical system Updating application software by defining/coding existing field properties or creating special user fields to fit the appropriate workflow to be tested based on customer needs. Document test cases, procedures and automation scripts and keeping them updated for each system release Effectively track testing progress using Ontime.com for tracking and assigning defects Responsible for Database loads, test environment set-up, FTP of application files and workstation preparation on Cloud Share environments Work with application programmer with system defects or analysis of project features Perform functional, regression, and ad-hoc testing on all assigned EHR projects.
+- User Support Specialist II, Payments Specialist :: Call Center, Macintosh based, ZenDesk ticketing software used to track user incidents Troubleshoot user issues with Airbnb.com website navigation and services, such as user account maintenance, payment processing and billing analysis, as well as very complex financial and non financial disputes between users including customer safety issues Respond professionally to any escalated calls and support level I agents with urgent calls Take effective notes on user accounts through a ticketing system Thorough follow through of each call ensuring customer/user satisfaction.
+- Test Execution Manager :: Work Environment: Matrix team structure/Team Lead, Windows based, Quality Center used for test case and bug/incident reporting. Excel and Word extensively used for project document creation and SharePoint used for document management/sharing, PowerPoint used for meeting facilitation, Managed PC lab for testers including ordering and completing hardware/software set up and hands on troubleshooting of systems test environment. Responsible for managing a team of onshore and offshore testers during the System Integration Test phase of the software development life cycle for the CA Banking Center New Accounts and Teller Platforms. Provided work estimates and ensured each project is efficiently staffed with testers to complete the project on time and on budget. Review, provide feedback and approve all test plans and scripts submitted by Test Analysts Work as a team member to accurately define the business requirements for new products for customers or system changes before the product or system change rollout. Identify all system functions and processes that may be affected by each project Provide meeting representation on all banking center platform projects. Manage end to end, user acceptance and production certification testing Represent the end user in design, development, testing and implementation of changes to existing systems environments for CA Banking Centers. In charge of the training and development of new test analysts brought on board to test the CA banking center new accounts system. Created and lead training classes in a formal setting in the test lab or virtually over the web for users. Responsible for ordering the appropriate hardware and software for the test lab for the test analysts and production lab for the implementation team.
+- Software Test Analyst :: Work Environment: Matrix team structure, Windows based, Quality Center used for test case and bug/incident reporting, Excel and Word extensively used for project document creation, Visio used for workflow charting and use cases. Managed PC lab for testers including ordering and completing hardware/software set up and hands on troubleshooting of systems test environment Responsible for identifying test scenarios from business requirements and creating test plans, scripts, executing scripts, and documenting test results based on the requirements Effectively track testing progress using Quality Center for tracking scripts and assigning defects Work with technical staff ensuring proper tests are being run, data is conditioned and resolving issues Perform Black Box functional, regression, and ad-hoc testing on assigned projects Maintained the test lab ensured appropriate software and hardware were up to date with department units we tested for Created and kept track of user access to test and production servers creating the appropriate access levels for contracted and non contracted staff Owner of production data including reconciling account balances of all production level bank accounts lent out for implementation testing.
+- Internal Operations Analyst :: Call Center, Windows based, high call volume, used proprietary software to query databases for common user issues. Research and respond to telephone inquiries regarding bank policy and procedures from banking centers and various other units. Identify and resolve operational, software application, new account, sales, and service related issues.
+- Sr. Operations Officer :: Work Environment: Office setting, Windows based, extensive account reconciliation tasks and record keeping of dollars coming in and out of the department, PC maintenance and user account troubleshooting. Controller of incoming Bank of America misdirected wire account for corporate clients. Properly identify funds in the amounts of billions of dollars which were directed to this account in order to reconcile the account. Also kept accurate logs of all wires that passed through the section. Worked as on-site desktop support for the department during upgrade to Windows 98. Helped IT team with hardware and software installations, password creation/resets and conducted user training sessions for peers.
+- Money Transfer Customer Liaison :: Call Center, Windows based, high call volume from the general public and other internal units, basic record keeping of tasks to track transactions. Responsible for taking customer wire transfer requests over the telephone. Ensured to properly identify the customer and account relationship in order to transmit funds and collect fees. Amended or canceled wire transfers when necessary. Provided excellent customer service.
+- Customer Service Representative :: Work Environment: Retail Banking Center, Windows based, general public interaction. Processed deposits for various accounts. Cashed checks, sold cashier's checks, traveler's checks, and savings bonds. Balanced daily. Sold checking, savings, time deposit and other bank products.
+
+## Skills:
+- accountreconciliation
+- ad
+- Agile
+- automation
+- banking
+- basic
+- billing
+- bonds
+- budget
+- CallCenter
+- cashier
+- com
+- CA
+- hardware
+- Controller
+- clients
+- excellentcustomerservice
+- databases
+- Database
+- documentmanagement
+- documentation
+- DOS
+- features
+- financial
+- Frontpage
+- FTP
+- functional
+- funds
+- InformationTechnology
+- TeamLead
+- Notes
+- Mac
+- Macintosh
+- managing
+- meetingfacilitation
+- Access
+- MicrosoftExcel
+- Excel
+- Office
+- Outlook
+- PowerPoint
+- SharePoint
+- Windows
+- 2k
+- Windows98
+- Windows7/XP
+- Word
+- navigation
+- officeequipment
+- DB
+- paymentprocessing
+- PCmaintenance
+- processes
+- coding
+- programmer
+- progress
+- Quality
+- reconciling
+- recordkeeping
+- reporting
+- Research
+- Retail
+- safety
+- sales
+- servers
+- scripts
+- softwaredevelopment
+- softwaretesting
+- SQL
+- SystemIntegration
+- desktopsupport
+- usertraining
+- telephone
+- TestDirector
+- T-SQL
+- Troubleshoot
+- troubleshooting
+- upgrade
+- Visio
+- website
+- workflow
+
+## Sector:
+- Software Quality Assurance
+
+## Timeline:
+- JOB :: 01-2012 -- CURRENT :: Software Quality Assurance Analyst II :: MEDIUM
+- JOB :: 01-2011 -- 01-2012 :: User Support Specialist II, Payments Specialist :: MEDIUM
+- JOB :: 01-2006 -- 01-2010 :: Test Execution Manager :: MEDIUM
+- JOB :: 01-2000 -- 01-2006 :: Software Test Analyst :: MEDIUM
+- JOB :: 01-1999 -- 01-2000 :: Internal Operations Analyst :: MEDIUM
+- JOB :: 01-1998 -- 01-1999 :: Sr. Operations Officer :: MEDIUM
+- JOB :: 01-1997 -- 01-1998 :: Money Transfer Customer Liaison :: MEDIUM
+- JOB :: 01-1995 -- 01-1997 :: Customer Service Representative :: LOW
+- EDU :: 00-2004 :: BS :: LOW
+- EDU :: 00-2002 :: AAS :: LOW
+- EDU :: 00-2001 :: AAS :: LOW
+- EDU :: 00-2013 :: Certificate :: LOW

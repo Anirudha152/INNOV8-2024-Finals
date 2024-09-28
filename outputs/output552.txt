@@ -1,0 +1,90 @@
+## Education:
+- Master of Science : Management Information Systems :: University of Illinois
+- Bachelor of Science : Information and Decision Sciences :: University of Illinois
+
+## Experience:
+- Information Technology Manager :: Managed computer support staff of college serving over 150+ employees. Responsible for planning and implementation of major modifications/upgrade to the entire computing environment of the college. Involved in IT Governance efforts of the campus to develop infrastructure and security policy. Overseen help desk support which included troubleshooting hardware, software and Windows servers. Managed multiple projects (varying in scope, time frame and difficulty) to develop applications or other IT solutions for various needs of the Faculty, staff and students. Administer data needs of the college including data security, database development/maintenance and report generation. Responsible for the purchasing appropriate computing equipment that would fit the various needs of the college Faculty and staff.
+- System Analyst :: Managed efforts of staff to accomplish various tasks related to new system migration project. Generate SQL for data population and complex report writing using PL/SQL and Crystal Reports 9 to accommodate new system migration project. Maintain and improve existing databases used to manage every-day workflow. Created several tools using Visual Basic and SQL to assist over 80+ Housing Specialists improve accuracy of data files needed for mandatory reporting to the federal government.
+- Graduate Assistant-Technical Writer :: Developed user manuals and training materials for computer systems used by police. personnel. Tested web and client server applications to ensure that user requirements were met. Utilized web development tools to create on-line user's manuals.
+- Co-Founder, Business Manager :: Managed all aspects of business operations of non-profit performance arts organization. Developed marketing materials for release to community entities. Wrote grants to secure funding for youth and out-of-school time programs.
+- Applications Developer :: Documented user requirements for the rewriting of existing billing systems that tracked. resource usage of an internal service group to the entire global organization. Lead development team in requirements gathering tasks. Provided support for billing systems involving troubleshooting complex queries.
+- Programmer Analyst :: Performed tasks in allstages of the system development life cycle of a disability claims system including user specifications, functional designs, and technical designs. Created Oracle database objects (views, queries, PL/SQL, and SQL) to satisfy the reporting needs of end-users. Developed testing strategy and lead testing team responsible for all testing stages of large disability claims system.
+
+## Skills:
+- ASP.net
+- ActiveDirectory
+- AdobeAcrobat
+- AdobeDreamweaver
+- AdobePhotoshop
+- applicationdesign
+- arts
+- billingsystems
+- BusinessObjects
+- businesoperations
+- C++
+- clientserver
+- Strongcommunicationskills
+- hardware
+- CrystalReports9
+- databases
+- databasedevelopment
+- DatabaseDesign
+- disasterrecovery
+- forms
+- frame
+- functional
+- government
+- grants
+- helpdesk support
+- Helpdesk
+- HTML
+- computersupport
+- Leadership
+- marketingmaterials
+- MicrosoftAccess
+- MicrosoftOffice
+- MicrosoftSharePoint
+- Windows
+- migration
+- Oracledatabase
+- PL/SQL
+- personnel
+- personnelmanagement
+- police
+- profit
+- ProjectManagement
+- purchasing
+- reportwriting
+- reporting
+- Requirementsgathering
+- SAP
+- SDLC
+- servers
+- SoftwareDevelopment
+- MicrosoftSQLServer
+- SQL
+- strategy
+- strategicplanning
+- Systemadministration
+- usermanuals
+- trainingmaterials
+- troubleshooting
+- upgrade
+- VisualBasic
+- WebIntelligence
+- webdevelopment
+- WindowsServer
+- workflow
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 04-2005 -- CURRENT :: Information Technology Manager :: HIGH
+- JOB :: 06-2003 -- 04-2005 :: System Analyst :: MEDIUM
+- JOB :: 01-2002 -- 05-2003 :: Graduate Assistant-Technical Writer :: LOW
+- JOB :: 12-2001 -- CURRENT :: Co-Founder, Business Manager :: HIGH
+- JOB :: 10-2000 -- 07-2001 :: Applications Developer :: MEDIUM
+- JOB :: 06-1995 -- 09-2000 :: Programmer Analyst :: MEDIUM
+- EDU :: 00-2003 :: Master of Science : Management Information Systems :: LOW
+- EDU :: 00-1995 :: Bachelor of Science : Information and Decision Sciences :: LOW

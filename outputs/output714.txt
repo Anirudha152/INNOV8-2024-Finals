@@ -1,0 +1,47 @@
+## Education:
+- Ph.D. : Finance :: University of Connecticut
+- MBA : Finance :: Gonzaga University
+- Ph.D. : Materials Science and Engineering :: Georgia Institute of Technology
+- M.S. : Ceramic Engineering :: Georgia Institute of Technology
+- B. Tech. : Metallurgical Engineering :: IIT Bombay
+
+## Experience:
+- PhD Candidate in Finance :: Conduct research in Finance, specifically asset pricing and econometric modeling. Current work includes: 1) Do tax revenues Reduce Agency Costs and Increase Hospital Efficiency? Empirical Evidence from Washington State - conducted using Maximum Entropy Econometrics, 2) Return Distributions under GARCH Process with Sentiment Measures 3) Market Sentiment and its Effects on Stock Returns 4) A State-Space Model for Investor Sentiment and 5) Herding in Option Pricing Models  A State Space Approach.
+- Visiting Instructor in Finance :: Taught MBA and Undergraduate Classes in Investments, Financial Markets and Institutions, Bank Financial Management, Introduction to Financial Management
+- Visiting Asst. Professor in Finance :: Taught MBA and Undergraduate Classes in Financial Modeling, Strategic Business Problem Solving, Working Capital Management
+- Research Assistant Professor :: Principal Investigator on projects for the development of mathematical models for life prediction of Nuclear Waste containers for the Yucca Mountain Nuclear Waste Repository (sponsored by DOE). Taught classes in engineering to graduate and undergraduate students.
+- Research Scientist :: Worked on the development of mathematical models for life prediction of turbine engines blades for US Air Force fighter jets.
+
+## Skills:
+- R
+- SAS
+- SQL
+- C++
+- Fortran
+- VBA
+- Advanced Modeling Skills
+- Project Management Experience
+- Critical Thinking Skills
+- Complex Problem Solving Skills
+- Superior Research Skills
+- Excellent Written and Oral Communication
+
+## Sector:
+- Finance
+
+## Timeline:
+- EDU :: 08-2010 -- CURRENT :: PhD Candidate in Finance :: LOW
+- EDU :: 09-2013 -- 08-2014 :: Visiting Instructor in Finance :: LOW
+- EDU :: 08-2008 -- 06-2010 :: Visiting Asst. Professor in Finance :: LOW
+- EDU :: 01-2001 -- 02-2006 :: Research Assistant Professor :: LOW
+- EDU :: 10-1999 -- 12-2000 :: Research Scientist :: LOW
+- EDU :: 00-1999 :: Ph.D. : Materials Science and Engineering :: LOW
+- EDU :: 00-1992 :: B. Tech. : Metallurgical Engineering :: LOW
+- EDU :: 00-2015 :: Ph.D. : Finance :: LOW
+- EDU :: 12-2007 :: MBA : Finance :: LOW
+- EDU :: 12-1995 :: M.S. : Ceramic Engineering :: LOW
+- JOB :: 08-2010 -- CURRENT :: PhD Candidate in Finance :: LOW
+- JOB :: 09-2013 -- 08-2014 :: Visiting Instructor in Finance :: LOW
+- JOB :: 08-2008 -- 06-2010 :: Visiting Asst. Professor in Finance :: LOW
+- JOB :: 01-2001 -- 02-2006 :: Research Assistant Professor :: LOW
+- JOB :: 10-1999 -- 12-2000 :: Research Scientist :: LOW

@@ -1,0 +1,88 @@
+## Education:
+- BS Accounting :: Baruch College
+
+## Experience:
+- Director of Information Technology :: Directed and managed the entire IT operations for a commercial real estate investment company with over 15 locations throughout the U.S. Forecasted and planned all network information processing and communication needs for the entire company. Provided senior level leadership on all IT security and risk management concerns. Being proactive to ensure the continued functionality of a stable, reliable, and secure IT environment, including focus on current and anticipated cybersecurity threats and risk. Ensured technology compliance with SOX, PCI, IT general and regulatory controls. Established, documented and administered all IT operational policies and procedures to control systems and integrity risks. Created and analyzed annual IT operational and capital budgets and 5-year plans. Efficiently used monies allocated within those budgets. Inspected 3rd party contracts, evaluated and negotiated proposals for software and hardware services. Project leader for developing, planning and instituting disaster recovery and business continuity. Provided redundancy on all network components and system failovers. Redundant communication and internet lines using BGP for failover. Ensured the consistency of existing applications by creating, maintaining, testing and enforcing standards/procedures for implementing software rollouts. Used document imaging system for record retention. Maintained and upgraded all Audio/Video in conference rooms. Installed office security: Card key and camera systems. Hired and managed system administrators and supervised outside consultants. Originally hired as IT Manager promoted to Director in 2002.
+- Manager of Information Technologies :: Provided network administration, PC and network trouble shooting, file server configuration, backup systems configuration, network and switch management. Maintained Lotus Notes Domino Mail Server, operating system and application software upgrading, anti-virus and firewall management, hardware configuration and troubleshooting, application maintenance and administration.
+- Manager of Information Services :: Recruited to relocate to Chicago to run the accounting operations system. Began at LINC as the Accounting Operations Manager eventually became the Network Manager. Maintained UNIX and Novell servers.
+- Customer Service Representative :: Recruited by Software Company to relocate to Wellesley, MA. Provided technical support for customers.
+
+## Skills:
+- Accounting
+- ActiveDirectory
+- anti-virus
+- AntiVirus
+- Apple
+- Arcserve
+- Audio
+- Backup
+- BGP
+- budgets
+- CiscoRouters
+- Citrix
+- hardware
+- contracts
+- DHCP
+- disasterrecovery
+- DNS
+- Firewalls
+- firewall
+- focus
+- FTP
+- hardwareconfigurationandtroubleshooting
+- HP
+- imaging
+- IP
+- LAN
+- leadership
+- LINC
+- Domino
+- LotusNotes
+- MA
+- Mac
+- Director
+- ExchangeServer
+- Mail
+- office
+- Windows7
+- networkadministration
+- Nas
+- Network
+- networking
+- Novellservers
+- OperatingSystems
+- OS
+- operatingsystem
+- PCI
+- camera
+- policies
+- Projectleader
+- proposals
+- realestate
+- riskmanagement
+- San
+- serverconfiguration
+- SQL
+- SSL
+- Switches
+- switch
+- Symantec
+- technicalsupport
+- Trend
+- troubleshooting
+- UNIX
+- upgrading
+- Video
+- VPN
+- WAN
+- WindowsServer
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 01-1996 -- 01-2016 :: Director of Information Technology :: HIGH
+- JOB :: 01-1995 -- 01-1996 :: Manager of Information Technologies :: MEDIUM
+- JOB :: 01-1992 -- 01-1995 :: Manager of Information Services :: MEDIUM
+- JOB :: 01-1991 -- 01-1992 :: Customer Service Representative :: LOW
+- EDU :: 00-0000 -- 00-0000 :: BS Accounting :: Baruch College 
