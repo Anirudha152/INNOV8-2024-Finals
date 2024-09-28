@@ -1,0 +1,52 @@
+## Education:
+- Bachelor of Arts : Accounting and Controlling :: ENS Cachan
+- Certificate : Business Accounting :: Chartered Institution of Management Accountant
+
+## Experience:
+- Financial Accountant :: Monitor the net capital of the bank using daily controls. Calculate monthly fees for the client's account maintenance on a monthly and quarterly basis. Provide various analyses (variance, intercompany, balance sheet, P&L) using SAP and Avaloq. Enhance the consolidation reporting in IFRS by optimising the flux of information. Collaborate with the Finance team to provide accurate and timely month end reporting by setting up and maintaining planning and task lists.
+- Business Analyst :: Provided accurate information for month end journal adjustments for provisions related to Lombard credits, non-performing loans, impairments, deposit accounts and taxes by analysing account activities during the period required. Management of transaction error accounts by collaborating with reconciliations cash department to improve the account clearing process.
+- Financial Accountant :: Provided reports on the monthly securities position reporting and breaks. Performed regulatory reporting for the group and management by analysing the short term liquidity ratio, minimal reserves, capital adequacy, comprehensive balance sheet, interest rate, retrocessions and expenses. Used the reconciliation process to analyse and clear the daily cash account, breaks, fees, interests, expenses and accruals. Prepared various financial reporting schedules (daily control, earning analysis, etc) Collaborated with IT team in group projects to update systems and other various projects.
+- Accountant Analyst :: Performed accounts analysis on the balance sheet and P&L to provide explanations for the variances, reconciliations, intercompany and accounting close related tasks.
+- Project Accountant & Administrator :: Participated in leading SAP B1 implementation by setting up the organisation structure, planning and creating the testing scenario.
+- Senior Financial Accountant :: Prepared financial and regulatory reports required by laws, regulations or board of directors in US GAAP. Tracked all intellectual property and royalty spending against approved requests and payments. Analysed costs and revenues related to logistics.
+- Accountant :: Maintained full responsibility of monthly and quarterly financial statement preparation for two subsidiaries. Collaborated with Auditors, Banks, Tax returns & VAT IFRS reporting to provide accurate reports and analysis.
+- Cost Analyst :: Prepared p ayroll costs and headcount reporting. Prepared and booked the operating expenses accruals. Prepared cost centre reports for the local and head office. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget.
+- Financial Control Analyst :: Managed accounting operations, accounting close, account reporting and reconciliations for 3 entities.
+- Consultant in Finance / Administrative Support :: Roles in different industries: Food and beverages, IT, Financial services.           Specialisation in implementation of new organisational structures.
+
+## Skills:
+- Financialreporting
+- Varianceanalysis
+- P&Lmanagement
+- Processimprovement
+- Complexproblemsolving
+- Criticalthinking
+- Analytical
+- Decisive
+- Excel
+- Access
+- SAP
+- Hyperion
+- Essbase
+- Cognos
+- Sage
+- Abacus
+- Avaloq
+- Temenos
+
+## Sector:
+- Financial Services
+
+## Timeline:
+- JOB :: 01-2016 -- CURRENT :: Financial Accountant :: MEDIUM
+- JOB :: 07-2015 -- 12-2016 :: Business Analyst :: MEDIUM
+- JOB :: 09-2014 -- 12-2014 :: Financial Accountant :: MEDIUM
+- JOB :: 06-2014 -- 09-2014 :: Accountant Analyst :: MEDIUM
+- JOB :: 06-2013 -- 12-2013 :: Project Accountant & Administrator :: MEDIUM
+- JOB :: 06-2012 -- 05-2013 :: Senior Financial Accountant :: MEDIUM
+- JOB :: 12-2011 -- 05-2012 :: Accountant :: MEDIUM
+- JOB :: 06-2009 -- 12-2009 :: Cost Analyst :: MEDIUM
+- JOB :: 06-2008 -- 11-2011 :: Financial Control Analyst :: MEDIUM
+- JOB :: 07-1996 -- 11-2007 :: Consultant in Finance / Administrative Support :: MEDIUM
+- EDU :: 00-2008 -- 00-2008 :: Bachelor of Arts : Accounting and Controlling :: LOW
+- EDU :: 00-2012 -- 00-2012 :: Certificate : Business Accounting :: LOW

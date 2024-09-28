@@ -1,0 +1,67 @@
+## Education:
+- B.S : Finance :: University of Maryland
+- Honors Certificate :: Temple University Real Estate Institute
+
+## Experience:
+- Assistant Vice President :: Oversaw the domestic migration of the Post Trade Confirmation function, which included the training and management of a team of 11 in the drafting of our structured rates and credit products in accordance to ISDA Standards and in adherence to Dodd Frank, CFTC, EMIR Liaise with Legal, Credit, and Sales/Trading teams on the negation and execution of MCAs for our high volume and complex clients; Create and review documentation templates for newly created bespoke products while resolving client language disputes/discrepancies Manages various DFX project initiatives intended to implement strategic solutions to standardize client operations, increase efficiency, mitigate operational risk, and satisfy regulatory requirements Represents Barclays on International Swaps and Derivatives Association industry working groups that discuss industry trends and changes
+- Managed a large global in-sourcing project which resulted in a multi-million-dollar cost savings for the firm; project includes facilitating UAT and Regression Testing, New-Hire training, and Post Migration Analysis and Reporting. Screened & Investigated all financial transactions and messages which have potential violations of OFAC Sanctions & AML Regulations Assisted in the rejection/blocking of financial transactions which have been deemed in violation of regulatory and/or internal policy Created Daily MIS Reporting for Senior Management and actively participated in Weekly Management Governance Meetings.
+- Provided Portfolio Management Support for JPMorgan Credit Executives within the Corporate & Financial Institution Group portfolio Performed analysis on client financial statements and fund prospectus; prepared reports around net asset values, fund performance, and large variance metrics as it related to IB client risk profile. Assisted in the Client Annual Review Process and ensured process was completed in accordance to JPM Internal Risk Policies Monitored client trading activities and outstanding exposure profile; created/resized credit lines as necessary, and reported subsequent trading violations to Credit and Compliance Officers for review Participated in the planning, implementation and testing of system enhancements to the Credit Infrastructure applications Executed Credit Rapid Exposure Drill (RED) on all financially distressed clients which reduced/mitigated credit risk to JPMorgan Investment Banking
+- Supervised a team of 5 individuals and acts as the first level of escalation for any settlement and client service related issues Confirmed and Processed pre-settlement exceptions for approximately 7500 cash flows on an annual basis for derivative products Provided operational support and analysis on a large derivative processing exercise enabling the PPB trading desks Risk Weighted Average to decrease by $1billion Executed risk analysis on cash flow breaks through the prioritization of aged outstanding items and the production of subsequent MIS which ensure the firm is in compliance with the SOX Act Investigated settlement breaks and assisted the swaps & rates accounting team in the reconciliation of JPMorgan derivative accounts Resolved all external client inquiries and provides exceptional service in adherence to strict internal SLAs & industry standards.
+- Developed Business Process Models and Operating Models for the future integrated state of JPMorgan's US Securities Platform Coordinated a dynamic UAT testing plan that manages the execution of thousands of UAT test scripts from the various core operations groups while effectively tracking project benchmarks, milestones, and critical issues Performed gap analysis between heritage JPM and heritage Bear Stearns procedures to eliminate potential gaps in operational procedure reducing the risk of negative client impact post conversion Managed the "Air Traffic Control" function for various conversion & integration efforts within the JPMC Fixed Income & Listed Options business Created forecast models and project plans for various Fixed Income Listed Options departmental initiative.
+
+## Skills:
+- accounting
+- Analyst
+- Banking
+- Bloomberg
+- Business Process
+- cash flow
+- conversion
+- Credit
+- credit risk
+- Client
+- clients
+- Derivatives
+- documentation
+- drafting
+- Senior Management
+- Financial
+- financial statements
+- Fixed Income
+- HP
+- Investment Banking
+- ISDA
+- Legal
+- Meetings
+- MS Office Suite
+- Migration
+- MIS
+- Policies
+- Project Management
+- project plans
+- Quality
+- Real Estate
+- Reporting
+- Reuters
+- risk analysis
+- Sales
+- Securities
+- scripts
+- strategic
+- structured
+- Swaps
+- SWIFT
+
+## Sector:
+- Finance
+
+## Timeline:
+- JOB :: 02-2013 -- CURRENT :: Assistant Vice President :: HIGH
+- JOB :: 00-2006 -- 02-2013 :: Middle Office Analyst :: MEDIUM
+- JOB :: 00-0000 -- 00-0000 :: Investment Banking - Derivatives Senior Analyst :: MEDIUM
+- JOB :: 00-0000 -- 00-0000 :: Project Analyst :: MEDIUM
+- EDU :: 05-2007 :: B.S : Finance :: University of Maryland :: LOW
+- EDU :: 04-2013 :: Honors Certificate :: Temple University Real Estate Institute :: LOW
+- MEM :: 01-2012 -- CURRENT :: Treasurer /Trustee :: Greater Life Christian Center :: LOW
+- MEM :: 08-2007 -- 02-2012 :: Co-Captain of JPMorgan Recruiting Team for University of Maryland College Park :: LOW
+- MEM :: 06-2005 -- 11-2007 :: Mentor & Seminar Facilitator (Young Friends of PYN) :: Philadelphia Youth Network (PYN) :: LOW

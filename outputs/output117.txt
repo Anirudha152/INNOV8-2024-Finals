@@ -1,0 +1,44 @@
+## Education:
+- Masters : Indiana University - Bloomington
+- Bachelor of Technology : Jawaharlal Nehru Technological University
+
+## Experience:
+- ASP.Net Web Developer :: Migration of IU Print website (print.iu.edu) from ColdFusion to ASP.Net using MVC Framework. Create a prototype dashboard for IU Print Analytics module using High Charts.
+- Software Engineer :: Designed and developed an application to migrate legacy data to ASP.Net application by providing the ability to validate the data to meet the business rules for the new application. Design the story board using HTML and CSS and design database for applications by analyzing the customer requirements. Perform code reviews of the modules developed by other team members and participate in pair programming to improve the coding standards of the overall application. Preparation of build packages and actively participate in integration and deployment phase of the applications.
+
+## Skills:
+- C#
+- SharePoint2010
+- ASP.NET4.0
+- ASP.NET3.5
+- ASP.NET2.0
+- MVC4
+- VisualStudio2008
+- VisualStudio2010
+- VisualStudio2013
+- SQLServerManagementStudio
+- SQLServer2005
+- SQLServer2008R2
+- MySQL
+- Oracle
+- HTML
+- JQuery
+- CSS
+- JavaScript
+- Bootstrap
+- JIRA
+- TeamFoundationSever
+- GitHub
+- VisualSourceSafe
+
+## Sector:
+- Software Development
+
+## Timeline:
+- JOB :: 04-2015 -- CURRENT :: ASP.Net Web Developer :: MEDIUM
+- JOB :: 07-2011 -- 07-2014 :: Software Engineer :: MEDIUM
+- EDU :: 08-2014 -- 12-2015 :: Masters in Computer Science :: LOW
+- EDU :: 09-2007 -- 05-2011 :: Bachelor of Technology in Computer Science and Engineering :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Associate of the Month award at CYIENT :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Team of the Month award for projects such as DEBTS and eRFA :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Stood 3rd in SIASAT's national level talent search examination during high school :: LOW

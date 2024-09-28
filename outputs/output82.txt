@@ -1,0 +1,84 @@
+## Education:
+- Bachelor of Arts Business Management :: Curry College
+
+## Experience:
+- Information Technology Coordinator :: Continually evaluating and implanting new technology to save cost, maintain and improve business process Sole point of contact for 150 people including remote staff Led $300,000 implantation of Navision ERP System Continual in-house refinements and improvements to Navision Upgraded from Navision's proprietary C/side database to SQL 2000 database Continual in-house refinements and improvements to Navision Created and implemented custom databases for leading National and Regional financial institutions that increase revenue Initiated use of remote control programs to train and help trouble shoot customer issues in a more timely manner Final point of resolution for customer software and hardware issues Responsible for onsite installation of industry specific hardware and software Implemented ACT 2006 Customer relation management database Led redesign of corporate website to including online shopping cart, site costumer extranet, and employee intranet Led the development and implemented of electronic work order ticket which greatly improved cash flow Led the revision of service call dispatch process to an automated delivery system via cell phones Developed numerous in house databases and reports to suite customers specific billing and reporting needs Negotiate contracts and interface with vendors Designed, lunched and maintain company wide disaster recovery plan Design network infrastructure and lead relocation team of corporate headquarters and regional warehouses Responsible for maintaining and securing a Microsoft Windows 2003 environment Employee systems configuration and training employees on a variety of network systems Organizing and Supporting Communicating between Management & Employees Design network infrastructure and lead relocation team of corporate headquarters and regional warehouses Upgraded to all servers to windows 2003 from Windows NT 4 0 Maintain and make sure all software is up to date and compliant Responsible for onsite installation of industry specific hardware and software Coordinate computer related training for service staff.
+- Information Systems Manager :: Designed in house proprietary costumer relation database. Designed and implemented Microsoft 2003 SBS. Led design of corporate web site and internet marketing campaigns. Responsible for corporate network security and customer WI-FI network.
+
+## Skills:
+- A+Certified
+- ActiveDirectory
+- billing
+- businessprocess
+- C
+- cashflow
+- Cisco
+- CiscoRouters
+- Hardware
+- networksystems
+- Contentmanagement
+- contracts
+- Coral
+- databases
+- Database
+- delivery
+- disasterrecovery
+- Email
+- ERP
+- extranet
+- financial
+- Firewalls
+- internetmarketing
+- laptops
+- Lotus
+- MicrosoftAccessI
+- MicrosoftAccess
+- MicrosoftCertifiedProfessional
+- MicrosoftCertified
+- MicrosoftExchange
+- Office
+- MicrosoftOffice97
+- Windows
+- Windows2000
+- 2000
+- MicrosoftWindows2003
+- MicrosoftNT4
+- NT40
+- WindowsNT40
+- MicrosoftWindowsNT40
+- WindowsXP
+- Navision
+- networksecurity
+- network
+- OfficeSuites
+- OperatingSystems
+- Organizing
+- ReportWriterI
+- reporting
+- SCOUnix
+- servers
+- MicrosoftSQL
+- SQL2000
+- Sybase
+- SystemAdministrator
+- phones
+- phone
+- trainingemployees
+- Visio
+- voicemail
+- website
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 05-2000 -- CURRENT :: Information Technology Coordinator :: MEDIUM
+- JOB :: 01-1996 -- CURRENT :: Information Systems Manager :: MEDIUM
+- EDU :: 00-1988 -- 00-1988 :: Business Management :: LOW
+- AWD :: 00-2003 -- 00-2003 :: Administrate employee of the year :: LOW
+- AWD :: 00-2008 -- 00-2008 :: President Club Winner :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Repeated employee of the month winner :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Who's Who Among Students in American Universities and Colleges :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Outstanding Young Men of America :: LOW
+- AWD :: 00-0000 -- 00-0000 :: United States Achievement Academy - National Award Winner :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Sanford R. Levitt :: LOW

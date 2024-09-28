@@ -1,0 +1,74 @@
+## Education:
+- Master of Science : Management, Project Management :: Colorado Technical University
+- Bachelor of Science : Information Technology :: University of Phoenix
+
+## Experience:
+- Project Manager :: Built and maintained successful relationships with service providers, dealers and consumers. Provided base level IT support to company personnel. Defined project deliverables and monitored status of tasks. Delivered status reports to stakeholders for budgeting and planning purposes. Collaborated with cross-functional teams to draft project schedules and plans. Monitored costs, timescales and resources used to achieve [Goal]. Monitored team progress and enforced deadlines. Partnered with [Department Name] and [Department name] to address [Issue description]. Planned, implemented and managed all project contracts, performed scheduling, risk analysis, quality control and trained staff.
+- Information Technology Specialist :: Trained new employees and explained protocols clearly and efficiently. Researched issues on various computer systems and databases to resolve complaints and answer inquiries. 9 years experience working as an agent to all corporate systems in the field, call center and central service office. Analyzed system problems, performed troubleshooting, ensured connectivity and trained staff.
+
+## Skills:
+- A+
+- ActiveDirectory
+- agile
+- Avaya
+- callcenter
+- Excellentcommunication
+- CA
+- Hardware
+- contracts
+- criticalthinking
+- customerservice
+- decision-making
+- documentation
+- functional
+- help-desk
+- HPprinters
+- IP
+- laptopcomputers
+- Laptops
+- MicrosoftCertifiedProfessional
+- MCSE
+- office
+- MSOutlook
+- Windows
+- WindowsOS
+- Windows2000
+- 2000
+- negotiating
+- Enterprise
+- Network
+- networks
+- PBX
+- PCHardware
+- telephonesystems
+- Copiers
+- Printers
+- problemsolving skills
+- qualitycontrol
+- riskanalysis
+- Routers
+- scheduling
+- servers
+- SMS
+- Switches
+- TCP/IP
+- techsupport
+- phones
+- troubleshooting
+- Upgrades
+- VOIP
+- VPN
+- Xeroxcopiers
+
+## Sector:
+- IT
+
+## Timeline:
+- JOB :: 07-2013 -- CURRENT :: Project Manager :: MEDIUM
+- JOB :: 03-2004 -- 07-2013 :: Information Technology Specialist :: MEDIUM
+- EDU :: 06-2012 -- 00-0000 :: Master of Science : Management, Project Management :: LOW
+- EDU :: 10-2009 -- 00-0000 :: Bachelor of Science : Information Technology :: LOW
+- AWD :: 00-0000 -- 00-0000 :: CompTIA Network + Certified :: LOW
+- AWD :: 00-0000 -- 00-0000 :: A+ Hardware/Software Certified :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Microsoft Corporation Microsoft Certified Professional Certified :: LOW
+- AWD :: 00-0000 -- 00-0000 :: MCSE- Windows 2000, Pasadena, CA Certified :: LOW

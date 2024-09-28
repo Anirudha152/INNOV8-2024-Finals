@@ -1,0 +1,62 @@
+## Education:
+- Fraud and Forensic Accounting :: La Salle University
+- MBA Accounting :: University of Phoenix
+- Bachelor of Science Business Economics , International Business and French Structural Economics and International Relations :: Pennsylvania State University
+-  :: Paris Chamber of Commerce
+-  :: FMA Institute
+
+## Experience:
+- Accountant :: Sources items through the compilation of vendor information and bidding processes Selected preferred vendors based on competitive pricing, products' liabilities, payment terms, and ETA's Creates auditing processes for inventory management Selects bank statements randomly to ensure that disbursements where authorized and signed by two individuals Ensures three way matches of requisitions, purchase orders, and good receipts Performs data analysis on bank statements to ensure that all reconciled items are processed in a timely manner Audits the database demographic to better understand clientele of the company and to maximize customer satisfaction level Completes month-end journal entries and month-end reports. Prepares bank reconciliations and ensures all reconciling items are resolved in a timely manner Organizes monthly, quarterly, and annual financial statements.
+- QA/Mobile Software Tester :: Worked specifically with different accounting and business software including French ones Audited the testing process to enhance quality, cycle time effectiveness, and accuracy Identified correctness, completeness, security, and quality of various accounting packages Isolated and reported localization and functional bugs for certification programs Developed test plans, and organize and lead testing activities for new and existing releases Conducted regression, security, and smoke testing.
+- Procurement Specialist :: Served as the lead buyer for sixteen plants across the United States and Canada Interacted in French with plants located in French Speaking regions Montreal, Quebec, Viau etc. Selected preferred vendors based on competitive pricing, products' liabilities, payment terms, and ETA's Handled customer service management (CRM) inquiries from clients and vendors Performed monthly audits to ensure requisitions and purchase orders' accuracy Reviewed audit results with clients and team members to improve productivity and affectivity Provided day-to-day management of sourcing initiatives within cross-functional team Ensured three-way matches of requisitions, purchase orders, and good receipt Utilized strategic sourcing approach to create operation processes for clients and vendors Handled new clients implementations, integrations, and trainings from legacy AS400 systems to SAP Oversaw high-priority accounts which considered opting out of their contracts, worked with them on an individual basis to meet or exceed their expectations Prepared bid requirements, solicited responses, analyzed responses, prepared recommendations, and negotiated contracts to enhance efficiencies and reduce costs Administered back order reports for plants and expedited customer requests as needed.
+- Freight Planning Contact :: Provided export documents for the DuPont International hazardous department Coordinated logistic arrangements, port-to-port, port to point, and point to point Managed clients' travel arrangements to South America, Europe, and Asia Conducted itinerary changes for clients from port to destination points Coordinated logistic arrangements, providing customer services and timely communications Responded to and resolved request or inquiries from internal and external teams.
+
+## Skills:
+- Accounting
+- approach
+- AS400
+- auditing
+- bank reconciliations
+- competitive
+- contracts
+- CRM
+- clientele
+- clients
+- customer satisfaction
+- customer services
+- customer service
+- data analysis
+- database
+- financial statements
+- French
+- Fluent in French
+- functional
+- inventory management
+- Access III
+- Microsoft Excel II
+- Microsoft Office
+- Microsoft Word
+- pricing
+- processes
+- Speaking
+- quality
+- QuickBooks
+- reconciling
+- SAP
+- SQL
+- strategic
+- travel arrangements
+
+## Sector:
+- Accounting
+
+## Timeline:
+- JOB :: 11-2013 -- CURRENT :: Accountant :: MEDIUM
+- JOB :: 09-2010 -- 05-2013 :: QA/Mobile Software Tester :: MEDIUM
+- JOB :: 04-2006 -- 01-2010 :: Procurement Specialist :: MEDIUM
+- JOB :: 08-2005 -- 04-2006 :: Freight Planning Contact :: MEDIUM
+- EDU :: 00-2015 ::  :: LOW
+- EDU :: 00-2011 ::  :: LOW
+- EDU :: 00-2005 ::  :: LOW
+- EDU :: 00-2005 ::  :: LOW
+- EDU :: 00-2011 ::  :: LOW

@@ -1,0 +1,62 @@
+## Education:
+- Bachelor of Science Information Science & Technology :: University of Wisconsin City , State
+- Information Science & Technology AAS :: Waukesha County Technical College City , State
+- IT-Computer Support Specialist :: Waukesha County Technical College City , State
+
+## Experience:
+- Support & Network Services Intern :: Customized and implemented Microsoft SCSM from SCCM in order to automate departmental organizational needs Facilitated proper asset management and user onboarding processes tailored to the Student Affairs department Worked with Network & Support Services team to learn more about the general campus and supported users Attended regular meetings to coordinate and discover the expected outcomes and functions of Microsoft SCSM Performed within a minimalized test environment in order to create runbook programming and custom templates Shadowed student workers with incident management processes and workflows within Cherwell Service Management Familiarized with ticket creation, priority, review, and remote desktop connections with respect to supported users Imaged computers based on ImageNow software residing on the network and reflected changes in Active Directory Discovered and learned AD DS, SCCM, and SCSM and interacted with the systems based on supervision Assisted student workers with new computer installations and configurations as well as creating documentation Alleviated phone call requests or questions for student workers based on working knowledge for ticket closure.
+- Information Technology Lead Intern :: Worked with director on minimizing Windows XP machines and migrated to Windows 7 based on Spiceworks solution Contacted Central IT when appropriate with regards to diagnosing distance education connections and supporting equipment Deployed re-imaged hard drives or newly acquired assets for classrooms or professors based on priority scheduling Assisted lab desk student workers with issues, cooperated with lab desk students on scheduling accommodations and support Check out and manage the plethora of IT department equipment based on appointments in SharePoint or open door policy Performed room checks to test equipment and replace faulty campus property during the semester breaks Set up purchased assets within classrooms for students while retiring and recycling older systems.
+- Information Technology Student Center Intern :: Resolved student center questions and arranged peer-to-peer tutoring/assistance with specific students in CSS program. Prepared and delivered a Microsoft Office training session, training videos for the general public in a workforce environment. Created and enabled multiple custom virtual machines in a sandboxed environment to distinguish networking and connectivity. Continued research and interacted with Microsoft Windows, Macintosh OS X, mobile, and Linux operating systems.
+
+## Skills:
+- Active Directory
+- AD
+- asset management
+- automate
+- hardware
+- CSS
+- documentation
+- hard drives
+- Linux
+- Mac OS
+- Macintosh OS
+- director
+- meetings
+- Microsoft Office
+- Windows 7
+- Microsoft Windows
+- Windows
+- Windows XP
+- network and support
+- Network & Support
+- network
+- networking
+- operating systems
+- organizational
+- processes
+- programming
+- research
+- scheduling
+- supervision
+- phone
+- test equipment
+- troubleshooting
+- tutoring
+- Vista
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- EDU :: 09-2011 -- 12-2011 :: Information Technology Student Center Intern :: LOW
+- EDU :: 06-2012 -- 06-2013 :: Information Technology Lead Intern :: LOW
+- EDU :: 09-2014 -- 12-2014 :: Support & Network Services Intern :: LOW
+- EDU :: 00-2011 -- 12-2011 :: IT-Computer Support Specialist :: LOW
+- EDU :: 00-2011 -- 12-2014 :: Information Science & Technology AAS :: LOW
+- EDU :: 00-2014 -- 12-2014 :: Bachelor of Science Information Science & Technology :: LOW
+- AWD :: 00-0000 -- 00-0000 :: UW-Waukesha Dean's List :: LOW
+- AWD :: 00-0000 -- 00-0000 :: WCTC Honor List :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Who's Who Program :: LOW
+- MEM :: 00-2010 -- 00-0000 :: NTHS Member :: LOW
+- AWD :: 00-0000 -- 00-0000 :: Phi Theta Kappa Honor Society :: LOW
+- AWD :: 00-0000 -- 00-0000 :: BCHS Honor Roll :: LOW

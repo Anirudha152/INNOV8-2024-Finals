@@ -1,0 +1,95 @@
+## Education:
+- Bachelor of Science : Exercise and Sports Sciences :: Colby-Sawyer College
+
+## Experience:
+- Information Technology Administrator :: I oversee the purchasing, management, and maintenance of all infrastructure-related hardware and software, while simultaneously overseeing end-user hardware and software support for a law school with roughly 85 FTE faculty/staff, and 275 students with a roughly 1:1 PC:Mac user ratio. I work closely with the Durham campus, all IT vendors, and our BSC office to develop and manage the IT budget, including all IT-related service and maintenance contracts, while also developing and maintaining IT policies as they relate to law school operations and academics. Duties include managing a 5-host, 40-server VMWare farm, help desk system, network monitoring system, campus-wide physical/building security system, ID card system, printing infrastructure, electronic exam system, backing up all critical data on the UNH Law network, and administering a plethora of fileservers, webservers and web applications, including various content management systems. I work with system administrators in Durham to design and maintain the entire network on the Concord campus. Extensive knowledge installing and supporting various server platforms, including Windows, linux, Mac OS Server.
+- Associate Director of Computer Services :: Primary responsibilities included the day-to-day support of end-user hardware, software, and peripherals in a mixed Microsoft Windows, Mac OS X, linux, and Novell environment, while also assisting with the everyday demands of maintaining a rather complex campus-wide network that was driven by a predominately Cisco infrastructure. Reported directly to, and served as the immediate backup for the Director of Computer Services. Designed and implemented the first ever wireless network on campus, which I administered and upgraded through three different platform changes over the course of thirteen years. Planned and administered the campus upgrade initiatives from Windows 98 to Windows XP, Windows XP to Windows 7, and numerous Mac OS and iOS version upgrades. After Franklin Pierce Law Center integrated with UNH, I developed the plan for and administered the transition from a predominately Novell-based infrastructure to a predominately Microsoft-based infrastructure, including transitioning our e-mail platform from Novell GroupWise to Microsoft Exchange.
+- District Computer Technician :: I supported all end-user related hardware and software demands for the entire school district. Duties ranged from day-to-day troubleshooting to implementing new technologies, such as the first ever Apple Airport WiFi network and roaming iBook lab.
+- Electrician's Apprentice :: Predominately industrial electrical work, mostly in a manufacturing setting, with some residential work mixed in.
+
+## Skills:
+- MicrosoftWindows
+- MicrosoftWindowsServer
+- MicrosoftActiveDirectory
+- MicrosoftGroupPolicy
+- MicrosoftOfficeforWindowsandMac
+- MicrosoftExchange
+- MacOSX
+- MacOSXServer
+- AppleiOS
+- Android
+- CentOS
+- SUSEEnterpriseServer
+- NovellNetware
+- Novell eDirectory
+- NovellGroupWise
+- NovellOpenEnterpriseServer
+- NovellDatasync/MobilityServer
+- NovellTeaming
+- NovellZenworks
+- NovellZenworksConfigurationManagement
+- AdobeAcrobat
+- AdobeConnectPro
+- Apache
+- OpenSSL
+- IIS
+- MYSQL
+- PHP
+- HTML
+- SSL
+- LDAP
+- DHCP
+- BIND
+- DNS
+- TCP/IP
+- Drupal
+- ExpressionEngine
+- Aerohive
+- BluesocketWirelessController
+- BarracudaAnti-SpamAppliance
+- BarracudaWebFilter
+- BarracudaWare
+- SonicWallNSA
+- 3ComNBX
+- Avaya
+- CiscoPIX
+- CiscoNetworkAssistant
+- BlackberryEnterpriseServer
+- VMWareESX
+- VMWareFusion
+- PharosUniprint
+- NTop
+- Nagios
+- NagiosQL
+- Icinga
+- Cacti
+- RealChat
+- MRBS
+- WebCalendar
+- vBulletin
+- MovableType
+- WordPress
+- MediaWiki
+- Gallery2
+- Gallery3
+- SIMPLE
+- Joomla
+- Moodle
+- Mailman
+- EMSCampus
+- EMSMasterCalendar
+- VirtualEMS
+- C-Cure
+- Remedy
+- TeamDynamix
+- Extensivehardwareknowledgeandexperience,especiallywithApple,Micron,Lenovo,Dell,HPLaserjets,CanonMFDs,andXeroxMFDs.
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- EDU :: 00-1999 :: Bachelor of Science : Exercise and Sports Sciences :: LOW
+- JOB :: 08-1999 -- 07-2000 :: District Computer Technician :: LOW
+- JOB :: 06-1990 -- 07-1999 :: Electrician's Apprentice :: LOW
+- JOB :: 07-2000 -- 09-2014 :: Associate Director of Computer Services :: MEDIUM
+- JOB :: 09-2014 -- CURRENT :: Information Technology Administrator :: MEDIUM

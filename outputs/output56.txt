@@ -1,0 +1,81 @@
+## Education:
+- Bachelor of Science : Information Technology :: University of Phoenix
+- Associate of Arts : Paralegal :: Southern College
+- Diploma : Network Engineering :: Southern Technical Institute
+
+## Experience:
+- Information Technology Support Specialist :: Provided technical leadership for the design, deployment and operation of IT hardware and software. I have built, implemented and sold numerous computers systems. I have been instrumental in the service environment of the systems using the latest processor technologies like INTEL and AMD processors also have helpdesk support experience, Systems Analyst and a strong leadership in the management of IT Systems and devices including, but not limited to DELL, HP, IBM, MICROSOFT Software packages, setting up and maintaining networks for small businesses, setting CMOS and BIOS, installing Software Applications to fill customer's needs, also active directory administration in Novel and Windows and strong experience in data migration using Robocopy.
+- Customer Engineer :: Prepare directory structures and applying appropriate permissions for users on the Network Attached Storage (NAS). Send email notifications to the branch mgr, asst mgr, ROM, and area mgr's in order for them to prepare for the centralization of the branch, at the same time send a separate set of notification to the non-branch users working on a branch environment. Use Carbon Copy to remote into a user's computer and move their .pst files from their home (H:) drive on the server to their local computer and reconfigure Outlook to use file from the new location. Use Robocopy to copy user data from their H: drive to their new folder on the NAS. Use Remote Desktop Connection to connect to servers and set up scheduled tasks. Perform cutovers at the schedule dates as needed, logging in to 20 servers nightly and verifying that the scheduled task has been running, verify all appropriate users on the original server have a folder on the NAS with appropriate permissions, update Active Directory to use new (H:) drive, break the share on the old server for the "Users" and "Shared" folders, once accomplish the folder with the batch files and server text files must be moved to the archive folder to keep a count of the branches done. Assist in the command center conference call to verify the branch teammates access to the (H:) drive and (S:) drive from 8:30am to 10:00am daily. Perform the same activities for the non-branch teammates working on a branch environment, but must be perform before the second notification for the branch is send out.
+-  :: Responsible for providing technical desktop support for ATT upgrade project for 7+ ATT wireless stores. Duties performed include but not limited to: Installation of Ingenico SigCap devices. Flash peripherals with the latest updates. Troubleshoot tickets using the Remedy application. Image and configure computers for the 4QT09 rollout. Inventory 3QT09 equipment to be return to the vendor. Image and configure managers laptops. Provide support for the retail stores.
+-  :: Responsible for the network support of the recruiting team while at the Radisson Hotel, Lead the deployment of 300 PC and peripherals once the main building was finish. Document all inventory for the IT Manager. Shipping and receiving of IT hardware. Install all servers that will be utilized in the forest.
+
+## Skills:
+- A+
+- ActiveDirectory
+- Apollo
+- ARMY
+- com
+- hardware
+- DataMigration
+- DELL
+- Email
+- Engineer
+- Flash
+- HP
+- IBM
+- Image
+- INTEL
+- Inventory
+- laptops
+- leadership
+- logging
+- meetings
+- MICROSOFTSoftware
+- access
+- MCSE
+- MOS
+- Outlook
+- SharePoint
+- Windows
+- migration
+- NDS
+- NetworkAttachedStorage(NAS)
+- NAS
+- NetworkAttachedStorage" (NAS)
+- networksupport
+- network
+- networks
+- Novel
+- Novell
+- Netware
+- pdf
+- peripherals
+- personnel
+- processors
+- receiving
+- recruiting
+- reporting
+- retail
+- servers
+- scripts
+- Shipping
+- installingSoftware
+- SystemsAnalyst
+- desktopsupport
+- Troubleshoot
+- type
+- upgrade
+- vb
+
+## Sector:
+- IT
+
+## Timeline:
+- JOB :: 01-2011 -- CURRENT :: Information Technology Support Specialist :: MEDIUM
+- JOB :: 12-2009 -- 05-2010 :: Customer Engineer :: MEDIUM
+- JOB :: 07-2009 -- 10-2009 ::  :: LOW
+- JOB :: 12-2008 -- 05-2009 ::  :: MEDIUM
+- EDU :: 00-2011 -- 00-2011 :: Information Technology Support :: LOW
+- EDU :: 00-2001 -- 00-2001 :: Paralegal :: LOW
+- EDU :: 00-2002 -- 00-2002 :: Network Engineering :: LOW
+- UKN :: 00-1989 -- 00-1998 :: US ARMY :: LOW

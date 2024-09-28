@@ -1,0 +1,76 @@
+## Education:
+- Bachelors of Science : Aeronautical Science Applied Meteorology :: Embry-Riddle Aeronautical University
+- Associate of Science : Electronic Engineering Technology :: Tidewater Community College
+
+## Experience:
+- Aviation Electronics Technician :: Troubleshoot radar systems, communication systems, navigation equipment, radar altimeter warning systems, instrument landing system equipment, electronic support measure systems, electro-optical sensors (IR turret), search radar and synthetic aperture radar. Test electronic circuits using commercial and industry-standard equipment, such as oscilloscopes, digital multi-meters, logic analyzers, DAC converters, spectrum analyzers and signal generators and time delay reflectometers to isolate faults and defects. Work side by side with Quality assurance as a collateral duty inspector, responsible for writing quality deficiency reports, technical discrepancies and engineering investigations. Maintain and repair in-flight navigation and detection systems on aircrafts , radar systems, radar and tactical displays, IFF/SIF equipment, radar altimeters, Doppler navigation equipment, radio navigation systems, analog computing devices, electronic countermeasures equipment, laser and fiber-optic infrared devices, digital recorder systems and aircraft digital systems, use basic RF electronic test equipment and specialized system test equipment. Completed maintenance action forms, keep an inventory of parts and supplies, maintain a technical library and perform avionics corrosion control. Troubleshoot and repair antisubmarine warfare sensors, electronic warfare, data link, fire control and tactical displays with associated equipment, UHF and VHF receivers and transmitters, made repairs on antennas, repair and install electrical connectors, inspect and install pressurized equipment, waveguide components, avionics gaskets and seals, calibrate test equipment, interpret computer languages and computer equipment.
+- Aviation Electronics Technician :: Worked in the Navy's largest intermediate maintenance department providing component level repair exceeding 260,000 components annually and valued at $557 million. Incorporated and ensured strict attention to detail in repairing electrical aircraft systems using commercial and industry-standard equipment, such as oscilloscopes, digital multi-meters, logic analyzers, DAC converters, spectrum analyzers and signal generators all while contributing to 55% percent reduction in backlog. Analyzed and resolved intricate automated test equipment problems and debugged complex computer generated data all while supporting 19 F/A-18 squadrons and 11 aircraft carriers. Assembled, checked, handled, inspected, maintained, operated, reprogrammed, repaired and processed over 2,900 maintenance actions annually on classified F/A-18 specialized repair assemblies all while maintaining a 95% ready for issue rate. Utilized technical manuals, wiring schematics, block diagrams, electrical schematics and drawings to rapidly isolate malfunctions in system wiring, sub assemblies and other components.
+- Used the instructional design process to plan and develop online courses in partnership with faculty SMEs, then building courses using a standardized template in the Blackboard LMS environment. Utilized a variety of technology tools, including Canvas, Blackboard, Respondus, StudyMate, TurnItIn, SnagIt, Camtasia, HTML and others to create instructional media. Facilitated in the transfer and development of online courses from Blackboard LMS to Canvas LMS. Collaborated with remote faculty to prepare high-quality, interactive online courses, for academic and non-credit delivery. Conducted quality assurance reviews of courses and other instructional materials Edited and organized electronic information to create high-quality course content that is suited to the adult online learner. Worked with Blackboard System Administrators to troubleshoot issues with online courses in the LMS system, prepare for system upgrades by testing the LMS on staging servers.
+
+## Skills:
+- academic
+- Adobe
+- Articulate
+- attention to detail
+- Auto CAD
+- basic
+- calibration
+- Canvas
+- content
+- credit
+- delivery
+- electrical schematics
+- English
+- forms
+- HTML
+- inspect
+- inspector
+- instructional design
+- inventory
+- labVIEW
+- laser
+- logic
+- materials
+- MATLAB
+- Access
+- Excel
+- Microsoft Office Programs
+- Outlook
+- PowerPoint
+- Word
+- radar
+- multi-meters
+- Navy
+- communicator
+- navigation
+- organizational
+- oscilloscopes
+- problem solver
+- quality
+- quality assurance
+- radio
+- recording
+- repairs
+- repairing
+- schematics
+- servers
+- signal generators
+- fluent in Spanish
+- technical manuals
+- test equipment
+- Troubleshoot
+- troubleshooting
+- UHF
+- upgrades
+- VHF
+- wiring
+
+## Sector:
+- Aviation
+
+## Timeline:
+- JOB :: 01-2013 -- 01-2015 :: Aviation Electronics Technician :: MEDIUM
+- JOB :: 01-2008 -- CURRENT :: Aviation Electronics Technician :: MEDIUM
+- JOB :: 01-2003 -- 01-2007 :: Aviation Electronics Technician :: MEDIUM
+- EDU :: 05-2016 -- 00-0000 :: Bachelors of Science : Aeronautical Science Applied Meteorology :: LOW
+- EDU :: 05-2008 -- 00-0000 :: Associate of Science : Electronic Engineering Technology :: LOW

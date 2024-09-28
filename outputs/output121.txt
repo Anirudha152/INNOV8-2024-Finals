@@ -1,0 +1,99 @@
+## Education:
+- BS : Sociology and Social Work Psychology :: Weber State University
+- Sociology and Social Work Psychology :: Weber State University
+
+## Experience:
+- System Administrator :: As the 12 Computer Systems Administrator the EOps-ECC- WSSB-BSS-CIS group, my job function is varied and requires multi-tasking as a standard. I have acted as the CIS section supervisor. I am a trainer for new employee's coming into the group on details and 4 new permanent employees into the CIS group. I am required a basic working understanding of 7 projects and to be able to step in for other SA's at a moment's notice of well over 500 servers. The work involves analyzing customer requirements, developing specifications for new or modified systems, planning and coordinating the design, development, testing, installation, and support of new and modified systems, including hardware and software, and serving as the primary liaison with customer organizations on all IT-related matters. The work may involve developing and presenting training on the operation and maintenance of new systems to the IRS IT staff including IT specialists in other specialty areas, to insure that new systems are properly managed. The employee may adapt and implement systems diagnostic and maintenance tools to ensure the availability and functionality of systems required to support organizational Objectives and evaluate and recommend selection of new systems diagnostic tools. This work affects the availability of IRS IT systems needed to meets the mission requirements. Regular contacts include employees in the same or related units, employees and managers within IRS and contractors/vendors at several levels of the agency (campuses, headquarters or field offices); and individuals or groups from outside the agency, including consultants, contractors, vendors, or representatives of professional. My main duties are to maintain server's operation, security, and analyze and diagnose system hardware and software components. I also write up problem tickets with server's hardware and software and get clearance for vendors to have access to the servers for hardware repair as well as scheduling times with local I.R.S. personal and vendor to accomplish the repairs. I make sure when new server are to be put on the Domain I do all of the appropriate paper work which includes requesting UWR's, KISAM asset management to include all of the new servers information from serial numbers, bar code, make, model and location just to name few of them. I also file out the Server Compliance checklist, software license forms. In addition, I image or re-image server with the proper Windows Operating System and software needed to run the server e.g. Contact Recording, Contact Analytics, TOS, RTS among other servers. I also monitor and respond to KISAM Tickets I also monitor HIDS, Symantec Anti-Virus programs are up to date and operational. Insure all Microsoft Windows patches are installed on servers. I make sure Altiris is installed and the endpoint is healthy and if not I make the necessary corrections. I run Windows Policy Checker to insure the server stays with IRS and Cyber Security Compliance. If there are any that is not in compliance, I make the necessary changes to bring them back into compliance. I create documents in Word and Power Point in referencing to problems that I have encountered during trouble shooting a situation for other's in my group in case they have similar situations or problems and put them in our group shared location on the network for all to read. I also have done short training on things that I have encountered or I had more knowledge than others in my group via OSC in sharing on my conference calls. TPF Operations Server (TOS) I am the main system administrator and my accomplishments that I achieved was to set up a single sign on BAG group, single sign on to the IMM, from un-secure IMM Web page to a secure Web page and brought it current with the Big Fix patching. Installing and maintaining software and hardware, controlling current versions in use and future release of application software, and documenting the physical configuration of the system. Optimizing the functionality of servers systems using performance tuning tools and techniques. Analyze and Diagnosing and recovering failed systems using systems diagnosis tools and fault identification techniques. Planning and coordinating the installation of new products or equipment, resolving installation problems, identifying and mitigating security vulnerabilities and risks, and maintaining server integrity and availability. Initiating corrective or preventive actions, such as increasing disk or memory capacity to improve system performance.
+- System Administrator :: My responsibilities were to assist public electronic filing programmers by analyzing, diagnosing and making proposals on error in software to getting there software to passing the IRS standards for electronic filing. I did this by using IRS IRM and thereby have them transmit standard test returns then I would have to print out there transmitted test returns and analyses and determine where there programming error's were and call them and communicate to them where the error occurred. They would make the correction and it would be accepted as an Electronic Filing Software Program. I also work closely with the electronic filing Tax Examiners in assisting the transmitters in problem solving their situation. Another responsibility I had was to have all of the data copied to a nine-track tape and processed on the mainframe computer from that output then we had to drain the information on to an archival system that allowed the authorized I.R.S employees to access the returns if a taxpayer had questions about their returns. I also helped my group to maintain our network and desktop computers. There were times we would lose connection to the network and we would have to use a network sniffer that would assist us on the type and location of the problem that needed to be fixed. I also would install updates to the workstations, as they became available to us thru download transmittal.
+- Information Technology Specialist :: Within my first 7 years I was able to go from a GS 3 Clerk position to the level of Systems Administrator GS -12 I achieved was to set up a single sign on BAG group, single sign on to the IMM, from un-secure IMM Web page to a secure Web page and brought it current with the Big Fix patching.
+
+## Skills:
+- Computers trouble shooting
+- Microsoft Access
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft Word
+- Computer Security
+- Anti Hacking
+- HIDS
+- Microsoft Event logging
+- Adobe
+
+## Sector:
+- Information Technology
+
+## Timeline:
+- JOB :: 07-2005 -- CURRENT :: System Administrator :: MEDIUM
+- JOB :: 01-1989 -- 04-2007 :: System Administrator :: MEDIUM
+- JOB :: 01-2013 -- 00-0000 :: Information Technology Specialist :: LOW
+- EDU :: 00-1983 :: BS : Sociology and Social Work Psychology :: LOW
+- EDU :: 00-1983 :: Sociology and Social Work Psychology :: LOW
+- AWD :: 08-2013 :: Performance Award :: LOW
+- AWD :: 08-2012 :: Performance Award :: LOW
+- AWD :: 08-2011 :: Performance Award :: LOW
+- AWD :: 08-2010 :: Performance Award :: LOW
+- AWD :: 08-2009 :: Performance Award :: LOW
+- AWD :: 08-2008 :: Performance Award :: LOW
+- AWD :: 04-2008 :: Special Act award :: LOW
+- EVE :: 04-06-2016 :: Cultural Competence and Effective Communication :: LOW
+- EVE :: 03-02-2016 :: "SKSIT Monitoring, Backups, and Recovery in Windows Server 2008" :: LOW
+- EVE :: 02-17-2016 :: SKSIT Software Updates and Compliance Management in Microsoft Windows Server 2008 :: LOW
+- EVE :: 12-18-2015 :: SKSIT Patch Management and Securing and Monitoring Servers in Windows Server 2008 :: LOW
+- EVE :: 12-11-2015 :: SKSBS IT Project Management Essentials: Monitoring and Controlling IT Projects :: LOW
+- EVE :: 12-11-2015 :: SKSBS IT Project Management Essentials: Executing IT Projects :: LOW
+- EVE :: 12-11-2015 :: SKSBS IT Project Management Essentials: Initiating and Planning IT Projects :: LOW
+- EVE :: 12-11-2015 :: SKSBS IT Project Management Essentials: Managing Risks in an IT Project :: LOW
+- EVE :: 12-10-2015 :: SKSBS IT Project Management Essentials: Introduction to IT Project Management :: LOW
+- EVE :: 12-10-2015 :: SKSBS Troubleshooting and Closing the Project :: LOW
+- EVE :: 12-10-2015 :: SKS-LLPKG PM Lite - A Blended Approach :: LOW
+- EVE :: 12-09-2015 :: SKSBS Managing a Project :: LOW
+- EVE :: 11-27-2015 :: SKSBS Transitioning into a Project Management Role :: LOW
+- EVE :: 11-13-2015 :: SKSBS Project Management Fundamentals :: LOW
+- EVE :: 11-12-2015 :: SKSBS Initiating and Planning a Project :: LOW
+- EVE :: 11-10-2015 :: SKSIT Windows Server 2008 Backup and Recovery :: LOW
+- EVE :: 01-14-2015 :: SKSIT Setting up and Securing Windows 7 :: LOW
+- EVE :: 01-07-2015 :: PSTR - FISMA Continuous Monitoring - ASCA Training :: LOW
+- EVE :: 10-16-2014 :: SKSIT SSCP Domain: Malicious Code :: LOW
+- EVE :: 01-07-2014 :: Configuration Management (CM) Overview (CBT) :: LOW
+- EVE :: 01-07-2014 :: Change Management Process Overview :: LOW
+- EVE :: 12-10-2013 :: SKSIT Windows Server 2008 Backup and Recovery :: LOW
+- EVE :: 12-06-2013 :: SKSIT Cisco IINS 2.0: VPN Technologies and Public Key Infrastructure :: LOW
+- EVE :: 12-05-2013 :: SKSIT Intrusion Detection and Response in Networked Environments :: LOW
+- EVE :: 11-23-2012 :: SKSIT 3G Communication Systems :: LOW
+- EVE :: 11-05-2012 :: 18640 SKSIT Securing WLANs :: LOW
+- EVE :: 10-30-2012 :: 27481 SKSIT Building and Securing VoIP Networks :: LOW
+- EVE :: 03-20-2012 :: 36542 SKSIT Protecting Windows 7 Against Malware and Vulnerabilities :: LOW
+- EVE :: 03-13-2012 :: 30688 SKSIT Physical Security :: LOW
+- EVE :: 02-03-2012 :: 14766 SKSIT FIREWALLS AND VPNS :: LOW
+- EVE :: 01-23-2012 :: 34601 KISAM Service Manager (SM) Overview :: LOW
+- EVE :: 09-27-2011 :: 31699 Adding of Assets in KISAM Asset Manager :: LOW
+- EVE :: 09-26-2011 :: 31856 Windows Server 2008 System Administration :: LOW
+- EVE :: 04-01-2011 :: 28902 STAN - Security Configurations for Windows 2003 Servers :: LOW
+- EVE :: 01-31-2011 :: 28801 "EOps Test Planning Procedures OS, Databases and COTS" :: LOW
+- EVE :: 01-20-2011 :: 14763 SKSIT (ANS) ENCRYPTION TECHNOLOGIES :: LOW
+- EVE :: 04-09-2010 :: 23796 SKSIT Intrusion Detection and Response in Networked Environments :: LOW
+- EVE :: 03-22-2010 :: 21797 SKSIT Introducing Voice Over IP :: LOW
+- EVE :: 04-15-2009 :: 21674 SKSIT Security and the Wireless Environment :: LOW
+- EVE :: 04-14-2009 :: 17090 SKSIT Wireless Communication Basics :: LOW
+- EVE :: 04-10-2009 :: 17623 SKSIT Auditing and Monitoring :: LOW
+- EVE :: 05-01-2008 :: 21597 SKSIT (ANS) The Fundamentals of Networking :: LOW
+- EVE :: 04-25-2008 :: 18287 SKSIT ITIL: Problem and Change Management :: LOW
+- EVE :: 04-24-2008 :: 18054 KARTA Introduction to the Certification & Accreditation Process :: LOW
+- EVE :: 04-12-2007 :: 18064 KARTA Information Security Awareness - Beginner :: LOW
+- EVE :: 04-11-2007 :: 13085 SKSBS BUILDING RELATIONSHIPS TO GET RESULTS :: LOW
+- EVE :: 08-03-2006 :: 14115 SKSIT INTERNET SECURITY: FIREWALL PRINCIPLES :: LOW
+- EVE :: 08-02-2006 :: 14025 SKSIT CISCO ROUTERS, FIREWALLS, AND PERIMETER SECURITY :: LOW
+- EVE :: 07-31-2006 :: 14780 SKSIT Wireless Security :: LOW
+- EVE :: 07-31-2006 :: 15248 WINDOWS SERVER 2003 ACTIVE DIRECTORY SERVICES :: LOW
+- EVE :: 04-07-2006 :: 17633 SKSIT Malicious Code :: LOW
+- EVE :: 03-24-2006 :: 18035 KARTA Technical Controls :: LOW
+- EVE :: 03-23-2006 :: 18041 KARTA Risk Management :: LOW
+- EVE :: 03-22-2006 :: 18034 KARTA Operational Controls :: LOW
+- EVE :: 03-17-2006 :: 18004 KARTA Principles of Operating Systems Security :: LOW
+- EVE :: 03-17-2006 :: 18033 KARTA Management Controls :: LOW
+- EVE :: 03-16-2006 :: 17996 KARTA IT Security Awareness - Intermediate :: LOW
+- EVE :: 03-15-2006 :: 18076 KARTA FISMA: Establishing Security Metrics :: LOW
+- EVE :: 03-14-2006 :: 18064 KARTA Information Security Awareness - Beginner :: LOW
+- EVE :: 03-14-2006 :: 18060 KARTA Implementing Physical Security :: LOW
+- EVE :: 12-16-2005 :: 15225 Firewalls and Internet Security :: LOW
+- EVE :: 03-2009 :: 21674 SKSIT Security and the Wireless Environment :: LOW

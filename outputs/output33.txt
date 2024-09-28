@@ -1,0 +1,118 @@
+## Education:
+- Certified Public Accountant (CPA) :: Boston, MA
+- CPA Candidate :: University of Mumbai
+- LLB : Law :: City India
+- Company Secretary :: Institute of Company Secretaries of India (ICSI)
+- Bachelors : Commerce :: University of Mumbai
+
+## Experience:
+- Accountant :: Implemented Quickbooks Accounting v. 2013 and 2016 for all the Companies including but not limited to chart of accounts. Implemented Quicbooks payroll v.2016 from scratch Working on processing of journal entries, accounts payable & receivables using Prosystems software. Bookkeeping of small and midsized companies Worked on bank reconciliation, cash management and financial statements analysis. Preparation and finalization of federal and multi state tax returns for Individuals & Corporate using Lacerte software. Worked on preparing and processing payroll returns and sales and use tax returns Worked on preparation of W2's and 1099. Lead in finalizing monthly and yearly accounting closing entries. Perform MS Office Excel spreadsheets and databases for financial reporting for financial reporting. In process of learning VLookup and Pivot table.
+- Working on processing of accounting entries. :: 
+- SAP Consultant :: Configured G/L Masters, Accounts Payable, Accounts Receivable, Cash Journals, House banks, Chart of Accounts, Posting Keys, Customer/Vendor Accounts Groups, & Customer/ Vendor Masters Creation. Created Input /Output Tax & Withholding Tax, Company Specific Code (Z Code), COPA (Costing Based Profitability Analysis) & Number Ranges. Defined Fiscal year variant, Posting periods, Tolerance groups, Document types & number ranges. Worked on creation of new Vendor Account & Vendor Master & created monthly MIS reports. Posted Incoming Invoice & made payments.
+- Financial Analyst :: Worked with multiple clients performing two part role: as an auditor & tax preparation. Conducted Audit for various clients. Identified key operational risk factors of clients and suggested focus approach to mitigate the risk. Carried analytical procedures like comparing financial ratios to industry standards to evaluate performance. Reconciled sub-ledger & general ledger account balance. Performed due diligence for a private equity client to understand & evaluate a potential business. Lead for a project of Private Equity which involved work like setting up Companies & LLP's, preparing structure of the entities & valuation report, valuation of funds & client coordination. Prepared, Finalized & filed tax returns. Prepared & Reconciled journal entries, balance sheets & Income statement of various clients. Maintained accurate account & data reconciliation including sub-ledgers, journals & other financial documents. Lead as a coordinator with the internal auditors of various clients. Overviewed day to day operations of finance & secretarial department. Involved in recruiting, training, supervising & evaluating department staff.
+- Accountant :: Reconciled journal entries & lead as coordinator with the internal audit team. Worked on Merger/Amalgamation, prepared agenda, notice, annual reports to compile Annual Account Prepared balance sheets & Income statement of various group companies. Worked as a liaison officer for Stock Exchange, Bankers, Solicitors & other external regulators/government bodies for mergers/acquisitions, agreements, dematerialization of shares. Worked as a legal member in preparation of Code of Conduct for a company & Drafting Agreements. Interacting with clients to resolve their complex issues & guide on tax planning & business valuations. Worked as a Support Officer to redress investor grievances. Worked as a team leader in preparation of MIS Reports /control charts for shareholding pattern & directorship details for Foreign Companies.
+
+## Skills:
+- Accounting
+- accountspayable
+- AccountsPayable
+- AccountsReceivable
+- acquisitions
+- Adobe
+- approach
+- Auditing
+- TrialBalance
+- balance
+- BalanceSheet
+- balancesheets
+- BankReconciliation
+- Bookkeeping
+- BusinessCommunication
+- BusinessDevelopment
+- BusinessLaw
+- BusinessManagement
+- cashmanagement
+- charts
+- closing
+- CorporateAccounting
+- CostAccounting
+- Costing
+- CertifiedPublicAccountant
+- CPA
+- client
+- Clients
+- CustomerRelations
+- databases
+- Dec
+- Drafting
+- DueDiligence
+- Economics
+- Equity
+- ExpenseReports
+- Filing
+- finance
+- Financial
+- FinancialAccounting
+- financialreporting
+- financialstatements
+- focus
+- Forex
+- funds
+- GeneralLedger
+- government
+- InformationTechnology
+- IntellectualProperty
+- internalaudit
+- Interpretation
+- Lacerte
+- teamleader
+- Teambuilding
+- ledger
+- Law
+- legal
+- MA
+- mergers
+- Excelspreadsheets
+- Excel
+- Exchange
+- MSOffice
+- PowerPoint
+- Word
+- MIS
+- processingpayroll
+- payrollv
+- Pivottable
+- Processes
+- QuickBooks
+- QuickbooksAccountingv
+- recruiting
+- Reporting
+- sales
+- SAPR/3
+- Secretarial
+- Spreadsheets
+- StaffSupervision
+- supervising
+- TaxLaws
+- taxplanning
+- Tax
+- taxpreparation
+- taxreturns
+- Treasury
+- Valuation
+- annualreports
+
+## Sector:
+- Accounting
+
+## Timeline:
+- JOB :: 09-2014 -- CURRENT :: Accountant :: MEDIUM
+- JOB :: 04-2014 -- 11-2014 :: Working on processing of accounting entries. :: LOW
+- JOB :: 06-2013 -- 11-2013 :: SAP Consultant :: MEDIUM
+- JOB :: 02-2011 -- 05-2013 :: Financial Analyst :: MEDIUM
+- JOB :: 04-2009 -- 12-2010 :: Accountant :: MEDIUM
+- EDU :: 00-0000 -- CURRENT :: Certified Public Accountant (CPA) :: LOW
+- EDU :: 00-0000 -- CURRENT :: CPA Candidate :: LOW
+- EDU :: 00-0000 -- 00-0000 :: LLB : Law :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Company Secretary :: LOW
+- EDU :: 00-0000 -- 00-0000 :: Bachelors : Commerce :: LOW
