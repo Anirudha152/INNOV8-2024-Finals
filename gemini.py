@@ -20,7 +20,7 @@ theta = SentenceTransformer("mixedbread-ai/mxbai-embed-large-v1")
 
 
 def delimiter(phraset):
-    l0=1
+    l0 = 1
     for i in range(3):
         if phraset[i][1]>0.62:
             l0 += 1
@@ -39,8 +39,8 @@ def delimiter(phraset):
     return [i1, i2, i3]
 
 
-def phrases_by_relevance(text, prompt):
-    qembed = theta.encode([prompt])
+def phrases_by_relevance(text, prompts):
+    qembed = theta.encode([*prompts])
     embeddings = theta.encode(text)
     result = [tensor.item() for tensor in list(cos_sim(qembed, embeddings)[0])]
     phraset = [(text[i], result[i]) for i in range(len(text))]
@@ -63,13 +63,26 @@ def pdf_to_text(pdf):
 
 
 def process_pdf():
+    print("HI")
     context = pdf_to_text('Final_Resumes/Resume_of_ID_0.pdf')
     modified_pdf_files = []
-    phraset = phrases_by_relevance(context, "Timeline")
+    phraset = phrases_by_relevance(context, ["01/0001 to 02/0002"])
     print('Passing these relevant texts to limiter:', phraset)
     classified = delimiter(phraset)
     print('importance order:', classified)
     print(phraset)
+    while True:
+        array = []
+        while True:
+            p = input()
+            if p == 'e':
+                break
+            array.append(p)
+        phraset = phrases_by_relevance(context, array)
+        print('Passing these relevant texts to limiter:', phraset)
+        classified = delimiter(phraset)
+        print('importance order:', classified)
+        print(phraset)
 
 
 process_pdf()
