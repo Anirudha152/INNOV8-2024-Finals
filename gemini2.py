@@ -15,7 +15,14 @@ bloat = {'per', 'and', 'but', 'the', 'for', 'are', 'was', 'were', 'be', 'been', 
          'any', 'these', 'give', 'day', 'most'}
 load_dotenv()
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
-genai.configure(api_key="AIzaSyByDgOMLXr-GmeHSX4Frah3LrQ8FXca49U")
+if not GEMINI_API_KEY:
+    print('Warning: GEMINI_API_KEY not set in environment; gemini2.py will likely fail without it.')
+# Configure the genai client with the API key from environment (no hardcoded keys)
+try:
+    genai.configure(api_key=GEMINI_API_KEY)
+except Exception:
+    # If configuration fails (for example when GEMINI_API_KEY is None), continue; model calls will error at runtime
+    pass
 # oracle = pipeline("question-answering", model="deepset/roberta-base-squad2")
 # theta = SentenceTransformer("mixedbread-ai/mxbai-embed-large-v1")
 

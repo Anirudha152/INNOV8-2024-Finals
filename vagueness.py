@@ -1,6 +1,14 @@
 import os
-import fitz
+from dotenv import load_dotenv
 from groq import Groq
+
+load_dotenv()
+GROQ_API_KEY = os.getenv('GROQ_API_KEY')
+if not GROQ_API_KEY:
+    print('Warning: GROQ_API_KEY not set in environment; vagueness.py will likely fail without it.')
+
+# Create the Groq client using the API key from environment
+client = Groq(api_key=GROQ_API_KEY)
 
 printable = set(list(' ,0123456789-=~!@#$%^&*()_+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,:;"\'/\n[]\\{}|?><.'))
 bloat = {'per', 'and', 'but', 'the', 'for', 'are', 'was', 'were', 'be', 'been', 'with', 'you', 'this', 'but', 'his',
@@ -22,8 +30,6 @@ def pdf_to_text(pdf):
     return [k for k in texta if len(k) > 2 and not k.isspace() and k not in bloat]
 
 def process_all_pdfs_in_folder():
-    client = Groq(api_key="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")
-
     folder_path = 'D:/app/REC'  # Adjust path to your folder
     output_folder = 'D:/app/lor_outputs'
     
